@@ -1,0 +1,111 @@
+project:
+  type: book
+  output-dir: docs
+
+execute:
+  echo: true
+  warning: false
+  output: false
+  
+book:
+  title: "Essential Websites for Learning Digital Skills and Biotechnology"
+  subtitle: ""
+  image: essential_websites_cover.png
+  author: "William Okech"
+  date: 04/04/2024
+  reader-mode: true
+
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: "G-9WD4X1TR0R"
+    anonymize-ip: true
+
+  page-footer:
+    left: |
+      Essential Websites for Learning Digital Skills and Biotechnology" (1e) was written by William Okech.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  
+  cover-image: essential_websites_cover.png
+  favicon: essential_websites_cover.png
+  #site-url: 
+  repo-url: .com
+  repo-branch: main
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: resources/programming/programming.qmd
+      chapters: 
+        - resources/programming/r_rstudio.qmd
+        - resources/programming/python.qmd
+        - resources/programming/quarto.qmd
+        - resources/programming/git_hub_cl_sql.qmd
+    - part: resources/ds_ml_ai/ds_ml_ai.qmd
+      chapters: 
+        - resources/ds_ml_ai/ds_ml_ai_all.qmd
+        - resources/ds_ml_ai/statistics.qmd
+        - resources/ds_ml_ai/datasets.qmd
+        - resources/ds_ml_ai/ds_sports.qmd
+        - resources/ds_ml_ai/soc_med_music_analysis.qmd
+        - resources/ds_ml_ai/ds_interview.qmd
+    - part: resources/data_viz/ds_viz.qmd
+      chapters: 
+        - resources/data_viz/ds_viz_general.qmd
+        - resources/data_viz/ds_viz_r.qmd
+        - resources/data_viz/ds_viz_py.qmd
+        - resources/data_viz/ds_viz_tableau.qmd
+        - resources/data_viz/ds_journalism.qmd
+    - part: resources/gen_ai_llms/gen_ai_llms.qmd
+      chapters: 
+        - resources/gen_ai_llms/gen_ai_llms_pt_1.qmd
+    - part: resources/teaching/teach_res.qmd
+      chapters: 
+        - resources/teaching/gen_teach_resources.qmd
+        - resources/teaching/rstudio_carpentries_cert.qmd
+        - resources/teaching/writing.qmd
+    - part: resources/biox/biox.qmd
+      chapters: 
+        - resources/biox/bioinf.qmd
+        - resources/biox/biomech_sports_be.qmd
+        - resources/biox/biotech_startup.qmd
+        - resources/biox/opensource_bio.qmd
+        - resources/biox/biomed_image_microscopy.qmd
+    - part: resources/readings/readings.qmd
+      chapters: 
+        - resources/readings/reading_stem.qmd
+        - resources/readings/reading_general.qmd
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-link: true
+    toc: true
+    toc-depth: 3
+    lof: true
+    lot: true
+    number-sections: true
+    number-depth: 4
+    colorlinks: true
+    highlight-style: github
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    toc-depth: 3
+    lof: true
+    lot: true
+    number-sections: true
+    number-depth: 4
+    colorlinks: true
+    highlight-style: github
+  epub: default
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
+editor: visual
+

@@ -1,0 +1,34 @@
+# Introduction {.unnumbered}
+
+## Why did I write this book?
+
+This book is primarily intended to provide links to essential websites for learning digital skills and biotechnology. It is hoped that the websites provided will reduce the time spent by readers searching for relevant information in the fields of programming, data science, data visualization, and biotechnology. Additionally, I have provided some bonus readings for STEM graduate students and the general public. 
+
+## About the author
+
+The author of this book is a Certified Carpentries instructor and a trainer with the Digital Research Academy. Additionally, the author holds a PhD in Biomedical Engineering and has completed postdoctoral fellowships in vascular biology and infectious diseases. Lastly, the author is passionate about using R and RStudio to generate data-driven visualizations to allow for a more in-depth understanding of public policy issues.
+
+## Topics Covered
+
+i. Programming
+
+ii. Data Science, Machine Learning, and Artificial Intelligence
+
+iii. Data Visualization
+
+iv. Generative AI and Large Language Models
+
+v. General Teaching Resources
+
+vi. Biotechnology
+
+vii. Recommended Readings
+
+## Feedback
+
+Feedback can be provided using a GitHub pull request: [Link](https://github.com/wokech/essential_websites)
+
+## Summary
+
+Overall, I believe that this book will increase both the knowledge and confidence levels of novice programmers and allow them to perform basic statistical analysis and simplify everyday computational tasks at home or in their workplaces. In the next chapter, I will provide a basic overview of the R and RStudio ecosystem.
+
