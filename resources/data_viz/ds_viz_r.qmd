@@ -3,7 +3,7 @@ title: "Data Visualization (R)"
 toc: true
 ---
 
-This page contains a list of resources focused on data visualization in R. There are links to books, templates, tutorials, and courses. Additionally, for those interested in using coding for art, there is a section on \"Data aRtistry.\"
+This page contains a list of resources focused on data visualization in R. There are links to books, templates, tutorials, and courses. Additionally, for those interested in using coding for art, there is a section on "Data aRtistry."
 
 ## Curated Links by other data viz specialists
 
@@ -55,7 +55,7 @@ This page contains a list of resources focused on data visualization in R. There
 5)  [Getting started with data visualization in R using ggplot2](https://www.storybench.org/getting-started-data-visualization-r-using-ggplot2/)
 6)  [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 7)  [A ggplot2 Tutorial for Beautiful Plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
-8)  [R you ready to make charts?](https://www.williamrchase.com/slides/ggplot_intro.html#1)
+8) [ggplot2tutor](https://ggplot2tutor.com/)
 9)  [The ggplot flibbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
 10) [Getting started with data visualization in R using ggplot2](https://www.storybench.org/getting-started-data-visualization-r-using-ggplot2/)
 11) [ggplot2: Mastering the basics](https://www.rebeccabarter.com/blog/2017-11-17-ggplot2_tutorial/)
@@ -65,7 +65,6 @@ This page contains a list of resources focused on data visualization in R. There
 15) [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 16) [The Good, the Bad and the Ugly: how (not) to visualize data](https://shirinsplayground.netlify.app/2020/10/goodbadugly/)
 17) [Six things I always Google when using ggplot2](https://ivelasq.rbind.io/blog/things-i-google/)
-18) [ggplot2tutor](https://ggplot2tutor.com/)
 
 ### Troubleshooting
 
@@ -127,7 +126,7 @@ This page contains a list of resources focused on data visualization in R. There
 1)  [Can I do that? Inspiration from a Pudding data visualization](https://austinwehrwein.com/data-visualization/winningest/)
 2)  [Visualizing the heterogeneity of single cell data from time-lapse imaging](https://thenode.biologists.com/visualizing-heterogeneity-of-imaging-data/research/)
 3)  [the seven living generations in America](https://www.jtimm.net/posts/seven-generations/)
-4)  [this old house](https://www.jtimm.net/posts/this-old-house/)
+4)  [William Chase - Data Viz Projects](https://www.williamrchase.com/projects)
 5)  [Visualizing real house price plots](http://lenkiefer.com/2022/05/30/2022-05-30-real-hpi-plots/)
 6)  [State Unemployment Claims](https://rviews.rstudio.com/2020/04/16/state-unemployment-claims/)
 7)  [A look into U.S. infectious diseases](https://austinwehrwein.com/data-visualization/diseases/)
@@ -140,7 +139,6 @@ This page contains a list of resources focused on data visualization in R. There
 14) [Visualizing Time Series](https://tsggplot.netlify.app/#1)
 15) [Visualising high-dimensional data](https://github.com/dicook/useR2019_highd_vis)
 16) [Data Storytelling in R](https://posit.co/blog/how-i-use-stories-to-share-data-at-meetings/)
-17) [William Chase - Data Viz Projects](https://www.williamrchase.com/projects)
 
 ## Data aRtistry
 
@@ -153,4 +151,3 @@ This page contains a list of resources focused on data visualization in R. There
 7)  [Unpredictable paintings](https://blog.djnavarro.net/posts/2021-11-01_unpredictable-paintings/)
 8)  [Mystery curves](https://georgemsavva.github.io/creativecoding/posts/mystery/)
 9)  [Flow Fields](https://tylerxhobbs.com/essays/2020/flow-fields)
-10) [HOW TO WORK WITH FLOW FIELDS IN R](https://jiwanheo.rbind.io/post/2021-09-17-how-to-work-with-flow-fields-in-r/)

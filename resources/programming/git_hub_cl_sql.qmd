@@ -36,8 +36,7 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 ### Git Troubleshooting
 
 1)  [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
-2)  [git pretty](http://justinhileman.info/article/git-pretty/)
-3)  [Fixing Common Git Mistakes](https://maggieappleton.com/git-mistakes)
+2)  [Fixing Common Git Mistakes](https://maggieappleton.com/git-mistakes)
 
 ## GitHub
 

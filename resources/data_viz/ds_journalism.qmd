@@ -28,14 +28,13 @@ A listing of data journalism practitioners and companies to follow:
 ### Writing
 
 1)  [Interrogating Data: A Science Writer's Guide to Data Journalism](https://www.theopennotebook.com/2020/07/28/interrogating-data-a-science-writers-guide-to-data-journalism/)
-2)  [The Beginning, The Middle, & The New Beginning](https://old.duncangeere.com/newbeginning/)
+2)  [Dueling Data](http://duelingdata.blogspot.com/)
 3)  [How data journalists create beautiful feature stories](https://shorthand.com/the-craft/how-data-journalists-create-beautiful-feature-stories/index.html)
 4)  [A data journalist's guide to building a hypothesis](https://datajournalism.com/read/longreads/hypothesis-data-journalism)
 5)  [Flowing Data Story Formats](https://flowingdata.com/2019/06/17/story-formats-for-data/)
 6)  [Telling Stories With Data: A Simple Math Guide](https://medium.datadriveninvestor.com/journalism-in-the-data-driven-world-a-simple-math-guide-32d106fc3041)
 7)  [Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
 8)  [Putting data back into context](https://datajournalism.com/read/longreads/putting-data-back-into-context)
-9)  [Dueling Data](http://duelingdata.blogspot.com/)
 
 ### Tools
 
@@ -55,14 +54,13 @@ A listing of data journalism practitioners and companies to follow:
 1)  [Global Investigative Journalism Network Data Journalism](https://gijn.org/data-journalism/)
 2)  [ProPublica Data Institute 2018](https://github.com/propublica/data-institute-2018)
 3)  [ProPublica Data Institute 2019](https://github.com/propublica/data-institute-2019)
-4)  [SIGMA Awards](https://sigmaawards.org/projects/)
+4) [Google News Initiative](https://newsinitiative.withgoogle.com/resources/journalism/data-journalism/)
 5)  [Knight Foundation: Misinformation](https://knightfoundation.org/features/misinfo/)
 6)  [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/)
 7)  [Fake News Public Data Lab](https://fakenews.publicdatalab.org/)
 8)  [AP DataKit](http://datakit.ap.org/)
 9)  [Data Journalism Grants](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/data-journalism-grants)
 10) [A community conference for data makers everywhere](https://csvconf.com/)
-11) [Google News Initiative](https://newsinitiative.withgoogle.com/resources/journalism/data-journalism/)
 
 ## Data Stories (Longform and In-depth articles)
 
@@ -85,7 +83,7 @@ A listing of data journalism practitioners and companies to follow:
 5)  [ONE NATION, TRACKED](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
 6)  [Life in the camps](http://fingfx.thomsonreuters.com/gfx/rngs/MYANMAR-ROHINGYA/010051VB46G/index.html)
 7)  [Life in Hong Kong's shoebox housing](https://multimedia.scmp.com/infographics/news/hong-kong/article/3180601/subdivided-flats/index.html)
-8)  [The Airbnb effect](https://www.sfchronicle.com/airbnb-impact-san-francisco-2015/)
+8)  [The Facebook Scandal](https://www.liip.ch/en/blog/the-facebook-scandal-or-how-to-predict-psychological-traits-from-facebook-likes)
 9)  [NSA Files Decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1)
 10) [The Deadliest Jobs in America](https://www.bloomberg.com/graphics/2015-dangerous-jobs/)
 11) [Congressional Tweets](https://congress.pudding.cool/)
@@ -95,4 +93,3 @@ A listing of data journalism practitioners and companies to follow:
 15) [The use of political ads on facebook in the run-up to the European Parliament elections 2019 in Austria](https://rpubs.com/zoowalk/FB_EP2019/)
 16) [What the Democratic Presidential Candidates Care About, in 44,000 Tweets](https://www.bloomberg.com/graphics/2020-democratic-presidential-candidate-policies/)
 17) [How many high school stars make it in the NBA?](https://pudding.cool/2019/03/hype/)
-18) [The Facebook Scandal](https://www.liip.ch/en/blog/the-facebook-scandal-or-how-to-predict-psychological-traits-from-facebook-likes)

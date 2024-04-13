@@ -28,7 +28,7 @@ This page provides a comprehensive collection of resources on statistics. Includ
 
 1)  [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110)
 2)  [Statistical Computing](https://www.stephaniehicks.com/jhustatcomputing2022/schedule)
-3)  [BIOLOGY FOR LIFE](https://www.biologyforlife.com/statistics.html)
+3) [The Grammar of Experimental Design](https://emitanaka.org/slides-useR2021/#1)
 4)  [Program Evaluation for Public Service and Research Design](https://evalsp20.classes.andrewheiss.com/)
 5)  [STA 363: Statistical Learning](https://sta-363-s20.lucymcgowan.com/)
 6)  [STA 312: Linear Models](https://sta-312-f20.netlify.app/)
@@ -36,7 +36,6 @@ This page provides a comprehensive collection of resources on statistics. Includ
 8)  [Statistics 431: Advanced Statistical Computing with R](https://cal-poly-advanced-r.github.io/STAT-431/)
 9)  [GUide to STatistical Analysis in Microbial Ecology (GUSTA ME)](https://sites.google.com/site/mb3gustame/)
 10) [Regression Modelling in R](https://chrismainey.github.io/Regression_Modelling_NHSR/Regression_modelling#1)
-11) [The Grammar of Experimental Design](https://emitanaka.org/slides-useR2021/#1)
 
 ### Tutorials
 

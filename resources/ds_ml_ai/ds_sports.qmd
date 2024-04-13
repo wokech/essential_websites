@@ -27,14 +27,13 @@ This page provides a comprehensive collection of resources on sports data scienc
 10) [The Come on Man](https://thecomeonman.github.io/)
 11) [The Last Man Analytics](https://thelastmananalytics.home.blog/)
 12) [Analytics FC](https://analyticsfc.co.uk/)
-13) [Brendan Kent](https://www.brendankent.com/blog)
+13) [11v11](https://www.11v11.com/)
 14) [WyScout](https://footballdata.wyscout.com/)
 15) [Biscuit Chaser FC](https://biscuitchaserfc.blogspot.com/)
 16) [StatsBomb](https://statsbomb.com/what-we-do/hub/)
 17) [EightyFivePoints](https://eightyfivepoints.blogspot.com/)
 18) [Owen Thompson](https://otstats.github.io/)
 19) [Tony El Habr](https://tonyelhabr.rbind.io/index.html)
-20) [11v11](https://www.11v11.com/)
 
 ### Basketball Analytics
 
@@ -126,7 +125,7 @@ This page provides a comprehensive collection of resources on sports data scienc
 
 #### Soccer
 
-1)  [A Beginner's Introduction to Mixed Effects Models in Sport](https://meghan.rbind.io/blog/2022-06-28-a-beginner-s-guide-to-mixed-effects-models/)
+1) [Adding Football Crests to Scatter Plots in R](https://dm13450.github.io/2021/02/01/PointsToImages.html)
 2)  [How Our Club Soccer Predictions Work](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/)
 3)  [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football)
 4)  [Data in Elite Sport](https://jacquietran.github.io/2019_may_rladies_akl/R/#1)
@@ -144,9 +143,8 @@ This page provides a comprehensive collection of resources on sports data scienc
 16) [Visualizing the Premier League](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
 17) [Fitting your own football xG model](https://www.datofutbol.cl/xg-model/)
 18) [PassSonar](https://github.com/etmckinley/PassSonar)
-19) [Adding Football Crests to Scatter Plots in R](https://dm13450.github.io/2021/02/01/PointsToImages.html)
+
 
 #### Basketball
 
-1)  [How to make NBA shots charts in R](https://www.owenlhjphillips.com/new-blog/2020/6/25/how-to-make-nba-shots-charts-in-r)
-2)  [Animating NBA Play by Play using R](http://curleylab.psych.columbia.edu/nba.html)
+Coming soon...

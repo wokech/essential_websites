@@ -56,5 +56,4 @@ This page provides a comprehensive collection of resources on datasets that can 
 12) [15 Open Datasets for Healthcare](https://odsc.medium.com/15-open-datasets-for-healthcare-830b19980d9)
 13) [Demographic and Health Surveys](https://dhsprogram.com/data/available-datasets.cfm)
 14) [FiveThirtyEight Data](https://data.fivethirtyeight.com/)
-15) [Jo Hardin Datasets](https://hardin47.netlify.app/courses/data/)
-16) [StatsBomb Open Data](https://github.com/statsbomb/open-data)
+15) [StatsBomb Open Data](https://github.com/statsbomb/open-data)

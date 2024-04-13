@@ -45,8 +45,7 @@ More to come...
 6)  [Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
 7)  [R4theRestofUs](https://rfortherestofus.com/resources/)
 8)  [EDUCATORS R LEARNERS](https://educators-r-learners.netlify.app/resources/)
-9)  [R Resources](https://thelittledataset.com/data_code/)
-10) [R and Data Mining](https://www.rdatamining.com/)
+9) [R and Data Mining](https://www.rdatamining.com/)
 
 ### Books
 
@@ -75,7 +74,7 @@ More to come...
 23) [An Introduction to R](https://intro2r.com/)
 24) [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 25) [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
-26) [Twitter for R programmers](https://www.t4rstats.com/)
+26) [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 27) [Modern Dive](https://moderndive.com/1-getting-started.html)
 28) [Advanced R](https://adv-r.hadley.nz/)
 29) [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
@@ -218,14 +217,12 @@ More to come...
 3)  [Reshaping data frames using pivot functions from {tidyr} and tally from {dplyr}](https://tidytuesday.netlify.app/posts/2022-07-05-sf-rents/)
 4)  [Finding the modal school district](https://ivelasq.rbind.io/blog/modal-district/)
 5)  [Teaching the tidyverse in 2021](https://www.tidyverse.org/blog/2021/08/teach-tidyverse-2021/#new-teaching-and-learning-resources)
-6)  [Tidy analysis of cocktails - Part I -- EDA](https://www.martincadek.com/posts/tidy-analysis-of-cocktails-part-i/)
-7)  [Tidy analysis of cocktails - Part II - Exploratory k-means clustering](https://www.martincadek.com/posts/tidy-analysis-cocktails-part-ii/)
+6)  [Data manipulation with the tidyverse](https://evamaerey.github.io/data_manipulation/about)
+7)  [The TidyVerse in Action](https://evamaerey.github.io/tidyverse_in_action/tidyverse_in_action.html#1)
 8)  [Transitioning into the tidyverse (part 1)](https://www.rebeccabarter.com/blog/2019-08-05_base_r_to_tidyverse/)
 9)  [Transitioning into the tidyverse (part 2)](https://www.rebeccabarter.com/blog/2019-08-05_base_r_to_tidyverse_pt2/)
 10) [Introduction to using Databases in R, with Tidyverse tools](https://sciencificity.github.io/saf-workshop-r-and-sql/#1)
 11) [Wrangling penguins: some basic data wrangling in R with dplyr](https://allisonhorst.shinyapps.io/dplyr-learnr/#section-welcome)
-12) [Data manipulation with the tidyverse](https://evamaerey.github.io/data_manipulation/about)
-13) [The TidyVerse in Action](https://evamaerey.github.io/tidyverse_in_action/tidyverse_in_action.html#1)
 
 ## Tidymodels in R
 

@@ -15,7 +15,6 @@ This page provides a list of tutorials, resources and study notes for RStudio an
 4)  [RStudio Sample Exams](https://education.rstudio.com/blog/2020/08/more-example-exams/)
 5)  [Miscellaneous Teaching Notes 1](https://docs.google.com/document/d/17mDR_Tup5aSA_Qc2HZaFB8TloGDDUnjxnD4bPWdkseA/edit)
 6)  [Miscellaneous Teaching Notes 2](https://docs.google.com/document/d/1uEWz_dMtky2Zjrq8CMFL7Zls-55Ig8KrrdVGwSiw3PI/edit)
-7)  [RStudio Instructor Training](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY)
 
 ### Study notes from RStudio Certified Trainers
 
