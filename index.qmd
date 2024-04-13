@@ -7,3 +7,5 @@ This is the website for the book “Essential Websites for Learning Digital Skil
 Cover image was designed using [Canva](https://www.canva.com/).
 
 This book was built with [Quarto](https://quarto.org/).
+
+**NB: The contents of this book will be passed through a dead link checker periodically to eliminate any links that are no longer valid**
