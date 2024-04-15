@@ -125,7 +125,7 @@ This page provides a comprehensive collection of resources on sports data scienc
 
 #### Soccer
 
-1) [Adding Football Crests to Scatter Plots in R](https://dm13450.github.io/2021/02/01/PointsToImages.html)
+1)  [Adding Football Crests to Scatter Plots in R](https://dm13450.github.io/2021/02/01/PointsToImages.html)
 2)  [How Our Club Soccer Predictions Work](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/)
 3)  [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football)
 4)  [Data in Elite Sport](https://jacquietran.github.io/2019_may_rladies_akl/R/#1)
@@ -143,7 +143,6 @@ This page provides a comprehensive collection of resources on sports data scienc
 16) [Visualizing the Premier League](https://ryo-n7.github.io/2019-11-21-visualize-EPL-part-1/)
 17) [Fitting your own football xG model](https://www.datofutbol.cl/xg-model/)
 18) [PassSonar](https://github.com/etmckinley/PassSonar)
-
 
 #### Basketball
 
