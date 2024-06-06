@@ -74,10 +74,6 @@ book:
         - resources/biox/biotech_startup.qmd
         - resources/biox/opensource_bio.qmd
         - resources/biox/biomed_image_microscopy.qmd
-    - part: resources/readings/readings.qmd
-      chapters: 
-        - resources/readings/reading_stem.qmd
-        - resources/readings/reading_general.qmd
 bibliography: references.bib
 
 format:
