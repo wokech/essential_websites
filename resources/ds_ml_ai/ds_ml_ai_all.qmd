@@ -19,7 +19,6 @@ This page provides a comprehensive collection of resources on data science, mach
 8)  [Computing for Information Science](https://info5940.infosci.cornell.edu/)
 9)  [Data Science Learning Path For Complete Beginners](https://www.datasciencecentral.com/data-science-learning-path-for-complete-beginner/)
 
-
 ### Books
 
 1)  [54 Best Data Science Books in 2023](https://www.dataquest.io/blog/data-science-books/)
@@ -82,6 +81,9 @@ This page provides a comprehensive collection of resources on data science, mach
 25) [Azure Machine Learning](https://cloudacademy.com/blog/azure-machine-learning/)
 26) [Google Prediction API](https://cloudacademy.com/blog/google-prediction-api/)
 27) [BigML](https://cloudacademy.com/blog/bigml-machine-learning/)
+28) [Supervised Machine Learning for Science](https://ml-science-book.com/)
+29) [Feature Engineering A-Z](https://feaz-book.com/)
+
 
 ### Tutorials, Resources, and Projects
 
@@ -188,12 +190,6 @@ This page provides a comprehensive collection of resources on data science, mach
 5)  [Neural Network Playground](http://playground.tensorflow.org/)
 6)  [fast.ai---Making neural nets uncool again](https://www.fast.ai/)
 7)  [Predictive Hacks](https://predictivehacks.com/)
-
-## Reproducibility
-
-1)  [The Reproducibility Crisis in ML‑based Science](https://sites.google.com/princeton.edu/rep-workshop/)
-2)  [Leakage and the Reproducibility Crisis in ML-based Science](https://reproducible.cs.princeton.edu/)
-3)  [Data leakage causes reproducibility failures in ML-based science](https://reproducible.cs.princeton.edu/#rep-failures)
 
 ## Health
 

@@ -45,16 +45,16 @@ More to come...
 6)  [Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
 7)  [R4theRestofUs](https://rfortherestofus.com/resources/)
 8)  [EDUCATORS R LEARNERS](https://educators-r-learners.netlify.app/resources/)
-9) [R and Data Mining](https://www.rdatamining.com/)
+9)  [R and Data Mining](https://www.rdatamining.com/)
 
 ### Books
 
 1)  [R4DataScience](https://r4ds.had.co.nz/)
 2)  [R4DataScience - Solutions](https://jrnold.github.io/r4ds-exercise-solutions/)
-3)  [R Workflow A](https://hbiostat.org/rflow/)
-4)  [R Workflow B](https://www.fharrell.com/post/rflow/)
-5)  [Urban Informatics](https://ui.josiahparry.com/)
-6)  [Modern Statistics with R](https://modernstatisticswithr.com/)
+3)  [R4DataScience, 2nd Edition](https://r4ds.hadley.nz/)
+4)  [R Workflow A](https://hbiostat.org/rflow/)
+5)  [R Workflow B](https://www.fharrell.com/post/rflow/)
+6) [What They Forgot to Teach You About R](https://rstats.wtf/)
 7)  [R for Researchers: An Introduction](https://tysonbarrett.com/Rstats/index.html)
 8)  [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 9)  [Reproducible Analytical Pipelines - Master's of Data Science](https://rap4mads.eu/)
@@ -80,6 +80,11 @@ More to come...
 29) [Yet Again: R + Data Science](https://yards.albert-rapp.de/)
 30) [Public Policy Analytics](https://github.com/urbanSpatial/Public-Policy-Analytics-Landing)
 31) [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+32) [Deep R Programming](https://deepr.gagolewski.com/)
+33) [Urban Informatics](https://ui.josiahparry.com/)
+34) [Mastering Spark with R](https://therinspark.com/)
+35) [Modern Statistics with R](https://modernstatisticswithr.com/)
+36) [R for the Rest of Us: A Statistics-Free Introduction](https://book.rfortherestofus.com/)
 
 ### R and GPT
 
@@ -163,6 +168,7 @@ More to come...
 54) [Manipulating Data with dplyr](https://www.dominodatalab.com/blog/manipulating-data-with-dplyr)
 55) [Get me to the church on time with R spatial](https://nacnudus.github.io/duncangarmonsway/posts/2019-04-22-get-me-to-the-church-on-time-with-r-spatial/)
 56) [Multivariate data analysis with R and vegan](https://github.com/gavinsimpson/physalia-multivariate#multivariate-data-analysis-with-r-and-vegan)
+57) [A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/index.html)
 
 ### Tools
 

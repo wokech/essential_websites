@@ -17,6 +17,10 @@ A listing of data journalism practitioners and companies to follow:
 4)  [Data Journalism and Viz Accounts](https://www.interhacktives.com/2019/10/28/14-data-journalism-and-data-visualisation-instagram-accounts-to-follow/)
 5)  [Flowing Data Website](https://flowingdata.com/)
 
+### Books
+
+1) [Telling Stories with Data: With Applications in R and Python](https://tellingstorieswithdata.com/)
+
 ### Guides
 
 1)  [GitHub Data Journalism](https://github.com/search?q=data+journalism)
@@ -24,6 +28,7 @@ A listing of data journalism practitioners and companies to follow:
 3)  [Quick Guide to Data Journalism](https://www.datacamp.com/blog/quick-guide-to-data-journalism)
 4)  [Data journalism: a guide for editors](https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors)
 5)  [Developing Data Journalists in the Developing World](https://source.opennews.org/articles/developing-data-journalists-developing-world)
+6)  [The Inverted Pyramid of Data Journalism](https://gijn.org/stories/updating-inverted-pyramid-journalism/)
 
 ### Writing
 
@@ -54,7 +59,7 @@ A listing of data journalism practitioners and companies to follow:
 1)  [Global Investigative Journalism Network Data Journalism](https://gijn.org/data-journalism/)
 2)  [ProPublica Data Institute 2018](https://github.com/propublica/data-institute-2018)
 3)  [ProPublica Data Institute 2019](https://github.com/propublica/data-institute-2019)
-4) [Google News Initiative](https://newsinitiative.withgoogle.com/resources/journalism/data-journalism/)
+4)  [Google News Initiative](https://newsinitiative.withgoogle.com/resources/journalism/data-journalism/)
 5)  [Knight Foundation: Misinformation](https://knightfoundation.org/features/misinfo/)
 6)  [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/)
 7)  [Fake News Public Data Lab](https://fakenews.publicdatalab.org/)
@@ -93,3 +98,13 @@ A listing of data journalism practitioners and companies to follow:
 15) [The use of political ads on facebook in the run-up to the European Parliament elections 2019 in Austria](https://rpubs.com/zoowalk/FB_EP2019/)
 16) [What the Democratic Presidential Candidates Care About, in 44,000 Tweets](https://www.bloomberg.com/graphics/2020-democratic-presidential-candidate-policies/)
 17) [How many high school stars make it in the NBA?](https://pudding.cool/2019/03/hype/)
+18) [Bussed out](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)
+19) [Inside the miracle of modern chip manufacturing](https://ig.ft.com/microchips/)
+20) [Money and Power: The Wealth of America's Elected Officials](https://www.citizencodex.com/stories/house-of-representatives)
+21) [How online donations are fueling the election](https://www.politico.com/interactives/2024/campaign-finance-april-2024/)
+22) [The Making of Angela Merkel](https://www.reuters.com/graphics/GERMANY-ELECTION/MERKEL/lbvgnggwqpq/)
+23) [The Millions Who Left](https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography)
+24) [Why are things expensive?](https://www.why-expensive.com/)
+25) [Getting a good job](https://apps.urban.org/features/job-quality-segregation-race-gender/)
+26) [Build a Voter](https://www.economist.com/interactive/uk-general-election/build-a-voter)
+

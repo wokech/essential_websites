@@ -9,10 +9,11 @@ This page provides a comprehensive collection of resources for those interested 
 
 ### Curated collection of resources
 
-1)  [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
-2)  [49 Essential Resources To Learn Python](https://code-love.com/2019/06/03/49-essential-resources-to-learn-python/)
-3)  [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki#a-gallery-of-interesting-jupyter-notebooks)
-4)  [A dozen ways to learn Python](https://opensource.com/article/19/8/dozen-ways-learn-python)
+1)  [Big Book of Python](https://www.bigbookofpython.com/)
+2)  [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+3)  [49 Essential Resources To Learn Python](https://code-love.com/2019/06/03/49-essential-resources-to-learn-python/)
+4)  [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki#a-gallery-of-interesting-jupyter-notebooks)
+5)  [A dozen ways to learn Python](https://opensource.com/article/19/8/dozen-ways-learn-python)
 
 ### Personal Websites and Blogs
 
@@ -28,7 +29,7 @@ This page provides a comprehensive collection of resources for those interested 
 8)  [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 9)  [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 10) [Google's Python Class](https://developers.google.com/edu/python/)
-11) [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html)
+11) [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### Basics
 

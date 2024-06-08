@@ -43,7 +43,7 @@ book:
         - resources/programming/r_rstudio.qmd
         - resources/programming/python.qmd
         - resources/programming/quarto.qmd
-        - resources/programming/git_hub_cl_sql.qmd
+        - resources/programming/git_hub_cl_sql_docker.qmd
     - part: resources/ds_ml_ai/ds_ml_ai.qmd
       chapters: 
         - resources/ds_ml_ai/ds_ml_ai_all.qmd

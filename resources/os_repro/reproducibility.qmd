@@ -1,0 +1,35 @@
+---
+title: "Reproducibility"
+toc: true
+---
+
+For anyone interested in ..., this page offers a curated collection of resources. It provides practical introductions to ...
+
+## ...
+
+1)  [Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
+2)  [Develop and share reproducible methods](https://www.protocols.io/)
+3)  [Designing projects](https://nicercode.github.io/blog/2013-04-05-projects/)
+4)  [Good Enough Practices in Scientific Computing](https://carpentries-lab.github.io/good-enough-practices/)
+5)  [Error: Detect and report errors in Scientific Publications](https://error.reviews/)
+6)  [Sample Research Workflow](https://www.carlboettiger.info/2012/05/06/research-workflow.html)
+7)  [Research folder structure standard](https://gin-tonic.netlify.app/standard/)
+8)  [Electronic Laboratory Notebooks](https://www.nature.com/articles/d41586-018-05895-3)
+9)  [Equator Network](https://www.equator-network.org/)
+10) [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://osf.io/preprints/psyarxiv/rsn5y)
+11) [Harvard Biomedical Data Management](https://datamanagement.hms.harvard.edu/)
+12) [Registry of Research Data Repositories](https://www.re3data.org/)
+
+## Negative Results
+
+1)  [The All Results Journals](http://arjournals.com/)
+2)  [Journal of Trial & Error](https://journal.trialanderror.org/)
+3)  [Third International Workshop on Negative Results in Pervasive Computing](https://perfail-workshop.github.io/2024/)
+4)  [ ]()
+
+## Reproducibility in Machine Learning
+
+1)  [The Reproducibility Crisis in ML‑based Science](https://sites.google.com/princeton.edu/rep-workshop/)
+2)  [Leakage and the Reproducibility Crisis in ML-based Science](https://reproducible.cs.princeton.edu/)
+3)  [Data leakage causes reproducibility failures in ML-based science](https://reproducible.cs.princeton.edu/#rep-failures)
+

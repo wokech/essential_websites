@@ -19,10 +19,17 @@ A listing of data visualization specialists and companies to follow:
 6)  [CÉDRIC SCHERER](https://www.cedricscherer.com/top/links/)
 7)  [Kieran Healy](https://kieranhealy.org/)
 8)  [Little Miss Data](https://www.littlemissdata.com/)
+9) [Julie Peasley](https://www.juliepeasley.com/)
 
-### Companies
+### Companies and Tools
 
-1)  [Stamen](https://stamen.com/)
+1)  [SPJ Toolbox](https://www.journaliststoolbox.org/2023/05/25/online_journalism/)
+2) [Washington Post Tools](https://www.storybench.org/35-data-visualization-tools-that-the-washington-post-uses/)
+2)  [Stamen](https://stamen.com/)
+3)  [StatSilk](https://www.statsilk.com/)
+4)  [Infogram](https://infogram.com/)
+5)  [PiktoChart](https://piktochart.com/)
+6)  [Genially](https://genially.com/)
 
 ## Data Visualization (General)
 
@@ -35,17 +42,25 @@ A listing of data visualization specialists and companies to follow:
 5)  [Why scientists need to be better at data visualization](https://knowablemagazine.org/article/mind/2019/science-data-visualization)
 6)  [Data Viz Project](https://datavizproject.com/)
 7)  [A Tufte Handout Example](https://rstudio.github.io/tufte/)
+8) [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+9) [Data Viz Design](https://ericwagner10.notion.site/Data-Viz-Design-fe78e46eb48d44cdb70a3c19b42bbfce)
+10) [Dataviz guidelines: starting with why](https://figuresandfigures.substack.com/p/dataviz-guidelines-starting-with)
+11) [Flourish Best Practices](https://flourish.studio/blog/dataviz-best-practice/)
+12) [Stephen Few Notes](https://www.perceptualedge.com/article-index.php)
+13) [11 Learnings From 11 Charts](https://3mw.albert-rapp.de/p/3mw-11-learnings-11-charts)
 
 ### Selecting the appropriate colors
 
 1)  [Color in Data Vis](https://blog.datawrapper.de/category/color-in-data-vis/)
 2)  [Color Brewer](https://colorbrewer2.org/)
 3)  [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
+4) [Who can use this color combination?](https://www.whocanuse.com/)
 
 ### Data Viz Challenges
 
 1)  [Black in Data Vis Challenge](https://www.datavisualizationsociety.org/black-in-data-challenge)
 2)  [VIZRISK CHALLENGE STEPS](https://understandrisk.org/vizrisk/steps/#part1)
+3) [NMLM DataViz Challenge](https://www.nnlm.gov/nec/resources/datavizchallenge)
 
 ### Books
 

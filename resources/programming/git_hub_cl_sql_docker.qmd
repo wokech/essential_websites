@@ -1,9 +1,9 @@
 ---
-title: "Git, GitHub, Command Line, and SQL"
+title: "Git, GitHub, Command Line,SQL, and Docker"
 toc: true
 ---
 
-This page provides a comprehensive collection of resources focused on Git, GitHub, the Command Line, and SQL. On this page, you will find tutorials, books, and training materials that can get you started on the tools listed above.
+This page provides a comprehensive collection of resources focused on Git, GitHub, the Command Line, SQL, and Docker. On this page, you will find tutorials, books, and training materials that can get you started on the tools listed above.
 
 ## Git
 
@@ -66,12 +66,15 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 ### Books
 
 1)  [Command Line Basics for R Users](https://bash-intro.rsquaredacademy.com/)
+2)  [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/)
 
 ### Lectures and Tutorials
 
 1)  [Intro to UNIX](https://data-skills.github.io/unix-and-bash/)
 2)  [The Unix Shell 1](https://swcarpentry.github.io/shell-novice/)
 3)  [The Unix Shell 2](https://thejacksonlaboratory.github.io/introduction-to-hpc/)
+4)  [7 Command-Line Tools for Data Science](https://jeroenjanssens.com/seven/)
+5)  
 
 ## SQL
 
@@ -89,3 +92,11 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 6)  [SQLBolt](https://sqlbolt.com/)
 7)  [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 8)  [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+9)  [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+## Docker
+
+### Tutorials
+
+1)  [Carpentries: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/)
+2)  [ ]()

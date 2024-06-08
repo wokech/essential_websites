@@ -19,6 +19,8 @@ This page provides a comprehensive collection of resources on statistics. Includ
 10) [Design and Analysis of Experiments and Observational Studies using R](http://designexptr.org/index.html)
 11) [Statistical rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/content/4857/)
 12) [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/)
+13) [Lessons in Statistical Thinking](https://dtkaplan.github.io/Lessons-in-statistical-thinking/)
+
 
 ### Personal Websites and Blogs
 
@@ -28,7 +30,7 @@ This page provides a comprehensive collection of resources on statistics. Includ
 
 1)  [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110)
 2)  [Statistical Computing](https://www.stephaniehicks.com/jhustatcomputing2022/schedule)
-3) [The Grammar of Experimental Design](https://emitanaka.org/slides-useR2021/#1)
+3)  [The Grammar of Experimental Design](https://emitanaka.org/slides-useR2021/#1)
 4)  [Program Evaluation for Public Service and Research Design](https://evalsp20.classes.andrewheiss.com/)
 5)  [STA 363: Statistical Learning](https://sta-363-s20.lucymcgowan.com/)
 6)  [STA 312: Linear Models](https://sta-312-f20.netlify.app/)

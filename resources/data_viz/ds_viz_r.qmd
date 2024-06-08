@@ -8,13 +8,14 @@ This page contains a list of resources focused on data visualization in R. There
 ## Curated Links by other data viz specialists
 
 1)  [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2)
+2) [Awesome R Dataviz](https://krzjoa.github.io/awesome-r-dataviz/#/)
 
 ## Books
 
 1)  [An introduction to data visualization protocols for wet lab scientists](https://joachimgoedhart.github.io/DataViz-protocols/)
 2)  [Cookbook for R](http://www.cookbook-r.com/Graphs/)
 3)  [R Graphics Cookbook](https://r-graphics.org/)
-4)  [Data Visualization with R](https://rkabacoff.github.io/datavis/)
+4)  [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/)
 5)  [Data visualisation using R, for researchers who don't use R](https://psyteachr.github.io/introdataviz/index.html)
 6)  [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 7)  [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)
@@ -55,7 +56,7 @@ This page contains a list of resources focused on data visualization in R. There
 5)  [Getting started with data visualization in R using ggplot2](https://www.storybench.org/getting-started-data-visualization-r-using-ggplot2/)
 6)  [The Evolution of a ggplot (Ep. 1)](https://cedricscherer.netlify.app/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
 7)  [A ggplot2 Tutorial for Beautiful Plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
-8) [ggplot2tutor](https://ggplot2tutor.com/)
+8)  [ggplot2tutor](https://ggplot2tutor.com/)
 9)  [The ggplot flibbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
 10) [Getting started with data visualization in R using ggplot2](https://www.storybench.org/getting-started-data-visualization-r-using-ggplot2/)
 11) [ggplot2: Mastering the basics](https://www.rebeccabarter.com/blog/2017-11-17-ggplot2_tutorial/)

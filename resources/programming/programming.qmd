@@ -11,6 +11,6 @@ This page provides a comprehensive collection of resources on programming tools 
 
 ##### 2. [Python](python.qmd)
 
-##### 3. [Git, GitHub, Command Line, and SQL](git_hub_cl_sql.qmd)
+##### 3. [Git, GitHub, Command Line, SQL, and Docker](git_hub_cl_sql_docker.qmd)
 
 ##### 4. [Quarto](quarto.qmd)

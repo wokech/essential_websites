@@ -29,6 +29,7 @@ This page provides a comprehensive collection of resources on datasets that can 
 12) [Data Science Central Datasets](https://www.datasciencecentral.com/a-plethora-of-data-set-repositories/)
 13) [70 Amazing Free Data Sources You Should Know](https://www.kdnuggets.com/2017/12/big-data-free-sources.html)
 14) [Rebecca Barter - List of Public Data Repositories](https://www.rebeccabarter.com/blog/2023-03-28-data_sources.html)
+15) [GapMinder](https://www.gapminder.org/)
 
 ## Machine Learning Training Data
 
@@ -57,3 +58,5 @@ This page provides a comprehensive collection of resources on datasets that can 
 13) [Demographic and Health Surveys](https://dhsprogram.com/data/available-datasets.cfm)
 14) [FiveThirtyEight Data](https://data.fivethirtyeight.com/)
 15) [StatsBomb Open Data](https://github.com/statsbomb/open-data)
+16) [NCD Risk Factor Datasets](https://ncdrisc.org/index.html)
+17) [Food Systems Dashboard](https://www.foodsystemsdashboard.org/)

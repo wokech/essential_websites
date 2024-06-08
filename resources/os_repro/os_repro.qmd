@@ -1,0 +1,14 @@
+---
+title: "Open Science and Reproducible Research"
+toc: true
+---
+
+On this page, there is a curated collection of ...
+
+## A curated collection of resources
+
+##### 1. [ ]()
+
+##### 2. [ ]()
+
+##### 3. [ ]()

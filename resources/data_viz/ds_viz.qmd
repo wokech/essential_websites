@@ -17,6 +17,8 @@ This page provides a comprehensive collection of resources on data visualization
 
 ##### 4. [Data Visualization (Tableau)](ds_viz_tableau.qmd)
 
+##### 5. [Data Visualization (Spatial)](ds_viz_spatial.qmd)
+
 ### Journalism and Storytelling
 
 ##### 1. [Data Journalism and Storytelling](ds_journalism.qmd)

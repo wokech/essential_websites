@@ -29,3 +29,7 @@ The Quarto page contains a list of resources that are focused on the relatively 
 2)  [R Markdown for Web Pages](https://www.markdownguide.org/basic-syntax/)
 3)  [Porting a distill blog to quarto](https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/)
 4)  [RMarkdown](https://rmarkdown.rstudio.com/index.html)
+
+## Miscellaneous Tools for Web Development
+
+1) [FlatIcon](https://www.flaticon.com/)
