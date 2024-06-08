@@ -74,7 +74,7 @@
     "href": "resources/programming/programming.html#a-curated-collection-of-resources",
     "title": "Programming",
     "section": "",
-    "text": "1. R and RStudio\n\n\n2. Python\n\n\n3. Git, GitHub, Command Line, and SQL\n\n\n4. Quarto",
+    "text": "1. R and RStudio\n\n\n2. Python\n\n\n3. Git, GitHub, Command Line, SQL, and Docker\n\n\n4. Quarto",
     "crumbs": [
       "Programming"
     ]
@@ -106,7 +106,7 @@
     "href": "resources/programming/r_rstudio.html#basics",
     "title": "1  R and RStudio",
     "section": "1.2 Basics",
-    "text": "1.2 Basics\n\n1.2.1 Curated list of resources\n\nBig Book of R\nFREE R READING MATERIAL\nAn R Community Public Library\nAwesome R Learning Resources\nR Cheatsheets\nPosit Cheatsheets\nR4theRestofUs\nEDUCATORS R LEARNERS\nR and Data Mining\n\n\n\n1.2.2 Books\n\nR4DataScience\nR4DataScience - Solutions\nR Workflow A\nR Workflow B\nUrban Informatics\nModern Statistics with R\nR for Researchers: An Introduction\nSupervised Machine Learning for Text Analysis in R\nReproducible Analytical Pipelines - Master’s of Data Science\nR for Data Analysis\nData Analysis and Prediction Algorithms with R\nHands-On Programming with R\nR for Health Data Science\nR for Health Data Science Resources\nData Science in Education Using R\nA Succinct Intro to R\nData Science: A First Introduction\nThe Epidemiologist R Handbook\nIntroduction to R, version 2\nTechnical Foundations of Informatics\nData Science for Economists and Other Animals\nEfficient R programming\nAn Introduction to R\nYaRrr! The Pirate’s Guide to R\nModern Data Science with R\nHands-On Machine Learning with R\nModern Dive\nAdvanced R\nYet Again: R + Data Science\nPublic Policy Analytics\nHands-On Machine Learning with R\n\n\n\n1.2.3 R and GPT\n\nR and gpttools\n\n\n\n1.2.4 Conference Workshops\n\nTalk recordings and workshop materials from rstudio::conf(2022)\nLinks to slides from rstudio::conf 2020\nNHS-R\nuseR! 2019 Highlights\nToulouseR 2019\n\n\n\n1.2.5 Package Development\n\nR Packages\nIntroduction to Package Development\nYour first R package in 1 hour\nDeveloping R packages\nReflections on building my first few R packages\n\n\n\n1.2.6 Newsletters\n\nRWeekly\n\n\n\n1.2.7 Training Courses and Tutorials\n\nRStudio Education\nRStudio Education Beginners\nRStudio Education Intermediates\nRStudio Education Experts\nQuick-R Tutorial\nLearn R in R\nLearning R With Education Datasets\nSTAT 545 Data wrangling, exploration, and analysis with R\nSTHDA\ndatascienceplus\nStatistical Computing in R\nStatistical Programming Paradigms and Workflows\nTeaching Statistics and Data Science Online\nAn Introduction to Docker for R Users\nR Bootcamp\nKane’s Data Science Course\nAndrew Heiss R-based courses\nSTREAMLINING WITH R\nR Bootcamp\nAdvanced R Topics\nR for Water Resources Data Science\nReproducible science workshop\nThink R\nR 4 Beginners\nApplied Economics with R\nReady for R\nInterpretable Machine Learning\nR basics: a practical introduction to R\nIntroduction to R\nfasteR: Fast Lane to Learning R!\nAnalysis of community ecology data in R\nR Screencasts\nR for better science in less time\nR and Stats\nPalmer Archipelago Penguins Data\nWe are R-Ladies\nWeb Scraping in R: A Quick Guide\nWord Clouds in R\nData science tutorials\nMARKET ANALYSIS COURSE\nRTutor: Interactive R Problem Sets\nData Wrangling and dplyr\nIntro to R for Programming\npurrr tutorial\nIntro to R: Shiny App\nSpatial Data Science\nGeneralized Additive Models in R\nVisualizing the Bayesian workflow in R\nCreate machine learning models: An R version\nWrangling Unruly Data\nCleaning UK Office for National Statistics data in R\nHow to Automate EDA with DataExplorer in R\nRachael’s R Tutorials\nManipulating Data with dplyr\nGet me to the church on time with R spatial\nMultivariate data analysis with R and vegan\n\n\n\n1.2.8 Tools\n\nR Universe Authors and Packages\nR-hub\nR in Visual Studio Code\nR Libraries Every Data Scientist Should Know\nPackages for Exploratory Data Analysis in R\n15 Essential packages in R for Data Science\n\n\n\n1.2.9 Troubleshooting / Tips and Tricks\n\nHow to Use “not in” operator in Filter\nCommon R Mistakes in Data Viz\nR Examples\nR Tips and Tricks\n\n\n\n1.2.10 Hackathons and Competitions\n\nKaggle Housing Price Tutorial",
+    "text": "1.2 Basics\n\n1.2.1 Curated list of resources\n\nBig Book of R\nFREE R READING MATERIAL\nAn R Community Public Library\nAwesome R Learning Resources\nR Cheatsheets\nPosit Cheatsheets\nR4theRestofUs\nEDUCATORS R LEARNERS\nR and Data Mining\n\n\n\n1.2.2 Books\n\nR4DataScience\nR4DataScience - Solutions\nR4DataScience, 2nd Edition\nR Workflow A\nR Workflow B\nWhat They Forgot to Teach You About R\nR for Researchers: An Introduction\nSupervised Machine Learning for Text Analysis in R\nReproducible Analytical Pipelines - Master’s of Data Science\nR for Data Analysis\nData Analysis and Prediction Algorithms with R\nHands-On Programming with R\nR for Health Data Science\nR for Health Data Science Resources\nData Science in Education Using R\nA Succinct Intro to R\nData Science: A First Introduction\nThe Epidemiologist R Handbook\nIntroduction to R, version 2\nTechnical Foundations of Informatics\nData Science for Economists and Other Animals\nEfficient R programming\nAn Introduction to R\nYaRrr! The Pirate’s Guide to R\nModern Data Science with R\nHands-On Machine Learning with R\nModern Dive\nAdvanced R\nYet Again: R + Data Science\nPublic Policy Analytics\nHands-On Machine Learning with R\nDeep R Programming\nUrban Informatics\nMastering Spark with R\nModern Statistics with R\nR for the Rest of Us: A Statistics-Free Introduction\n\n\n\n1.2.3 R and GPT\n\nR and gpttools\n\n\n\n1.2.4 Conference Workshops\n\nTalk recordings and workshop materials from rstudio::conf(2022)\nLinks to slides from rstudio::conf 2020\nNHS-R\nuseR! 2019 Highlights\nToulouseR 2019\n\n\n\n1.2.5 Package Development\n\nR Packages\nIntroduction to Package Development\nYour first R package in 1 hour\nDeveloping R packages\nReflections on building my first few R packages\n\n\n\n1.2.6 Newsletters\n\nRWeekly\n\n\n\n1.2.7 Training Courses and Tutorials\n\nRStudio Education\nRStudio Education Beginners\nRStudio Education Intermediates\nRStudio Education Experts\nQuick-R Tutorial\nLearn R in R\nLearning R With Education Datasets\nSTAT 545 Data wrangling, exploration, and analysis with R\nSTHDA\ndatascienceplus\nStatistical Computing in R\nStatistical Programming Paradigms and Workflows\nTeaching Statistics and Data Science Online\nAn Introduction to Docker for R Users\nR Bootcamp\nKane’s Data Science Course\nAndrew Heiss R-based courses\nSTREAMLINING WITH R\nR Bootcamp\nAdvanced R Topics\nR for Water Resources Data Science\nReproducible science workshop\nThink R\nR 4 Beginners\nApplied Economics with R\nReady for R\nInterpretable Machine Learning\nR basics: a practical introduction to R\nIntroduction to R\nfasteR: Fast Lane to Learning R!\nAnalysis of community ecology data in R\nR Screencasts\nR for better science in less time\nR and Stats\nPalmer Archipelago Penguins Data\nWe are R-Ladies\nWeb Scraping in R: A Quick Guide\nWord Clouds in R\nData science tutorials\nMARKET ANALYSIS COURSE\nRTutor: Interactive R Problem Sets\nData Wrangling and dplyr\nIntro to R for Programming\npurrr tutorial\nIntro to R: Shiny App\nSpatial Data Science\nGeneralized Additive Models in R\nVisualizing the Bayesian workflow in R\nCreate machine learning models: An R version\nWrangling Unruly Data\nCleaning UK Office for National Statistics data in R\nHow to Automate EDA with DataExplorer in R\nRachael’s R Tutorials\nManipulating Data with dplyr\nGet me to the church on time with R spatial\nMultivariate data analysis with R and vegan\nA Course in Exploratory Data Analysis\n\n\n\n1.2.8 Tools\n\nR Universe Authors and Packages\nR-hub\nR in Visual Studio Code\nR Libraries Every Data Scientist Should Know\nPackages for Exploratory Data Analysis in R\n15 Essential packages in R for Data Science\n\n\n\n1.2.9 Troubleshooting / Tips and Tricks\n\nHow to Use “not in” operator in Filter\nCommon R Mistakes in Data Viz\nR Examples\nR Tips and Tricks\n\n\n\n1.2.10 Hackathons and Competitions\n\nKaggle Housing Price Tutorial",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>R and RStudio</span>"
@@ -161,7 +161,7 @@
     "href": "resources/programming/python.html#python",
     "title": "2  Python",
     "section": "",
-    "text": "2.1.1 Curated collection of resources\n\nPython for Non-Programmers\n49 Essential Resources To Learn Python\nA Gallery of Interesting Jupyter Notebooks\nA dozen ways to learn Python\n\n\n\n2.1.2 Personal Websites and Blogs\n\n\n2.1.3 Books\n\nAutomate the Boring Stuff with Python\nElements of Data Science\nScientific Computing with Python\nComputational and Inferential Thinking: The Foundations of Data Science\nPython for Data Analysis, 3E\nPython Programming And Numerical Methods: A Guide For Engineers And Scientists\n100 Page Python Intro\nThink Python 2e\nA Whirlwind Tour of Python\nGoogle’s Python Class\nPython Data Science Handbook\n\n\n\n2.1.4 Basics\n\nNumpy\nPython Cheatsheet\nComprehensive Python Cheatsheet\nPython Curriculum Map\nData School: My top 25 pandas tricks\n10 Python Pandas tricks that make your work more efficient\nPython built-in functions to know\nData Science Best Practices with pandas\nTour of Python Itertools\n\n\n\n2.1.5 Tutorials\n\nReal Python\nResolving Python\nJust into Data\nChristina Levengood Blog\nPython Machine Learning Notebooks (Tutorial style)\nDataquest Tutorials\nVIB Tutorials\nData Flair Training\nTop 10 IPython Notebook Tutorials for Data Science and Machine Learning\nPython for Beginners Course\nPython Crash Course\nPython for Everybody (PY4E)\nPython Machine Learning Jupyter Notebooks\nPractical Business Python\nLearning Python For Data Science\nLearn Python in 3 days: Step-by-Step Guide\nA Complete 26 Week Course to Learn Python for Data Science in 2022\nPython for Data Science: 8 Concepts You May Have Forgotten\nWhat is Exploratory Spatial Data Analysis (ESDA)?\nGetting started with data science using Python\n\n\n\n2.1.6 Applications\n\nStock Portfolio Analysis using Python\nNeural networks fundamentals with Python\nPython News Webscraper\nWeb Scraping with Scrapy\nIntroduction to Market Basket Analysis in Python\n\n\n\n2.1.7 Projects\n\nPython Projects for 2023 – Work on Real-time Projects to Head Start Your Career\nPython Projects with Source Code\n45+ Data Analysis Projects with Python",
+    "text": "2.1.1 Curated collection of resources\n\nBig Book of Python\nPython for Non-Programmers\n49 Essential Resources To Learn Python\nA Gallery of Interesting Jupyter Notebooks\nA dozen ways to learn Python\n\n\n\n2.1.2 Personal Websites and Blogs\n\n\n2.1.3 Books\n\nAutomate the Boring Stuff with Python\nElements of Data Science\nScientific Computing with Python\nComputational and Inferential Thinking: The Foundations of Data Science\nPython for Data Analysis, 3E\nPython Programming And Numerical Methods: A Guide For Engineers And Scientists\n100 Page Python Intro\nThink Python 2e\nA Whirlwind Tour of Python\nGoogle’s Python Class\nPython Data Science Handbook\n\n\n\n2.1.4 Basics\n\nNumpy\nPython Cheatsheet\nComprehensive Python Cheatsheet\nPython Curriculum Map\nData School: My top 25 pandas tricks\n10 Python Pandas tricks that make your work more efficient\nPython built-in functions to know\nData Science Best Practices with pandas\nTour of Python Itertools\n\n\n\n2.1.5 Tutorials\n\nReal Python\nResolving Python\nJust into Data\nChristina Levengood Blog\nPython Machine Learning Notebooks (Tutorial style)\nDataquest Tutorials\nVIB Tutorials\nData Flair Training\nTop 10 IPython Notebook Tutorials for Data Science and Machine Learning\nPython for Beginners Course\nPython Crash Course\nPython for Everybody (PY4E)\nPython Machine Learning Jupyter Notebooks\nPractical Business Python\nLearning Python For Data Science\nLearn Python in 3 days: Step-by-Step Guide\nA Complete 26 Week Course to Learn Python for Data Science in 2022\nPython for Data Science: 8 Concepts You May Have Forgotten\nWhat is Exploratory Spatial Data Analysis (ESDA)?\nGetting started with data science using Python\n\n\n\n2.1.6 Applications\n\nStock Portfolio Analysis using Python\nNeural networks fundamentals with Python\nPython News Webscraper\nWeb Scraping with Scrapy\nIntroduction to Market Basket Analysis in Python\n\n\n\n2.1.7 Projects\n\nPython Projects for 2023 – Work on Real-time Projects to Head Start Your Career\nPython Projects with Source Code\n45+ Data Analysis Projects with Python",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Python</span>"
@@ -291,7 +291,7 @@
     "href": "resources/ds_ml_ai/ds_ml_ai_all.html#machine-learning",
     "title": "5  Data Science, Machine Learning, and Artificial Intelligence",
     "section": "5.2 Machine Learning",
-    "text": "5.2 Machine Learning\n\n5.2.1 Books and Readings\n\nMachine Learning University\nYellowbrick: Machine Learning Visualization\nVisual Intro to ML\nMachine Learning Basics 1\nMachine Learning Basics 2\nEnd-to-End Machine Learning Library\nHands-On Machine Learning with R\nFOUNDATIONS OF MACHINE LEARNING\nML for Everyone\nMachine Learning Notebooks\nInterpretable Machine Learning\nMachine Learning for Humans\nMachine Learning Explained: Algorithms Are Your Friend\nA Guide to Learning with Limited Labeled Data\nKaggle Winner’s Blog\nMachine Learning and Data Science Applications in Industry\nThe Illustrated Machine Learning website\nMachine Learning Mastery\nML for Science\nIn-depth introduction to machine learning in 15 hours of expert videos\nPython ML Tutorial\nVisualize Machine Learning data\nMade With ML\nAmazon Machine Learning\nAzure Machine Learning\nGoogle Prediction API\nBigML\n\n\n\n5.2.2 Tutorials, Resources, and Projects\n\nHow to choose a good evaluation metric for your Machine learning model\nML Data Repository\nThe Best Machine Learning Resources\nML Google\nSantander ML Explainability\nBest GitHub Repositories for ML\n101 machine learning algorithms for data science with cheatsheets\nCommonly used Machine Learning Algorithms\nmodelStudio and The Grammar of Interactive Explanatory Model Analysis\nSupervised ML in R\nMACHINE LEARNING QUESTIONS\nML101 Tutorial\nML Tutorial\nScikit learn in Machine Learning\nMachine Learning Tutorials\nThe Ultimate FREE Machine Learning Study Plan\n100 Days of Machine Learning Coding\n150 of the Best Machine Learning, NLP, and Python Tutorials\nCode for Workshop: Introduction to Machine Learning with R\nMachine Learning Crash Course with TensorFlow APIs\nIntro to ML with R Slides\nA Machine Learning Course with Python\nMathematics for Machine Learning\nMatrix Methods In Data Analysis, Signal Processing, And Machine Learning\nMachine Learning Zoomcamp\nFeature Selection Techniques in Machine Learning with Python\nMachine Learning Projects\nRandy Olson’s data analysis and machine learning projects\nClass Imbalance\nAnomaly Detection for Dummies",
+    "text": "5.2 Machine Learning\n\n5.2.1 Books and Readings\n\nMachine Learning University\nYellowbrick: Machine Learning Visualization\nVisual Intro to ML\nMachine Learning Basics 1\nMachine Learning Basics 2\nEnd-to-End Machine Learning Library\nHands-On Machine Learning with R\nFOUNDATIONS OF MACHINE LEARNING\nML for Everyone\nMachine Learning Notebooks\nInterpretable Machine Learning\nMachine Learning for Humans\nMachine Learning Explained: Algorithms Are Your Friend\nA Guide to Learning with Limited Labeled Data\nKaggle Winner’s Blog\nMachine Learning and Data Science Applications in Industry\nThe Illustrated Machine Learning website\nMachine Learning Mastery\nML for Science\nIn-depth introduction to machine learning in 15 hours of expert videos\nPython ML Tutorial\nVisualize Machine Learning data\nMade With ML\nAmazon Machine Learning\nAzure Machine Learning\nGoogle Prediction API\nBigML\nSupervised Machine Learning for Science\nFeature Engineering A-Z\n\n\n\n5.2.2 Tutorials, Resources, and Projects\n\nHow to choose a good evaluation metric for your Machine learning model\nML Data Repository\nThe Best Machine Learning Resources\nML Google\nSantander ML Explainability\nBest GitHub Repositories for ML\n101 machine learning algorithms for data science with cheatsheets\nCommonly used Machine Learning Algorithms\nmodelStudio and The Grammar of Interactive Explanatory Model Analysis\nSupervised ML in R\nMACHINE LEARNING QUESTIONS\nML101 Tutorial\nML Tutorial\nScikit learn in Machine Learning\nMachine Learning Tutorials\nThe Ultimate FREE Machine Learning Study Plan\n100 Days of Machine Learning Coding\n150 of the Best Machine Learning, NLP, and Python Tutorials\nCode for Workshop: Introduction to Machine Learning with R\nMachine Learning Crash Course with TensorFlow APIs\nIntro to ML with R Slides\nA Machine Learning Course with Python\nMathematics for Machine Learning\nMatrix Methods In Data Analysis, Signal Processing, And Machine Learning\nMachine Learning Zoomcamp\nFeature Selection Techniques in Machine Learning with Python\nMachine Learning Projects\nRandy Olson’s data analysis and machine learning projects\nClass Imbalance\nAnomaly Detection for Dummies",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Science, Machine Learning, and Artificial Intelligence</span>"
@@ -356,8 +356,8 @@
     "objectID": "resources/ds_ml_ai/ds_ml_ai_all.html#health",
     "href": "resources/ds_ml_ai/ds_ml_ai_all.html#health",
     "title": "5  Data Science, Machine Learning, and Artificial Intelligence",
-    "section": "5.8 Health",
-    "text": "5.8 Health\n\nCovid-19 Data Science\nMachine Learning For Healthcare\nPopulation health analytics\nJameel Clinic\nMedical AI Bootcamp\nShah Lab AI\nBuild a Recommender Engine for Medical Research Papers\nRECONLearn\nRECON",
+    "section": "5.7 Health",
+    "text": "5.7 Health\n\nCovid-19 Data Science\nMachine Learning For Healthcare\nPopulation health analytics\nJameel Clinic\nMedical AI Bootcamp\nShah Lab AI\nBuild a Recommender Engine for Medical Research Papers\nRECONLearn\nRECON",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Science, Machine Learning, and Artificial Intelligence</span>"
@@ -367,8 +367,8 @@
     "objectID": "resources/ds_ml_ai/ds_ml_ai_all.html#journals",
     "href": "resources/ds_ml_ai/ds_ml_ai_all.html#journals",
     "title": "5  Data Science, Machine Learning, and Artificial Intelligence",
-    "section": "5.9 Journals",
-    "text": "5.9 Journals\n\nTOP PUB\nHarvard Data Science Review\nMachine Learning in Public Policy",
+    "section": "5.8 Journals",
+    "text": "5.8 Journals\n\nTOP PUB\nHarvard Data Science Review\nMachine Learning in Public Policy",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Science, Machine Learning, and Artificial Intelligence</span>"
@@ -378,8 +378,8 @@
     "objectID": "resources/ds_ml_ai/ds_ml_ai_all.html#newspaper-articles-and-newsletters",
     "href": "resources/ds_ml_ai/ds_ml_ai_all.html#newspaper-articles-and-newsletters",
     "title": "5  Data Science, Machine Learning, and Artificial Intelligence",
-    "section": "5.10 Newspaper Articles and Newsletters",
-    "text": "5.10 Newspaper Articles and Newsletters\n\nThe Facebook Scandal - or how to predict psychological traits from Facebook likes.\nHow to solve a business problem using data\n13 Essential Newsletters for Data Scientists: Remastered\nThe economics of artificial intelligence",
+    "section": "5.9 Newspaper Articles and Newsletters",
+    "text": "5.9 Newspaper Articles and Newsletters\n\nThe Facebook Scandal - or how to predict psychological traits from Facebook likes.\nHow to solve a business problem using data\n13 Essential Newsletters for Data Scientists: Remastered\nThe economics of artificial intelligence",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Science, Machine Learning, and Artificial Intelligence</span>"
@@ -390,7 +390,7 @@
     "href": "resources/ds_ml_ai/statistics.html",
     "title": "6  Statistics",
     "section": "",
-    "text": "This page provides a comprehensive collection of resources on statistics. Included here is a list of links to books, lectures and courses, and tutorials focused on statistics.\n\n6.0.1 Books\n\nIntroduction to Modern Statistics\nCausal Inference: What If (Hernan MA)\nBayes Rules!\nCausal Inference: The Mixtape\nSeeing Theory\nCommon statistical tests are linear models (or: how to teach stats)\nModern Statistics with R\nIntroduction to Probability for Data Science\nIntro to Bayesian Business Analytics\nDesign and Analysis of Experiments and Observational Studies using R\nStatistical rethinking with brms, ggplot2, and the tidyverse\nBayes Rules! An Introduction to Applied Bayesian Modeling\n\n\n\n6.0.2 Personal Websites and Blogs\n\nStatistical Thinking\n\n\n\n6.0.3 Lectures and Courses\n\nStatistics 110: Probability\nStatistical Computing\nThe Grammar of Experimental Design\nProgram Evaluation for Public Service and Research Design\nSTA 363: Statistical Learning\nSTA 312: Linear Models\nSTA 212: Statistical Models\nStatistics 431: Advanced Statistical Computing with R\nGUide to STatistical Analysis in Microbial Ecology (GUSTA ME)\nRegression Modelling in R\n\n\n\n6.0.4 Tutorials\n\nWelcome to A/B Testing at Scale Tutorial\nCausation and Correlation\nAn Introduction to Hierarchical Modeling\nTidy Statistics in R\nStatistics and R\nTidy dataframes and statsExpressions\nPower Analysis | Introduction in R\nmetrica: Prediction performance metrics\nBayes Explained 1\nBayes Explained 2\nCausalImpact\n\n\n\n6.0.5 Troubleshooting\n\nStatistical Problems to Document and to Avoid\nDatamethods\n\n\n\n6.0.6 Biostatistics\n\nBiostatistics for Biomedical Research\nTutorials in Biostatistics Papers\nBiostatistics Series Papers\nWCM Biostatistics Computing Club\nKatherine (Kat) Hoffman Biostats",
+    "text": "This page provides a comprehensive collection of resources on statistics. Included here is a list of links to books, lectures and courses, and tutorials focused on statistics.\n\n6.0.1 Books\n\nIntroduction to Modern Statistics\nCausal Inference: What If (Hernan MA)\nBayes Rules!\nCausal Inference: The Mixtape\nSeeing Theory\nCommon statistical tests are linear models (or: how to teach stats)\nModern Statistics with R\nIntroduction to Probability for Data Science\nIntro to Bayesian Business Analytics\nDesign and Analysis of Experiments and Observational Studies using R\nStatistical rethinking with brms, ggplot2, and the tidyverse\nBayes Rules! An Introduction to Applied Bayesian Modeling\nLessons in Statistical Thinking\n\n\n\n6.0.2 Personal Websites and Blogs\n\nStatistical Thinking\n\n\n\n6.0.3 Lectures and Courses\n\nStatistics 110: Probability\nStatistical Computing\nThe Grammar of Experimental Design\nProgram Evaluation for Public Service and Research Design\nSTA 363: Statistical Learning\nSTA 312: Linear Models\nSTA 212: Statistical Models\nStatistics 431: Advanced Statistical Computing with R\nGUide to STatistical Analysis in Microbial Ecology (GUSTA ME)\nRegression Modelling in R\n\n\n\n6.0.4 Tutorials\n\nWelcome to A/B Testing at Scale Tutorial\nCausation and Correlation\nAn Introduction to Hierarchical Modeling\nTidy Statistics in R\nStatistics and R\nTidy dataframes and statsExpressions\nPower Analysis | Introduction in R\nmetrica: Prediction performance metrics\nBayes Explained 1\nBayes Explained 2\nCausalImpact\n\n\n\n6.0.5 Troubleshooting\n\nStatistical Problems to Document and to Avoid\nDatamethods\n\n\n\n6.0.6 Biostatistics\n\nBiostatistics for Biomedical Research\nTutorials in Biostatistics Papers\nBiostatistics Series Papers\nWCM Biostatistics Computing Club\nKatherine (Kat) Hoffman Biostats",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Statistics</span>"
@@ -423,7 +423,7 @@
     "href": "resources/ds_ml_ai/datasets.html#free-and-open-data",
     "title": "7  Public Datasets",
     "section": "7.2 Free and Open Data",
-    "text": "7.2 Free and Open Data\n\nOpen Africa Data\nData Africa\nOur World in Data\nCalifornia Data Sources\nDataSF\nNYC Open Data\nThe Humanitarian Data Exchange\nGlobal Data Barometer\nMicrosoft Research Open Data\nAwesome Public Datasets\nMultiple Public Data Sources\nData Science Central Datasets\n70 Amazing Free Data Sources You Should Know\nRebecca Barter - List of Public Data Repositories",
+    "text": "7.2 Free and Open Data\n\nOpen Africa Data\nData Africa\nOur World in Data\nCalifornia Data Sources\nDataSF\nNYC Open Data\nThe Humanitarian Data Exchange\nGlobal Data Barometer\nMicrosoft Research Open Data\nAwesome Public Datasets\nMultiple Public Data Sources\nData Science Central Datasets\n70 Amazing Free Data Sources You Should Know\nRebecca Barter - List of Public Data Repositories\nGapMinder",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Public Datasets</span>"
@@ -445,7 +445,7 @@
     "href": "resources/ds_ml_ai/datasets.html#industry-specific-data",
     "title": "7  Public Datasets",
     "section": "7.4 Industry-Specific Data",
-    "text": "7.4 Industry-Specific Data\n\nNHS R-community Datasets\nInfectious Diseases Data Observatory\nInside Airbnb\nSchool Shootings USA\nPolitical Datasets\nEighty-Five Points Sports Data\nPoverty and Inequality Platform API\nNasdaq Data Link\nAnalyze Survey Data for Free\nGlobal Clinical Research Data\nGoogle Community Mobility Reports\n15 Open Datasets for Healthcare\nDemographic and Health Surveys\nFiveThirtyEight Data\nStatsBomb Open Data",
+    "text": "7.4 Industry-Specific Data\n\nNHS R-community Datasets\nInfectious Diseases Data Observatory\nInside Airbnb\nSchool Shootings USA\nPolitical Datasets\nEighty-Five Points Sports Data\nPoverty and Inequality Platform API\nNasdaq Data Link\nAnalyze Survey Data for Free\nGlobal Clinical Research Data\nGoogle Community Mobility Reports\n15 Open Datasets for Healthcare\nDemographic and Health Surveys\nFiveThirtyEight Data\nStatsBomb Open Data\nNCD Risk Factor Datasets\nFood Systems Dashboard",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Public Datasets</span>"
@@ -609,7 +609,7 @@
     "href": "resources/data_viz/ds_viz.html#a-curated-collection-of-resources",
     "title": "Data Visualization and Storytelling",
     "section": "",
-    "text": "Visualization\n\n1. Data Visualization (General)\n\n\n2. Data Visualization (R)\n\n\n3. Data Visualization (Python)\n\n\n4. Data Visualization (Tableau)\n\n\n\nJournalism and Storytelling\n\n1. Data Journalism and Storytelling",
+    "text": "Visualization\n\n1. Data Visualization (General)\n\n\n2. Data Visualization (R)\n\n\n3. Data Visualization (Python)\n\n\n4. Data Visualization (Tableau)\n\n\n5. Data Visualization (Spatial)\n\n\n\nJournalism and Storytelling\n\n1. Data Journalism and Storytelling",
     "crumbs": [
       "Data Visualization and Storytelling"
     ]
@@ -630,7 +630,7 @@
     "href": "resources/data_viz/ds_viz_general.html#data-visualization-blogs",
     "title": "11  Data Visualization (General)",
     "section": "",
-    "text": "11.1.1 People\n\nMaarten Lambrechts\nAda Homolova\nLisa Charlotte Muth\nZev Ross\nEdward Tufte\nCÉDRIC SCHERER\nKieran Healy\nLittle Miss Data\n\n\n\n11.1.2 Companies\n\nStamen",
+    "text": "11.1.1 People\n\nMaarten Lambrechts\nAda Homolova\nLisa Charlotte Muth\nZev Ross\nEdward Tufte\nCÉDRIC SCHERER\nKieran Healy\nLittle Miss Data\nJulie Peasley\n\n\n\n11.1.2 Companies and Tools\n\nSPJ Toolbox\nWashington Post Tools\nStamen\nStatSilk\nInfogram\nPiktoChart\nGenially",
     "crumbs": [
       "Data Visualization and Storytelling",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Visualization (General)</span>"
@@ -641,7 +641,7 @@
     "href": "resources/data_viz/ds_viz_general.html#data-visualization-general",
     "title": "11  Data Visualization (General)",
     "section": "11.2 Data Visualization (General)",
-    "text": "11.2 Data Visualization (General)\n\n11.2.1 Selecting the appropriate chart types\n\nVisual Vocabulary\nThe unspoken rules of visualisation\nWhat Are Data Visualization Style Guidelines?\nData visualization\nWhy scientists need to be better at data visualization\nData Viz Project\nA Tufte Handout Example\n\n\n\n11.2.2 Selecting the appropriate colors\n\nColor in Data Vis\nColor Brewer\nYour Friendly Guide to Colors in Data Visualisation\n\n\n\n11.2.3 Data Viz Challenges\n\nBlack in Data Vis Challenge\nVIZRISK CHALLENGE STEPS\n\n\n\n11.2.4 Books\n\nA Reader on Data Visualization\nData Visualization: A practical introduction",
+    "text": "11.2 Data Visualization (General)\n\n11.2.1 Selecting the appropriate chart types\n\nVisual Vocabulary\nThe unspoken rules of visualisation\nWhat Are Data Visualization Style Guidelines?\nData visualization\nWhy scientists need to be better at data visualization\nData Viz Project\nA Tufte Handout Example\nA periodic table of visualization methods\nData Viz Design\nDataviz guidelines: starting with why\nFlourish Best Practices\nStephen Few Notes\n11 Learnings From 11 Charts\n\n\n\n11.2.2 Selecting the appropriate colors\n\nColor in Data Vis\nColor Brewer\nYour Friendly Guide to Colors in Data Visualisation\nWho can use this color combination?\n\n\n\n11.2.3 Data Viz Challenges\n\nBlack in Data Vis Challenge\nVIZRISK CHALLENGE STEPS\nNMLM DataViz Challenge\n\n\n\n11.2.4 Books\n\nA Reader on Data Visualization\nData Visualization: A practical introduction",
     "crumbs": [
       "Data Visualization and Storytelling",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Visualization (General)</span>"
@@ -663,7 +663,7 @@
     "href": "resources/data_viz/ds_viz_r.html#curated-links-by-other-data-viz-specialists",
     "title": "12  Data Visualization (R)",
     "section": "",
-    "text": "Awesome ggplot2",
+    "text": "Awesome ggplot2\nAwesome R Dataviz",
     "crumbs": [
       "Data Visualization and Storytelling",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
@@ -674,7 +674,7 @@
     "href": "resources/data_viz/ds_viz_r.html#books",
     "title": "12  Data Visualization (R)",
     "section": "12.2 Books",
-    "text": "12.2 Books\n\nAn introduction to data visualization protocols for wet lab scientists\nCookbook for R\nR Graphics Cookbook\nData Visualization with R\nData visualisation using R, for researchers who don’t use R\nFundamentals of Data Visualization\nggplot2: Elegant Graphics for Data Analysis\nR4DS Data Visualization\nInteractive web-based data visualization with R, plotly, and shiny\nBBC Visual and Data Journalism cookbook for R graphics\nggplot2",
+    "text": "12.2 Books\n\nAn introduction to data visualization protocols for wet lab scientists\nCookbook for R\nR Graphics Cookbook\nModern Data Visualization with R\nData visualisation using R, for researchers who don’t use R\nFundamentals of Data Visualization\nggplot2: Elegant Graphics for Data Analysis\nR4DS Data Visualization\nInteractive web-based data visualization with R, plotly, and shiny\nBBC Visual and Data Journalism cookbook for R graphics\nggplot2",
     "crumbs": [
       "Data Visualization and Storytelling",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
@@ -740,7 +740,7 @@
     "href": "resources/data_viz/ds_viz_py.html#books",
     "title": "13  Data Visualization (Python)",
     "section": "",
-    "text": "The Python Graph Gallery",
+    "text": "The Python Graph Gallery\nAltair",
     "crumbs": [
       "Data Visualization and Storytelling",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Data Visualization (Python)</span>"
@@ -795,7 +795,7 @@
     "href": "resources/data_viz/ds_journalism.html#data-journalism",
     "title": "15  Data Journalism Tools and Stories",
     "section": "",
-    "text": "15.1.1 Blogs and Websites\nA listing of data journalism practitioners and companies to follow:\n\nSeth Stephens-Davidowitz\nQuant Editing\nAmber Thomas\nData Journalism and Viz Accounts\nFlowing Data Website\n\n\n\n15.1.2 Guides\n\nGitHub Data Journalism\nA Beginner’s Guide to Data Journalism: Let’s Build a Story From Scratch\nQuick Guide to Data Journalism\nData journalism: a guide for editors\nDeveloping Data Journalists in the Developing World\n\n\n\n15.1.3 Writing\n\nInterrogating Data: A Science Writer’s Guide to Data Journalism\nDueling Data\nHow data journalists create beautiful feature stories\nA data journalist’s guide to building a hypothesis\nFlowing Data Story Formats\nTelling Stories With Data: A Simple Math Guide\nData Biographies: Getting to Know Your Data\nPutting data back into context\n\n\n\n15.1.4 Tools\n\nData Journalism Tools\nData Journalism and Visualization with Free Tools\nStorytelling Tools\nStoryBench: The future of machine learning in journalism\nHow ProPublica Analyzed Pardon Data\n\n\n\n15.1.5 Tutorials\n\nMapping search data from Google Trends in R\nUsing R to Analyze Fargo Crime Data\n\n\n\n15.1.6 Organizations\n\nGlobal Investigative Journalism Network Data Journalism\nProPublica Data Institute 2018\nProPublica Data Institute 2019\nGoogle News Initiative\nKnight Foundation: Misinformation\nThe Bureau of Investigative Journalism\nFake News Public Data Lab\nAP DataKit\nData Journalism Grants\nA community conference for data makers everywhere",
+    "text": "15.1.1 Blogs and Websites\nA listing of data journalism practitioners and companies to follow:\n\nSeth Stephens-Davidowitz\nQuant Editing\nAmber Thomas\nData Journalism and Viz Accounts\nFlowing Data Website\n\n\n\n15.1.2 Books\n\nTelling Stories with Data: With Applications in R and Python\n\n\n\n15.1.3 Guides\n\nGitHub Data Journalism\nA Beginner’s Guide to Data Journalism: Let’s Build a Story From Scratch\nQuick Guide to Data Journalism\nData journalism: a guide for editors\nDeveloping Data Journalists in the Developing World\nThe Inverted Pyramid of Data Journalism\n\n\n\n15.1.4 Writing\n\nInterrogating Data: A Science Writer’s Guide to Data Journalism\nDueling Data\nHow data journalists create beautiful feature stories\nA data journalist’s guide to building a hypothesis\nFlowing Data Story Formats\nTelling Stories With Data: A Simple Math Guide\nData Biographies: Getting to Know Your Data\nPutting data back into context\n\n\n\n15.1.5 Tools\n\nData Journalism Tools\nData Journalism and Visualization with Free Tools\nStorytelling Tools\nStoryBench: The future of machine learning in journalism\nHow ProPublica Analyzed Pardon Data\n\n\n\n15.1.6 Tutorials\n\nMapping search data from Google Trends in R\nUsing R to Analyze Fargo Crime Data\n\n\n\n15.1.7 Organizations\n\nGlobal Investigative Journalism Network Data Journalism\nProPublica Data Institute 2018\nProPublica Data Institute 2019\nGoogle News Initiative\nKnight Foundation: Misinformation\nThe Bureau of Investigative Journalism\nFake News Public Data Lab\nAP DataKit\nData Journalism Grants\nA community conference for data makers everywhere",
     "crumbs": [
       "Data Visualization and Storytelling",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Journalism Tools and Stories</span>"
@@ -806,7 +806,7 @@
     "href": "resources/data_viz/ds_journalism.html#data-stories-longform-and-in-depth-articles",
     "title": "15  Data Journalism Tools and Stories",
     "section": "15.2 Data Stories (Longform and In-depth articles)",
-    "text": "15.2 Data Stories (Longform and In-depth articles)\n\n15.2.1 Story aggregators\n\nGlobal Investigative Journalism Network Top 10\nMedia Hack Collective\n12 brilliant data journalism projects of 2021\nData Journalism: Some Favorite Examples\nExamples of Award-winning Data Journalism\n12 Best Data Journalism Examples:Storytelling with data\n10 data journalism projects that made an impact in 2020: our ultimate COVID-19 roundup\n\n\n\n15.2.2 Top Data Story Examples\n\n10 years. 180 school shootings. 356 victims.\nBlind Drunk\nUber Game\nWhat Africa will look like in 100 years\nONE NATION, TRACKED\nLife in the camps\nLife in Hong Kong’s shoebox housing\nThe Facebook Scandal\nNSA Files Decoded\nThe Deadliest Jobs in America\nCongressional Tweets\nThe Kim Foxx Effect\nWhat makes a titletown?\nHigh street crisis deepens\nThe use of political ads on facebook in the run-up to the European Parliament elections 2019 in Austria\nWhat the Democratic Presidential Candidates Care About, in 44,000 Tweets\nHow many high school stars make it in the NBA?",
+    "text": "15.2 Data Stories (Longform and In-depth articles)\n\n15.2.1 Story aggregators\n\nGlobal Investigative Journalism Network Top 10\nMedia Hack Collective\n12 brilliant data journalism projects of 2021\nData Journalism: Some Favorite Examples\nExamples of Award-winning Data Journalism\n12 Best Data Journalism Examples:Storytelling with data\n10 data journalism projects that made an impact in 2020: our ultimate COVID-19 roundup\n\n\n\n15.2.2 Top Data Story Examples\n\n10 years. 180 school shootings. 356 victims.\nBlind Drunk\nUber Game\nWhat Africa will look like in 100 years\nONE NATION, TRACKED\nLife in the camps\nLife in Hong Kong’s shoebox housing\nThe Facebook Scandal\nNSA Files Decoded\nThe Deadliest Jobs in America\nCongressional Tweets\nThe Kim Foxx Effect\nWhat makes a titletown?\nHigh street crisis deepens\nThe use of political ads on facebook in the run-up to the European Parliament elections 2019 in Austria\nWhat the Democratic Presidential Candidates Care About, in 44,000 Tweets\nHow many high school stars make it in the NBA?\nBussed out\nInside the miracle of modern chip manufacturing\nMoney and Power: The Wealth of America’s Elected Officials\nHow online donations are fueling the election\nThe Making of Angela Merkel\nThe Millions Who Left\nWhy are things expensive?\nGetting a good job\nBuild a Voter",
     "crumbs": [
       "Data Visualization and Storytelling",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Journalism Tools and Stories</span>"
@@ -1309,6 +1309,83 @@
     "crumbs": [
       "Recommended Readings",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>Recommended Readings (General)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/quarto.html#miscellaneous-tools-for-web-development",
+    "href": "resources/programming/quarto.html#miscellaneous-tools-for-web-development",
+    "title": "3  Quarto",
+    "section": "3.2 Miscellaneous Tools for Web Development",
+    "text": "3.2 Miscellaneous Tools for Web Development\n\nFlatIcon",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Quarto</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/git_hub_cl_sql_docker.html",
+    "href": "resources/programming/git_hub_cl_sql_docker.html",
+    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "section": "",
+    "text": "4.1 Git",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/git_hub_cl_sql_docker.html#git",
+    "href": "resources/programming/git_hub_cl_sql_docker.html#git",
+    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "section": "",
+    "text": "4.1.1 Basics and Summaries\n\nGit Basics\nGit Cheatsheet\nGit/GitHub Cheatsheet\nA Visual Git Reference\nVisualizing Git Concepts with D3\nGit Immersion\nLearn Git Branching\nIntroduction to Git & Github\nHow to Use Git/GitHub with R\ngit ready\n\n\n\n4.1.2 Books\n\nPro Git Book\nHappy Git and GitHub for the user\n\n\n\n4.1.3 Tutorials\n\nUnderstanding Git Conceptually\nBecome a git guru\nGit and RStudio\nGood Enough Practices in Scientific Computing\nVersion Control (Git)\n\n\n\n4.1.4 Git Troubleshooting\n\nOn undoing, fixing, or removing commits in git\nFixing Common Git Mistakes",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/git_hub_cl_sql_docker.html#github",
+    "href": "resources/programming/git_hub_cl_sql_docker.html#github",
+    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "section": "4.2 GitHub",
+    "text": "4.2 GitHub\n\n4.2.1 Basics\n\nGetting started with Git and GitHub: the complete beginner’s guide\nAn Intro to Git and GitHub for Beginners (Tutorial)\nGet started with Git and GitHub\nMastering GitHub in 4 Steps\nGitHub for supporting, reusing, contributing, and failing safely\n\n\n\n4.2.2 Training and Tutorials\n\nIntroducing GitHub Global Campus\nCollaboration, version control and learning to commit\nMaking Your First GitHub R Project\n\n\n\n4.2.3 Applications\n\nIntroduction to GitHub Actions to R users\nHow to effortlessly create a website for free with GitHub Pages\nIntroducing Jekyll Now for GitHub-hosted blogs\nSoftware development practices",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/git_hub_cl_sql_docker.html#command-line-bash-unix-and-linux",
+    "href": "resources/programming/git_hub_cl_sql_docker.html#command-line-bash-unix-and-linux",
+    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "section": "4.3 Command Line (Bash, UNIX, and Linux)",
+    "text": "4.3 Command Line (Bash, UNIX, and Linux)\n\n4.3.1 Books\n\nCommand Line Basics for R Users\nData Science at the Command Line\n\n\n\n4.3.2 Lectures and Tutorials\n\nIntro to UNIX\nThe Unix Shell 1\nThe Unix Shell 2\n7 Command-Line Tools for Data Science",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/git_hub_cl_sql_docker.html#sql",
+    "href": "resources/programming/git_hub_cl_sql_docker.html#sql",
+    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "section": "4.4 SQL",
+    "text": "4.4 SQL\n\n4.4.1 Collection of SQL Resources\n\n21 of the best free resources to learn SQL\n\n\n\n4.4.2 Tutorials\n\nPostgreSQL Tutorial\nThe SQL Tutorial for Data Analysis\nSQL Hackerrank Channels\nSQL Tutorial 1\nSQL Tutorial 2\nSQLBolt\nSQL queries don’t start with SELECT\nA Visual Explanation of SQL Joins\nSQL Zoo",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/git_hub_cl_sql_docker.html#docker",
+    "href": "resources/programming/git_hub_cl_sql_docker.html#docker",
+    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "section": "4.5 Docker",
+    "text": "4.5 Docker\n\n4.5.1 Tutorials\n\nCarpentries: Introduction to Docker",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
     ]
   }
 ]

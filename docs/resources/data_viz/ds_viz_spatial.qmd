@@ -1,0 +1,20 @@
+---
+title: "Data Visualization (Spatial)"
+toc: true
+---
+
+The Spatial Data Visualization page provides a list of books and tutorials for beginners. There are links to practical introductions to ....
+
+## Data Visualization (Spatial Data Tools)
+
+1)  [GADM](https://gadm.org/)
+2)  [geoBoundaries](https://www.geoboundaries.org/)
+3)  [Natural Earth](https://www.naturalearthdata.com/)
+4)  [IPUMS GIS](https://international.ipums.org/international/gis.shtml)
+5)  [GeoData](https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/home)
+6)  [HDX](https://data.humdata.org/)
+
+## Tutorials
+
+1) [Spatio-Temporal Data Visualization](https://medium.com/@samvardhanvishnoi2026/spatio-temporal-data-visualization-my-top-3-techniques-by-experience-4b92113b97ea)
+
