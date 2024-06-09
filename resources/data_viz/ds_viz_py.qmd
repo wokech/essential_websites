@@ -8,7 +8,7 @@ The Python Data Visualization page provides a list of books and tutorials for be
 ## Books
 
 1)  [The Python Graph Gallery](https://www.python-graph-gallery.com/)
-2) [Altair](https://jjallaire.github.io/visualization-curriculum/)
+2)  [Altair](https://jjallaire.github.io/visualization-curriculum/)
 
 ## Tutorials
 
@@ -24,3 +24,5 @@ The Python Data Visualization page provides a list of books and tutorials for be
 10) [Introducing Plotly Express](https://medium.com/plotly/introducing-plotly-express-808df010143d)
 11) [seaborn: statistical data visualization](http://seaborn.pydata.org/#seaborn-statistical-data-visualization)
 12) [PyGWalker](https://github.com/Kanaries/pygwalker)
+13) [A Grammar of Graphics for Python](https://plotnine.org/)
+

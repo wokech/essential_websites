@@ -1,0 +1,12 @@
+---
+title: "Data Visualization (D3 Javascript)"
+toc: true
+---
+
+The D3JS page provides a list of books and tutorials for beginners. There are links to practical introductions to data visualization, tools and style guidelines.
+
+## Data Visualization (D3 Javascript)
+
+1)  [Introduction to SVG and D3.js](https://observablehq.com/@sxywu/introduction-to-svg-and-d3-js)
+2)  [D3 Annotation](https://d3-annotation.susielu.com/)
+3) [Learn D3.js](https://www.tutorialsteacher.com/d3js)

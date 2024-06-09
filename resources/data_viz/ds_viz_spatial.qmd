@@ -16,5 +16,6 @@ The Spatial Data Visualization page provides a list of books and tutorials for b
 
 ## Tutorials
 
-1) [Spatio-Temporal Data Visualization](https://medium.com/@samvardhanvishnoi2026/spatio-temporal-data-visualization-my-top-3-techniques-by-experience-4b92113b97ea)
-
+1)  [Spatio-Temporal Data Visualization](https://medium.com/@samvardhanvishnoi2026/spatio-temporal-data-visualization-my-top-3-techniques-by-experience-4b92113b97ea)
+2) [How to build an animated map of tweets about the NBA finals in R](https://www.storybench.org/build-animated-map-tweets-nba-finals-r/)
+3) 

@@ -21,7 +21,6 @@ This page provides a comprehensive collection of resources on statistics. Includ
 12) [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/)
 13) [Lessons in Statistical Thinking](https://dtkaplan.github.io/Lessons-in-statistical-thinking/)
 
-
 ### Personal Websites and Blogs
 
 1)  [Statistical Thinking](https://www.fharrell.com/)
@@ -52,6 +51,8 @@ This page provides a comprehensive collection of resources on statistics. Includ
 9)  [Bayes Explained 1](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 10) [Bayes Explained 2](https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/)
 11) [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html)
+12) [How to interpret a p-value histogram](http://varianceexplained.org/statistics/interpreting-pvalue-histogram/)
+13) [Shiny Apps for demystifying statistical methods](https://sites.google.com/view/ben-prytherch-shiny-apps/shiny-apps?authuser=0)
 
 ### Troubleshooting
 
@@ -65,3 +66,5 @@ This page provides a comprehensive collection of resources on statistics. Includ
 3)  [Biostatistics Series Papers](https://scholar.google.com/scholar?start=0&q=avijit+hazra+biostatistics&hl=en&as_sdt=0,5)
 4)  [WCM Biostatistics Computing Club](https://wcm-computing-club.github.io/index.html)
 5)  [Katherine (Kat) Hoffman Biostats](https://www.khstats.com/)
+6) [Statistics for Biologists I](https://www.nature.com/collections/qghhqm)
+7) [Statistics for Biologists II](https://www.nature.com/collections/qghhqm/pointsofsignificance)

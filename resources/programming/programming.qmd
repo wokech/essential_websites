@@ -14,3 +14,7 @@ This page provides a comprehensive collection of resources on programming tools 
 ##### 3. [Git, GitHub, Command Line, SQL, and Docker](git_hub_cl_sql_docker.qmd)
 
 ##### 4. [Quarto](quarto.qmd)
+
+##### 5. [Shiny](shiny.qmd)
+
+##### 6. [Front-End Development](frontend_dev.qmd)

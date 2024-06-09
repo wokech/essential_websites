@@ -1,0 +1,38 @@
+---
+title: "Shiny"
+toc: true
+---
+
+This page provides a comprehensive collection of Shiny resources. On this page, you will find a list of personal websites and blogs that do some great work in R Shiny. Additionally, there is a list of resources (books, tutorials, and blogs) focused on the basics of Shiny.
+
+## R Shiny
+
+### Basics
+
+1)  [a gRadual intRoduction to Shiny](https://laderast.github.io/gradual_shiny/)
+2)  [Shiny Learning Resources](https://shiny.rstudio.com/tutorial/)
+3)  [How to Start a Career as an R Shiny Developer](https://appsilon.com/how-to-start-a-career-as-an-r-shiny-developer/)
+4)  [Shiny Apps development](https://apps.garrickadenbuie.com/)
+5)  [The World's Most Advanced R Shiny Dashboards](https://appsilon.com/)
+
+### Books
+
+1)  [Mastering Shiny](https://mastering-shiny.org/)
+2)  [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+3)  [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
+
+### Tutorials
+
+1)  [Shiny Tutorials](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/)
+2)  [Building Web Applications WITH SHINY](https://rstudio-education.github.io/shiny-course/)
+3)  [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/)
+4)  [Building Interactive World Maps in Shiny](https://rviews.rstudio.com/2019/10/09/building-interactive-world-maps-in-shiny/)
+5) [A webR powered Shiny app](https://nrennie.rbind.io/blog/webr-shiny-tidytuesday/)
+
+### Tools
+
+1)  [HTML widgets flexdashboard](https://pkgs.rstudio.com/flexdashboard/)
+2)  [htmlwidgets for R](http://www.htmlwidgets.org/)
+3)  [RinteRface: HTML templates for Shiny](https://rinterface.com/)
+4)  [Loading screens for Shiny: waiter](https://waiter.john-coene.com/#/)
+5) [shinyscholar](https://simon-smart88.github.io/shinyscholar/)

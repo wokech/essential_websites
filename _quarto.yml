@@ -44,6 +44,8 @@ book:
         - resources/programming/python.qmd
         - resources/programming/quarto.qmd
         - resources/programming/git_hub_cl_sql_docker.qmd
+        - resources/programming/shiny.qmd
+        - resources/programming/frontend_dev.qmd
     - part: resources/ds_ml_ai/ds_ml_ai.qmd
       chapters: 
         - resources/ds_ml_ai/ds_ml_ai_all.qmd
@@ -58,6 +60,7 @@ book:
         - resources/data_viz/ds_viz_r.qmd
         - resources/data_viz/ds_viz_py.qmd
         - resources/data_viz/ds_viz_tableau.qmd
+        - resources/data_viz/ds_viz_d3js.qmd
         - resources/data_viz/ds_journalism.qmd
     - part: resources/gen_ai_llms/gen_ai_llms.qmd
       chapters: 

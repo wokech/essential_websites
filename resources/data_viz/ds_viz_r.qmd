@@ -8,7 +8,7 @@ This page contains a list of resources focused on data visualization in R. There
 ## Curated Links by other data viz specialists
 
 1)  [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2)
-2) [Awesome R Dataviz](https://krzjoa.github.io/awesome-r-dataviz/#/)
+2)  [Awesome R Dataviz](https://krzjoa.github.io/awesome-r-dataviz/#/)
 
 ## Books
 
@@ -37,6 +37,8 @@ This page contains a list of resources focused on data visualization in R. There
 9)  [Tom's Cookbook for Better Viz](https://jthomasmock.github.io/nfl_plotting_cookbook/)
 10) [12 ggplot extensions for snazzier R graphics](https://www.infoworld.com/article/3667496/12-ggplot-extensions-for-snazzier-r-graphics.html)
 11) [Data Visualization Packages for R you should check out in 2022](https://citedrive.medium.com/data-visualization-packages-for-r-you-should-check-out-in-2022-35f3b56425ff)
+12) [USGS VizLab](https://labs.waterdata.usgs.gov/visualizations/index.html#/)
+13) [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
 
 ## Courses
 
@@ -66,6 +68,7 @@ This page contains a list of resources focused on data visualization in R. There
 15) [Beautiful plotting in R: A ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 16) [The Good, the Bad and the Ugly: how (not) to visualize data](https://shirinsplayground.netlify.app/2020/10/goodbadugly/)
 17) [Six things I always Google when using ggplot2](https://ivelasq.rbind.io/blog/things-i-google/)
+18) [Visualise a billion rows of data in R with Apache Arrow](https://blog.djnavarro.net/posts/2022-08-23_visualising-a-billion-rows/)
 
 ### Troubleshooting
 
@@ -121,8 +124,18 @@ This page contains a list of resources focused on data visualization in R. There
 13) [barbarplots](https://barbarplots.github.io/)
 14) [Dynamic display of data with animated plots](https://thenode.biologists.com/dynamic-display-of-data-with-animated-plots/research/)
 15) [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/how-to-create-animated-bar-race-charts-in-r/)
+16) [Combining maps and patterns](https://albert-rapp.de/posts/ggplot2-tips/25_maps_patterns/25_maps_patterns)
+17) [Sketchy waffle charts in R](https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/)
 
-### Data Viz Examples
+### Great Tables
+
+1) [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
+2) [The grammar of tables in python (pandas) and R (gt)](https://karbartolome.quarto.pub/the-grammar-of-tables/)
+3) [Various Table Types in R](https://r-graph-gallery.com/table.html)
+4) [gtsummary](https://www.danieldsjoberg.com/gtsummary/index.html)
+5) [gtExtras](https://jthomasmock.github.io/gtExtras/)
+
+## Good Data Viz Examples
 
 1)  [Can I do that? Inspiration from a Pudding data visualization](https://austinwehrwein.com/data-visualization/winningest/)
 2)  [Visualizing the heterogeneity of single cell data from time-lapse imaging](https://thenode.biologists.com/visualizing-heterogeneity-of-imaging-data/research/)
@@ -140,6 +153,8 @@ This page contains a list of resources focused on data visualization in R. There
 14) [Visualizing Time Series](https://tsggplot.netlify.app/#1)
 15) [Visualising high-dimensional data](https://github.com/dicook/useR2019_highd_vis)
 16) [Data Storytelling in R](https://posit.co/blog/how-i-use-stories-to-share-data-at-meetings/)
+17) [Great Table: Cultivated Planet](https://github.com/BjnNowak/CultivatedPlanet/tree/main)
+
 
 ## Data aRtistry
 

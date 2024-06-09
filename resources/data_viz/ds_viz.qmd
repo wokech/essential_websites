@@ -19,6 +19,10 @@ This page provides a comprehensive collection of resources on data visualization
 
 ##### 5. [Data Visualization (Spatial)](ds_viz_spatial.qmd)
 
+##### 6. [Data Visualization (D3.js)](ds_viz_d3js.qmd)
+
+
+
 ### Journalism and Storytelling
 
 ##### 1. [Data Journalism and Storytelling](ds_journalism.qmd)

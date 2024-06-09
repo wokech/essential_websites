@@ -31,6 +31,7 @@ On this page, there is a comprehensive collection of resources focused on social
 14) [Twitter's Feelings About Programming Languages](https://www.garrickadenbuie.com/blog/tweet-poll-programming-languages/)
 15) [Look who's tweeting: 2020 Presidential Candidates](https://austinwehrwein.com/data-visualization/2020candidates/)
 16) [A TidyText Analysis With R](https://methodmatters.github.io/country-vs-rb-hiphop-lyrics-part-2-tidytext/)
+17) [Getting started with stringr for textual analysis in R](https://www.storybench.org/getting-started-stringr-textual-analysis-r/)
 
 ### Courses
 
@@ -77,3 +78,5 @@ On this page, there is a comprehensive collection of resources focused on social
 24) [Spotify songs popularity analysis](https://www.kaggle.com/code/fpolcari/spotify-songs-popularity-analysis)
 25) [Nigerian Songs Spotify EDA](https://www.kaggle.com/code/moremaaz/nigerian-songs-spotify-eda/notebook)
 26) [Sentiment Analysis of Spotify, Amazon Music, and Pandora user reviews](https://rpubs.com/michelledo202/sa)
+27) [How to download YouTube data in R using “tuber” and “purrr”](https://www.storybench.org/how-to-download-youtube-data-in-r-using-tuber-and-purrr/)
+28) [How to download song lyrics from Genius using Python](https://www.storybench.org/download-song-lyrics-genius-using-python/)

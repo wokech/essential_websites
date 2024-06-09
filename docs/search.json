@@ -74,7 +74,7 @@
     "href": "resources/programming/programming.html#a-curated-collection-of-resources",
     "title": "Programming",
     "section": "",
-    "text": "1. R and RStudio\n\n\n2. Python\n\n\n3. Git, GitHub, Command Line, SQL, and Docker\n\n\n4. Quarto",
+    "text": "1. R and RStudio\n\n\n2. Python\n\n\n3. Git, GitHub, Command Line, SQL, and Docker\n\n\n4. Quarto\n\n\n5. Shiny\n\n\n6. Front-End Development",
     "crumbs": [
       "Programming"
     ]
@@ -95,7 +95,7 @@
     "href": "resources/programming/r_rstudio.html#personal-websites-and-blogs",
     "title": "1  R and RStudio",
     "section": "",
-    "text": "Silvia Canelon\nMeghan Hall\nPaul Villanueva\nShannon Pileggi\nKatherine (Kat) Hoffman\nDeisy Gysi\nSimon J\nRyo Nakagawara\nKieran Healy - Some Favorite Things\nFrançois Husson\nRebecca Barter\nAlboukadel Kassambara\nMichael Toth\nSam Abbott\nShel Kariuki\nAustin Wehrwein\nNicola Rennie\nR for Ecology\nStats and R\nRoland Krasser\nMartin Chan - Musings on R\nRsquared Academy\nOlivier Gimenez",
+    "text": "Silvia Canelon\nMeghan Hall\nPaul Villanueva\nShannon Pileggi\nKatherine (Kat) Hoffman\nDeisy Gysi\nSimon J\nRyo Nakagawara\nKieran Healy - Some Favorite Things\nFrançois Husson\nRebecca Barter\nAlboukadel Kassambara\nMichael Toth\nSam Abbott\nShel Kariuki\nAustin Wehrwein\nNicola Rennie\nR for Ecology\nStats and R\nRoland Krasser\nMartin Chan - Musings on R\nRsquared Academy\nOlivier Gimenez\nDavid Schoch",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>R and RStudio</span>"
@@ -106,7 +106,7 @@
     "href": "resources/programming/r_rstudio.html#basics",
     "title": "1  R and RStudio",
     "section": "1.2 Basics",
-    "text": "1.2 Basics\n\n1.2.1 Curated list of resources\n\nBig Book of R\nFREE R READING MATERIAL\nAn R Community Public Library\nAwesome R Learning Resources\nR Cheatsheets\nPosit Cheatsheets\nR4theRestofUs\nEDUCATORS R LEARNERS\nR and Data Mining\n\n\n\n1.2.2 Books\n\nR4DataScience\nR4DataScience - Solutions\nR4DataScience, 2nd Edition\nR Workflow A\nR Workflow B\nWhat They Forgot to Teach You About R\nR for Researchers: An Introduction\nSupervised Machine Learning for Text Analysis in R\nReproducible Analytical Pipelines - Master’s of Data Science\nR for Data Analysis\nData Analysis and Prediction Algorithms with R\nHands-On Programming with R\nR for Health Data Science\nR for Health Data Science Resources\nData Science in Education Using R\nA Succinct Intro to R\nData Science: A First Introduction\nThe Epidemiologist R Handbook\nIntroduction to R, version 2\nTechnical Foundations of Informatics\nData Science for Economists and Other Animals\nEfficient R programming\nAn Introduction to R\nYaRrr! The Pirate’s Guide to R\nModern Data Science with R\nHands-On Machine Learning with R\nModern Dive\nAdvanced R\nYet Again: R + Data Science\nPublic Policy Analytics\nHands-On Machine Learning with R\nDeep R Programming\nUrban Informatics\nMastering Spark with R\nModern Statistics with R\nR for the Rest of Us: A Statistics-Free Introduction\n\n\n\n1.2.3 R and GPT\n\nR and gpttools\n\n\n\n1.2.4 Conference Workshops\n\nTalk recordings and workshop materials from rstudio::conf(2022)\nLinks to slides from rstudio::conf 2020\nNHS-R\nuseR! 2019 Highlights\nToulouseR 2019\n\n\n\n1.2.5 Package Development\n\nR Packages\nIntroduction to Package Development\nYour first R package in 1 hour\nDeveloping R packages\nReflections on building my first few R packages\n\n\n\n1.2.6 Newsletters\n\nRWeekly\n\n\n\n1.2.7 Training Courses and Tutorials\n\nRStudio Education\nRStudio Education Beginners\nRStudio Education Intermediates\nRStudio Education Experts\nQuick-R Tutorial\nLearn R in R\nLearning R With Education Datasets\nSTAT 545 Data wrangling, exploration, and analysis with R\nSTHDA\ndatascienceplus\nStatistical Computing in R\nStatistical Programming Paradigms and Workflows\nTeaching Statistics and Data Science Online\nAn Introduction to Docker for R Users\nR Bootcamp\nKane’s Data Science Course\nAndrew Heiss R-based courses\nSTREAMLINING WITH R\nR Bootcamp\nAdvanced R Topics\nR for Water Resources Data Science\nReproducible science workshop\nThink R\nR 4 Beginners\nApplied Economics with R\nReady for R\nInterpretable Machine Learning\nR basics: a practical introduction to R\nIntroduction to R\nfasteR: Fast Lane to Learning R!\nAnalysis of community ecology data in R\nR Screencasts\nR for better science in less time\nR and Stats\nPalmer Archipelago Penguins Data\nWe are R-Ladies\nWeb Scraping in R: A Quick Guide\nWord Clouds in R\nData science tutorials\nMARKET ANALYSIS COURSE\nRTutor: Interactive R Problem Sets\nData Wrangling and dplyr\nIntro to R for Programming\npurrr tutorial\nIntro to R: Shiny App\nSpatial Data Science\nGeneralized Additive Models in R\nVisualizing the Bayesian workflow in R\nCreate machine learning models: An R version\nWrangling Unruly Data\nCleaning UK Office for National Statistics data in R\nHow to Automate EDA with DataExplorer in R\nRachael’s R Tutorials\nManipulating Data with dplyr\nGet me to the church on time with R spatial\nMultivariate data analysis with R and vegan\nA Course in Exploratory Data Analysis\n\n\n\n1.2.8 Tools\n\nR Universe Authors and Packages\nR-hub\nR in Visual Studio Code\nR Libraries Every Data Scientist Should Know\nPackages for Exploratory Data Analysis in R\n15 Essential packages in R for Data Science\n\n\n\n1.2.9 Troubleshooting / Tips and Tricks\n\nHow to Use “not in” operator in Filter\nCommon R Mistakes in Data Viz\nR Examples\nR Tips and Tricks\n\n\n\n1.2.10 Hackathons and Competitions\n\nKaggle Housing Price Tutorial",
+    "text": "1.2 Basics\n\n1.2.1 Curated list of resources\n\nBig Book of R\nFREE R READING MATERIAL\nAn R Community Public Library\nAwesome R Learning Resources\nR Cheatsheets\nPosit Cheatsheets\nR4theRestofUs\nEDUCATORS R LEARNERS\nR and Data Mining\n\n\n\n1.2.2 Books\n\nR4DataScience\nR4DataScience - Solutions\nR4DataScience, 2nd Edition\nR Workflow A\nR Workflow B\nWhat They Forgot to Teach You About R\nR for Researchers: An Introduction\nSupervised Machine Learning for Text Analysis in R\nReproducible Analytical Pipelines - Master’s of Data Science\nR for Data Analysis\nData Analysis and Prediction Algorithms with R\nHands-On Programming with R\nR for Health Data Science\nR for Health Data Science Resources\nData Science in Education Using R\nA Succinct Intro to R\nData Science: A First Introduction\nThe Epidemiologist R Handbook\nIntroduction to R, version 2\nTechnical Foundations of Informatics\nData Science for Economists and Other Animals\nEfficient R programming\nAn Introduction to R\nYaRrr! The Pirate’s Guide to R\nModern Data Science with R\nHands-On Machine Learning with R\nModern Dive\nAdvanced R\nYet Again: R + Data Science\nPublic Policy Analytics\nHands-On Machine Learning with R\nDeep R Programming\nUrban Informatics\nMastering Spark with R\nModern Statistics with R\nR for the Rest of Us: A Statistics-Free Introduction\n\n\n\n1.2.3 R and GPT\n\nR and gpttools\n\n\n\n1.2.4 Snowflake\n\nAnalyze Data with R using Posit Workbench and Snowflake\nAnalyze Data in R with Posit Workbench and Snowflake\n\n\n\n1.2.5 Conference Workshops\n\nTalk recordings and workshop materials from rstudio::conf(2022)\nLinks to slides from rstudio::conf 2020\nNHS-R\nuseR! 2019 Highlights\nToulouseR 2019\n\n\n\n1.2.6 Package Development\n\nR Packages\nIntroduction to Package Development\nYour first R package in 1 hour\nDeveloping R packages\nReflections on building my first few R packages\nR Package Tutorial\n\n\n\n1.2.7 Newsletters\n\nRWeekly\n\n\n\n1.2.8 Training Courses and Tutorials\n\nRStudio Education\nRStudio Education Beginners\nRStudio Education Intermediates\nRStudio Education Experts\nQuick-R Tutorial\nLearn R in R\nLearning R With Education Datasets\nSTAT 545 Data wrangling, exploration, and analysis with R\nSTHDA\ndatascienceplus\nStatistical Computing in R\nStatistical Programming Paradigms and Workflows\nTeaching Statistics and Data Science Online\nAn Introduction to Docker for R Users\nR Bootcamp\nKane’s Data Science Course\nAndrew Heiss R-based courses\nSTREAMLINING WITH R\nR Bootcamp\nAdvanced R Topics\nR for Water Resources Data Science\nReproducible science workshop\nThink R\nR 4 Beginners\nApplied Economics with R\nReady for R\nInterpretable Machine Learning\nR basics: a practical introduction to R\nIntroduction to R\nfasteR: Fast Lane to Learning R!\nAnalysis of community ecology data in R\nR Screencasts\nR for better science in less time\nR and Stats\nPalmer Archipelago Penguins Data\nWe are R-Ladies\nWeb Scraping in R: A Quick Guide\nWord Clouds in R\nData science tutorials\nMARKET ANALYSIS COURSE\nRTutor: Interactive R Problem Sets\nData Wrangling and dplyr\nIntro to R for Programming\npurrr tutorial\nIntro to R: Shiny App\nSpatial Data Science\nGeneralized Additive Models in R\nVisualizing the Bayesian workflow in R\nCreate machine learning models: An R version\nWrangling Unruly Data\nCleaning UK Office for National Statistics data in R\nHow to Automate EDA with DataExplorer in R\nRachael’s R Tutorials\nManipulating Data with dplyr\nGet me to the church on time with R spatial\nMultivariate data analysis with R and vegan\nA Course in Exploratory Data Analysis\nExploratory Data Analysis with explore package\nGetting Started with R\nR Crash Course\nFour ways to streamline your R workflows\nOne billion row challenge using base R\n\n\n\n1.2.9 Tools\n\nR Universe Authors and Packages\nR-hub\nR in Visual Studio Code\nR Libraries Every Data Scientist Should Know\nPackages for Exploratory Data Analysis in R\n15 Essential packages in R for Data Science\nWebR - R in the Browser\nFive useful R functions\nSix not-so-basic base R functions\nGet Good with R: Typing Skills and Shortcuts\n\n\n\n1.2.10 Troubleshooting / Tips and Tricks\n\nHow to Use “not in” operator in Filter\nCommon R Mistakes in Data Viz\nR Examples\nR Tips and Tricks\n\n\n\n1.2.11 Hackathons and Competitions\n\nKaggle Housing Price Tutorial",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>R and RStudio</span>"
@@ -117,7 +117,7 @@
     "href": "resources/programming/r_rstudio.html#tidyverse",
     "title": "1  R and RStudio",
     "section": "1.3 Tidyverse",
-    "text": "1.3 Tidyverse\n\n1.3.1 Basics\n\nA very short introduction to Tidyverse\nThe Tidyverse in Action\nA Gentle Guide to Tidy Statistics in R\nAn Introduction to R through the tidyverse\nC’est quoi, le tidyverse?\nBasic usage of tidycensus\n\n\n\n1.3.2 Books\n\nTidyverse Skills for Data Science\nModern R with the tidyverse\nText Mining with R: A Tidy Approach\n\n\n\n1.3.3 Workshops\n\nTidyverse Workshop Series\n\n\n\n1.3.4 Tips and Tricks\n\nEight R Tidyverse tips for everyday data engineering\nTidyverse Tips\n\n\n\n1.3.5 Tutorials\n\nData Science LADAL Tutorials\nPivoting data from columns to rows (and back!) in the tidyverse\nReshaping data frames using pivot functions from {tidyr} and tally from {dplyr}\nFinding the modal school district\nTeaching the tidyverse in 2021\nData manipulation with the tidyverse\nThe TidyVerse in Action\nTransitioning into the tidyverse (part 1)\nTransitioning into the tidyverse (part 2)\nIntroduction to using Databases in R, with Tidyverse tools\nWrangling penguins: some basic data wrangling in R with dplyr",
+    "text": "1.3 Tidyverse\n\n1.3.1 Basics\n\nA very short introduction to Tidyverse\nThe Tidyverse in Action\nA Gentle Guide to Tidy Statistics in R\nAn Introduction to R through the tidyverse\nC’est quoi, le tidyverse?\nBasic usage of tidycensus\n\n\n\n1.3.2 Books\n\nTidyverse Skills for Data Science\nModern R with the tidyverse\nText Mining with R: A Tidy Approach\n\n\n\n1.3.3 Workshops\n\nTidyverse Workshop Series\n\n\n\n1.3.4 Tips and Tricks\n\nEight R Tidyverse tips for everyday data engineering\nTidyverse Tips\n\n\n\n1.3.5 Tutorials\n\nData Science LADAL Tutorials\nPivoting data from columns to rows (and back!) in the tidyverse\nReshaping data frames using pivot functions from {tidyr} and tally from {dplyr}\nFinding the modal school district\nTeaching the tidyverse in 2021\nData manipulation with the tidyverse\nThe TidyVerse in Action\nTransitioning into the tidyverse (part 1)\nTransitioning into the tidyverse (part 2)\nIntroduction to using Databases in R, with Tidyverse tools\nWrangling penguins: some basic data wrangling in R with dplyr\nVisualize {dplyr}\nVisualize the Tidyverse",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>R and RStudio</span>"
@@ -161,7 +161,7 @@
     "href": "resources/programming/python.html#python",
     "title": "2  Python",
     "section": "",
-    "text": "2.1.1 Curated collection of resources\n\nBig Book of Python\nPython for Non-Programmers\n49 Essential Resources To Learn Python\nA Gallery of Interesting Jupyter Notebooks\nA dozen ways to learn Python\n\n\n\n2.1.2 Personal Websites and Blogs\n\n\n2.1.3 Books\n\nAutomate the Boring Stuff with Python\nElements of Data Science\nScientific Computing with Python\nComputational and Inferential Thinking: The Foundations of Data Science\nPython for Data Analysis, 3E\nPython Programming And Numerical Methods: A Guide For Engineers And Scientists\n100 Page Python Intro\nThink Python 2e\nA Whirlwind Tour of Python\nGoogle’s Python Class\nPython Data Science Handbook\n\n\n\n2.1.4 Basics\n\nNumpy\nPython Cheatsheet\nComprehensive Python Cheatsheet\nPython Curriculum Map\nData School: My top 25 pandas tricks\n10 Python Pandas tricks that make your work more efficient\nPython built-in functions to know\nData Science Best Practices with pandas\nTour of Python Itertools\n\n\n\n2.1.5 Tutorials\n\nReal Python\nResolving Python\nJust into Data\nChristina Levengood Blog\nPython Machine Learning Notebooks (Tutorial style)\nDataquest Tutorials\nVIB Tutorials\nData Flair Training\nTop 10 IPython Notebook Tutorials for Data Science and Machine Learning\nPython for Beginners Course\nPython Crash Course\nPython for Everybody (PY4E)\nPython Machine Learning Jupyter Notebooks\nPractical Business Python\nLearning Python For Data Science\nLearn Python in 3 days: Step-by-Step Guide\nA Complete 26 Week Course to Learn Python for Data Science in 2022\nPython for Data Science: 8 Concepts You May Have Forgotten\nWhat is Exploratory Spatial Data Analysis (ESDA)?\nGetting started with data science using Python\n\n\n\n2.1.6 Applications\n\nStock Portfolio Analysis using Python\nNeural networks fundamentals with Python\nPython News Webscraper\nWeb Scraping with Scrapy\nIntroduction to Market Basket Analysis in Python\n\n\n\n2.1.7 Projects\n\nPython Projects for 2023 – Work on Real-time Projects to Head Start Your Career\nPython Projects with Source Code\n45+ Data Analysis Projects with Python",
+    "text": "2.1.1 Curated collection of resources\n\nBig Book of Python\nPython for Non-Programmers\n49 Essential Resources To Learn Python\nA Gallery of Interesting Jupyter Notebooks\nA dozen ways to learn Python\n\n\n\n2.1.2 Personal Websites and Blogs\n\n\n2.1.3 Books\n\nAutomate the Boring Stuff with Python\nElements of Data Science\nScientific Computing with Python\nComputational and Inferential Thinking: The Foundations of Data Science\nPython for Data Analysis, 3E\nPython Programming And Numerical Methods: A Guide For Engineers And Scientists\n100 Page Python Intro\nThink Python 3e\nA Whirlwind Tour of Python\nGoogle’s Python Class\nPython Data Science Handbook\nScientific Python Lectures\n\n\n\n2.1.4 Basics\n\nNumpy\nPython Cheatsheet\nComprehensive Python Cheatsheet\nPython Curriculum Map\nData School: My top 25 pandas tricks\n10 Python Pandas tricks that make your work more efficient\nPython built-in functions to know\nData Science Best Practices with pandas\nTour of Python Itertools\nPandas vs tidyverse\nKarel the Robot\n\n\n\n2.1.5 Tutorials\n\nReal Python\nResolving Python\nJust into Data\nChristina Levengood Blog\nPython Machine Learning Notebooks (Tutorial style)\nDataquest Tutorials\nVIB Tutorials\nData Flair Training\nTop 10 IPython Notebook Tutorials for Data Science and Machine Learning\nPython for Beginners Course\nPython Crash Course\nPython for Everybody (PY4E)\nPython Machine Learning Jupyter Notebooks\nPractical Business Python\nLearning Python For Data Science\nLearn Python in 3 days: Step-by-Step Guide\nA Complete 26 Week Course to Learn Python for Data Science in 2022\nPython for Data Science: 8 Concepts You May Have Forgotten\nWhat is Exploratory Spatial Data Analysis (ESDA)?\nGetting started with data science using Python\nmarimo: a reactive Python notebook\n\n\n\n2.1.6 Applications\n\nStock Portfolio Analysis using Python\nNeural networks fundamentals with Python\nPython News Webscraper\nWeb Scraping with Scrapy\nIntroduction to Market Basket Analysis in Python\n\n\n\n2.1.7 Projects\n\nPython Projects for 2023 – Work on Real-time Projects to Head Start Your Career\nPython Projects with Source Code\n45+ Data Analysis Projects with Python",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Python</span>"
@@ -183,7 +183,7 @@
     "href": "resources/programming/quarto.html#introduction-and-tutorials",
     "title": "3  Quarto",
     "section": "",
-    "text": "3.1.1 Curated collection of Quarto Resources\n\nAwesome Quarto\n\n\n\n3.1.2 Beginner’s Guide\n\nQuarto\nTutorial: Hello, Quarto\nWhat is Quarto? RStudio rolls out next-generation R Markdown\nWe don’t talk about Quarto\nBuild a simple website with R and Quarto in under 10 minutes\nGetting Started with Quarto\nThe ultimate guide to starting a Quarto blog\nCreating a blog with Quarto in 10 steps\nMaking Slides in Quarto with reveal.js\n\n\n\n3.1.3 R Markdown and Distill\n\nThe Distillery\nR Markdown for Web Pages\nPorting a distill blog to quarto\nRMarkdown",
+    "text": "3.1.1 Curated collection of Quarto Resources\n\nAwesome Quarto\n\n\n\n3.1.2 Beginner’s Guide\n\nQuarto\nTutorial: Hello, Quarto\nWhat is Quarto? RStudio rolls out next-generation R Markdown\nWe don’t talk about Quarto\nBuild a simple website with R and Quarto in under 10 minutes\nGetting Started with Quarto\nThe ultimate guide to starting a Quarto blog\nCreating a blog with Quarto in 10 steps\nMaking Slides in Quarto with reveal.js\nQuarto dashboards\nExample report in Quarto using Penguin Dataset\nIntroduction to reproducible reporting with Quarto\nMaking Quarto Books\n\n\n\n3.1.3 R Markdown and Distill\n\nThe Distillery\nR Markdown for Web Pages\nPorting a distill blog to quarto\nRMarkdown",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Quarto</span>"
@@ -388,12 +388,12 @@
   {
     "objectID": "resources/ds_ml_ai/statistics.html",
     "href": "resources/ds_ml_ai/statistics.html",
-    "title": "6  Statistics",
+    "title": "8  Statistics",
     "section": "",
-    "text": "This page provides a comprehensive collection of resources on statistics. Included here is a list of links to books, lectures and courses, and tutorials focused on statistics.\n\n6.0.1 Books\n\nIntroduction to Modern Statistics\nCausal Inference: What If (Hernan MA)\nBayes Rules!\nCausal Inference: The Mixtape\nSeeing Theory\nCommon statistical tests are linear models (or: how to teach stats)\nModern Statistics with R\nIntroduction to Probability for Data Science\nIntro to Bayesian Business Analytics\nDesign and Analysis of Experiments and Observational Studies using R\nStatistical rethinking with brms, ggplot2, and the tidyverse\nBayes Rules! An Introduction to Applied Bayesian Modeling\nLessons in Statistical Thinking\n\n\n\n6.0.2 Personal Websites and Blogs\n\nStatistical Thinking\n\n\n\n6.0.3 Lectures and Courses\n\nStatistics 110: Probability\nStatistical Computing\nThe Grammar of Experimental Design\nProgram Evaluation for Public Service and Research Design\nSTA 363: Statistical Learning\nSTA 312: Linear Models\nSTA 212: Statistical Models\nStatistics 431: Advanced Statistical Computing with R\nGUide to STatistical Analysis in Microbial Ecology (GUSTA ME)\nRegression Modelling in R\n\n\n\n6.0.4 Tutorials\n\nWelcome to A/B Testing at Scale Tutorial\nCausation and Correlation\nAn Introduction to Hierarchical Modeling\nTidy Statistics in R\nStatistics and R\nTidy dataframes and statsExpressions\nPower Analysis | Introduction in R\nmetrica: Prediction performance metrics\nBayes Explained 1\nBayes Explained 2\nCausalImpact\n\n\n\n6.0.5 Troubleshooting\n\nStatistical Problems to Document and to Avoid\nDatamethods\n\n\n\n6.0.6 Biostatistics\n\nBiostatistics for Biomedical Research\nTutorials in Biostatistics Papers\nBiostatistics Series Papers\nWCM Biostatistics Computing Club\nKatherine (Kat) Hoffman Biostats",
+    "text": "This page provides a comprehensive collection of resources on statistics. Included here is a list of links to books, lectures and courses, and tutorials focused on statistics.\n\n8.0.1 Books\n\nIntroduction to Modern Statistics\nCausal Inference: What If (Hernan MA)\nBayes Rules!\nCausal Inference: The Mixtape\nSeeing Theory\nCommon statistical tests are linear models (or: how to teach stats)\nModern Statistics with R\nIntroduction to Probability for Data Science\nIntro to Bayesian Business Analytics\nDesign and Analysis of Experiments and Observational Studies using R\nStatistical rethinking with brms, ggplot2, and the tidyverse\nBayes Rules! An Introduction to Applied Bayesian Modeling\nLessons in Statistical Thinking\n\n\n\n8.0.2 Personal Websites and Blogs\n\nStatistical Thinking\n\n\n\n8.0.3 Lectures and Courses\n\nStatistics 110: Probability\nStatistical Computing\nThe Grammar of Experimental Design\nProgram Evaluation for Public Service and Research Design\nSTA 363: Statistical Learning\nSTA 312: Linear Models\nSTA 212: Statistical Models\nStatistics 431: Advanced Statistical Computing with R\nGUide to STatistical Analysis in Microbial Ecology (GUSTA ME)\nRegression Modelling in R\n\n\n\n8.0.4 Tutorials\n\nWelcome to A/B Testing at Scale Tutorial\nCausation and Correlation\nAn Introduction to Hierarchical Modeling\nTidy Statistics in R\nStatistics and R\nTidy dataframes and statsExpressions\nPower Analysis | Introduction in R\nmetrica: Prediction performance metrics\nBayes Explained 1\nBayes Explained 2\nCausalImpact\nHow to interpret a p-value histogram\nShiny Apps for demystifying statistical methods\n\n\n\n8.0.5 Troubleshooting\n\nStatistical Problems to Document and to Avoid\nDatamethods\n\n\n\n8.0.6 Biostatistics\n\nBiostatistics for Biomedical Research\nTutorials in Biostatistics Papers\nBiostatistics Series Papers\nWCM Biostatistics Computing Club\nKatherine (Kat) Hoffman Biostats\nStatistics for Biologists I\nStatistics for Biologists II",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Statistics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Statistics</span>"
     ]
   },
   {
@@ -509,34 +509,34 @@
   {
     "objectID": "resources/ds_ml_ai/soc_med_music_analysis.html",
     "href": "resources/ds_ml_ai/soc_med_music_analysis.html",
-    "title": "9  Social Media and Music Analysis",
+    "title": "11  Social Media and Music Analysis",
     "section": "",
-    "text": "9.1 Social Media Analysis",
+    "text": "11.1 Social Media Analysis",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Social Media and Music Analysis</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Social Media and Music Analysis</span>"
     ]
   },
   {
     "objectID": "resources/ds_ml_ai/soc_med_music_analysis.html#social-media-analysis",
     "href": "resources/ds_ml_ai/soc_med_music_analysis.html#social-media-analysis",
-    "title": "9  Social Media and Music Analysis",
+    "title": "11  Social Media and Music Analysis",
     "section": "",
-    "text": "9.1.1 Books\n\nText Mining with R\nSocial Media Mining\nSocial Media Mining (Slides)\n\n\n\n9.1.2 Tutorials\n\nANALYSING TWITTER DATA WITH R\nANALYSING TWITTER DATA: EXPLORING USER PROFILES AND RELATIONSHIPS\nANALYSING TWITTER DATA: EXPLORING TWEETS CONTENT\n4 ways how to create a gradient word cloud in R\nAnalyzing Google Trends with R: Retrieve and plot with gtrendsR\nQuantitative Analysis of Political Text\nClassifying Tweets for Sentiment Analysis\nAdvancing Text Mining with R and quanteda\nUsing Twitter With Python And Tweepy\nUsing Twitter as a data source an overview of social media research tools (2021)\nTwitter “Account Analysis” in R\nCalculating (Twitter) Vocabulary Breadth of U.S. Presidential Candidates Using TTR\nTwitter data analysis in R\nTwitter’s Feelings About Programming Languages\nLook who’s tweeting: 2020 Presidential Candidates\nA TidyText Analysis With R\n\n\n\n9.1.3 Courses\n\nText As Data\n\n\n\n9.1.4 Projects\n\ntwitter-sentiment-analysis\nAnalytics Master’s Research Project",
+    "text": "11.1.1 Books\n\nText Mining with R\nSocial Media Mining\nSocial Media Mining (Slides)\n\n\n\n11.1.2 Tutorials\n\nANALYSING TWITTER DATA WITH R\nANALYSING TWITTER DATA: EXPLORING USER PROFILES AND RELATIONSHIPS\nANALYSING TWITTER DATA: EXPLORING TWEETS CONTENT\n4 ways how to create a gradient word cloud in R\nAnalyzing Google Trends with R: Retrieve and plot with gtrendsR\nQuantitative Analysis of Political Text\nClassifying Tweets for Sentiment Analysis\nAdvancing Text Mining with R and quanteda\nUsing Twitter With Python And Tweepy\nUsing Twitter as a data source an overview of social media research tools (2021)\nTwitter “Account Analysis” in R\nCalculating (Twitter) Vocabulary Breadth of U.S. Presidential Candidates Using TTR\nTwitter data analysis in R\nTwitter’s Feelings About Programming Languages\nLook who’s tweeting: 2020 Presidential Candidates\nA TidyText Analysis With R\nGetting started with stringr for textual analysis in R\n\n\n\n11.1.3 Courses\n\nText As Data\n\n\n\n11.1.4 Projects\n\ntwitter-sentiment-analysis\nAnalytics Master’s Research Project",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Social Media and Music Analysis</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Social Media and Music Analysis</span>"
     ]
   },
   {
     "objectID": "resources/ds_ml_ai/soc_med_music_analysis.html#music-and-lyric-analysis",
     "href": "resources/ds_ml_ai/soc_med_music_analysis.html#music-and-lyric-analysis",
-    "title": "9  Social Media and Music Analysis",
-    "section": "9.2 Music and Lyric Analysis",
-    "text": "9.2 Music and Lyric Analysis\n\n9.2.1 Basics\n\nSpotify R&D\nspotifyr package\n13 best websites to analyze your Spotify data\n\n\n\n9.2.2 Tutorials\n\nSpotify Songs: Tidy Tuesday\nHow to integrate Spotify and Genius API to easily crawl song lyrics with Python\nProfiling Songs on Spotify Using Cluster Analysis\nSentiment Analysis of Most Streamed Spotify Artists\nLyric Analysis with NLP & Machine Learning with R\nWhat’s popping?: An Exploratory Analytics Project on What Makes Popular Music Popular\nAnalysis of my Spotify in R with spotifyr package\nGame of Thrones: Exploratory and Sentiment Analysis\ntayloR\nExploring the Spotify API with R\nLearn tidytext with my new learnr course\nText mining with tidy data principles\nAre Pop Lyrics Getting More Repetitive?\nSpotify Songs: An analysis of the spotify dataset\nFitteR HappieR\nData Wrangling - Spotify Dataset Analysis\nUnderstanding + classifying genres using Spotify audio features\nWhat Makes a Hit\nWhat Makes Songs Popular? It’s All About ‘You’\nCan big data really predict what makes a song popular?\nPCA and the #TidyTuesday best hip hop songs ever\nBlue Christmas: A data-driven search for the most depressing Christmas song\nUsing Data to Find the Angriest Death Grips Song\nSpotify songs popularity analysis\nNigerian Songs Spotify EDA\nSentiment Analysis of Spotify, Amazon Music, and Pandora user reviews",
+    "title": "11  Social Media and Music Analysis",
+    "section": "11.2 Music and Lyric Analysis",
+    "text": "11.2 Music and Lyric Analysis\n\n11.2.1 Basics\n\nSpotify R&D\nspotifyr package\n13 best websites to analyze your Spotify data\n\n\n\n11.2.2 Tutorials\n\nSpotify Songs: Tidy Tuesday\nHow to integrate Spotify and Genius API to easily crawl song lyrics with Python\nProfiling Songs on Spotify Using Cluster Analysis\nSentiment Analysis of Most Streamed Spotify Artists\nLyric Analysis with NLP & Machine Learning with R\nWhat’s popping?: An Exploratory Analytics Project on What Makes Popular Music Popular\nAnalysis of my Spotify in R with spotifyr package\nGame of Thrones: Exploratory and Sentiment Analysis\ntayloR\nExploring the Spotify API with R\nLearn tidytext with my new learnr course\nText mining with tidy data principles\nAre Pop Lyrics Getting More Repetitive?\nSpotify Songs: An analysis of the spotify dataset\nFitteR HappieR\nData Wrangling - Spotify Dataset Analysis\nUnderstanding + classifying genres using Spotify audio features\nWhat Makes a Hit\nWhat Makes Songs Popular? It’s All About ‘You’\nCan big data really predict what makes a song popular?\nPCA and the #TidyTuesday best hip hop songs ever\nBlue Christmas: A data-driven search for the most depressing Christmas song\nUsing Data to Find the Angriest Death Grips Song\nSpotify songs popularity analysis\nNigerian Songs Spotify EDA\nSentiment Analysis of Spotify, Amazon Music, and Pandora user reviews\nHow to download YouTube data in R using “tuber” and “purrr”\nHow to download song lyrics from Genius using Python",
     "crumbs": [
       "Data Science, Machine Learning, and Artificial Intelligence",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Social Media and Music Analysis</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Social Media and Music Analysis</span>"
     ]
   },
   {
@@ -609,7 +609,7 @@
     "href": "resources/data_viz/ds_viz.html#a-curated-collection-of-resources",
     "title": "Data Visualization and Storytelling",
     "section": "",
-    "text": "Visualization\n\n1. Data Visualization (General)\n\n\n2. Data Visualization (R)\n\n\n3. Data Visualization (Python)\n\n\n4. Data Visualization (Tableau)\n\n\n5. Data Visualization (Spatial)\n\n\n\nJournalism and Storytelling\n\n1. Data Journalism and Storytelling",
+    "text": "Visualization\n\n1. Data Visualization (General)\n\n\n2. Data Visualization (R)\n\n\n3. Data Visualization (Python)\n\n\n4. Data Visualization (Tableau)\n\n\n5. Data Visualization (Spatial)\n\n\n6. Data Visualization (D3.js)\n\n\n\nJournalism and Storytelling\n\n1. Data Journalism and Storytelling",
     "crumbs": [
       "Data Visualization and Storytelling"
     ]
@@ -650,133 +650,133 @@
   {
     "objectID": "resources/data_viz/ds_viz_r.html",
     "href": "resources/data_viz/ds_viz_r.html",
-    "title": "12  Data Visualization (R)",
+    "title": "14  Data Visualization (R)",
     "section": "",
-    "text": "12.1 Curated Links by other data viz specialists",
+    "text": "14.1 Curated Links by other data viz specialists",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (R)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_r.html#curated-links-by-other-data-viz-specialists",
     "href": "resources/data_viz/ds_viz_r.html#curated-links-by-other-data-viz-specialists",
-    "title": "12  Data Visualization (R)",
+    "title": "14  Data Visualization (R)",
     "section": "",
     "text": "Awesome ggplot2\nAwesome R Dataviz",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (R)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_r.html#books",
     "href": "resources/data_viz/ds_viz_r.html#books",
-    "title": "12  Data Visualization (R)",
-    "section": "12.2 Books",
-    "text": "12.2 Books\n\nAn introduction to data visualization protocols for wet lab scientists\nCookbook for R\nR Graphics Cookbook\nModern Data Visualization with R\nData visualisation using R, for researchers who don’t use R\nFundamentals of Data Visualization\nggplot2: Elegant Graphics for Data Analysis\nR4DS Data Visualization\nInteractive web-based data visualization with R, plotly, and shiny\nBBC Visual and Data Journalism cookbook for R graphics\nggplot2",
+    "title": "14  Data Visualization (R)",
+    "section": "14.2 Books",
+    "text": "14.2 Books\n\nAn introduction to data visualization protocols for wet lab scientists\nCookbook for R\nR Graphics Cookbook\nModern Data Visualization with R\nData visualisation using R, for researchers who don’t use R\nFundamentals of Data Visualization\nggplot2: Elegant Graphics for Data Analysis\nR4DS Data Visualization\nInteractive web-based data visualization with R, plotly, and shiny\nBBC Visual and Data Journalism cookbook for R graphics\nggplot2",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (R)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_r.html#templates",
     "href": "resources/data_viz/ds_viz_r.html#templates",
-    "title": "12  Data Visualization (R)",
-    "section": "12.3 Templates",
-    "text": "12.3 Templates\n\nR CHARTS\nThe R Graph Gallery\nggplot2 extensions\nA Scientist’s Guide to R: Step 3.1 - data visualization with ggplot2+\nggplot tricks\nDesigning ggplots\nBBC Style Plot Templates\na ggplot2 grammar guide\nTom’s Cookbook for Better Viz\n12 ggplot extensions for snazzier R graphics\nData Visualization Packages for R you should check out in 2022",
+    "title": "14  Data Visualization (R)",
+    "section": "14.3 Templates",
+    "text": "14.3 Templates\n\nR CHARTS\nThe R Graph Gallery\nggplot2 extensions\nA Scientist’s Guide to R: Step 3.1 - data visualization with ggplot2+\nggplot tricks\nDesigning ggplots\nBBC Style Plot Templates\na ggplot2 grammar guide\nTom’s Cookbook for Better Viz\n12 ggplot extensions for snazzier R graphics\nData Visualization Packages for R you should check out in 2022\nUSGS VizLab\nJazz up your ggplots!",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (R)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_r.html#courses",
     "href": "resources/data_viz/ds_viz_r.html#courses",
-    "title": "12  Data Visualization (R)",
-    "section": "12.4 Courses",
-    "text": "12.4 Courses\n\nGraphic Design with ggplot2\nData Visualization in R\nData Visualization\nSDS 375: Data Visualization in R",
+    "title": "14  Data Visualization (R)",
+    "section": "14.4 Courses",
+    "text": "14.4 Courses\n\nGraphic Design with ggplot2\nData Visualization in R\nData Visualization\nSDS 375: Data Visualization in R",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (R)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_r.html#tutorials-and-notes",
     "href": "resources/data_viz/ds_viz_r.html#tutorials-and-notes",
-    "title": "12  Data Visualization (R)",
-    "section": "12.5 Tutorials and Notes",
-    "text": "12.5 Tutorials and Notes\n\n12.5.1 Basics\n\nTop 50 ggplot2 Visualizations - The Master List (With Full R Code)\nThe Complete ggplot2 Tutorial - Part1 | Introduction To ggplot2 (Full R code)\nBest ggplot visualizations\nA quick introduction to ggplot2\nGetting started with data visualization in R using ggplot2\nThe Evolution of a ggplot (Ep. 1)\nA ggplot2 Tutorial for Beautiful Plotting in R\nggplot2tutor\nThe ggplot flibbook\nGetting started with data visualization in R using ggplot2\nggplot2: Mastering the basics\nGraphing with ggplot\n10 Levels of ggplot2: From Basic to Beautiful\nPractical ggplot2\nBeautiful plotting in R: A ggplot2 cheatsheet\nThe Good, the Bad and the Ugly: how (not) to visualize data\nSix things I always Google when using ggplot2\n\n\n\n12.5.2 Troubleshooting\n\nCommon R Mistakes in Data Viz\n\n\n\n12.5.3 Enhancing Plots (with Labels, Axes, Themes, Scales, and Other Options)\n\nQuick and easy ways to deal with long labels in ggplot2\nMaking text labels the same size as axis labels in ggplot2\nLabelling area plots\nLevel Up Your Labels: Tips and Tricks for Annotating Plots\nIncrease & Decrease Number of Axis Ticks in R (2 Examples)\nggplot2 Theme Elements Demonstration\nHow to use multiple colour scales in ggplot with {ggnewscale}\nSpruce up your ggplot2 visualizations with formatted text\nThemes to Improve Your ggplot figures\nHow to Add Labels Directly in ggplot2\nGenerate your own ggplot theme gallery\nggpattern\n{ggtext} for images as x-axis labels\nGGPLOT THEMES GALLERY\nggplot theme tester\nIntroducing ‘optout’ - A package for optimizing graphics output\nggcute\nRadial Patterns in ggplot2\nReordering and facetting for ggplot2\nAccelerate your plots with ggforce\nggrapid\nPatchwork R package goes nerd viral\nggthemes\nhtmlwidgets\nggchicklet\nggplot date helpers\n12 Extensions to ggplot2 for More Powerful R Visualizations\nImproving a Visualization\nggplot theme for publication ready Plots\nWHY NOT DO THAT WITH R?\n\n\n\n12.5.4 Various graph types\n\nCreating flowcharts with {ggplot2}\nDendrograms in R, a lightweight approach\nRacing Barchart with gganimate\nRacing Barplots with {ggpattern}, {flagon} & {gganimate}\nR base plotting without wrappers\nHow to basic: bar plots\nNetwork Visualizations in R\nGreat Looking Tables\nggplot2 Bar Chart\nHow to build Animated Charts like Hans Rosling — doing it all in R\nHow to create Bar Race Animation Charts in R\nAnimating Your Data Visualizations Like a Boss Using R\nbarbarplots\nDynamic display of data with animated plots\nBeginners Cookbook for Interactive Visualization in R with highcharter\n\n\n\n12.5.5 Data Viz Examples\n\nCan I do that? Inspiration from a Pudding data visualization\nVisualizing the heterogeneity of single cell data from time-lapse imaging\nthe seven living generations in America\nWilliam Chase - Data Viz Projects\nVisualizing real house price plots\nState Unemployment Claims\nA look into U.S. infectious diseases\nNYT-style urban heat island maps\nRyo Viz Data Viz Gallery\nReproducing an Axios plot\nCreate a Visual CV\nVisualize monthly precipitation anomalies\nInspiration from Flowing Data\nVisualizing Time Series\nVisualising high-dimensional data\nData Storytelling in R",
+    "title": "14  Data Visualization (R)",
+    "section": "14.5 Tutorials and Notes",
+    "text": "14.5 Tutorials and Notes\n\n14.5.1 Basics\n\nTop 50 ggplot2 Visualizations - The Master List (With Full R Code)\nThe Complete ggplot2 Tutorial - Part1 | Introduction To ggplot2 (Full R code)\nBest ggplot visualizations\nA quick introduction to ggplot2\nGetting started with data visualization in R using ggplot2\nThe Evolution of a ggplot (Ep. 1)\nA ggplot2 Tutorial for Beautiful Plotting in R\nggplot2tutor\nThe ggplot flibbook\nGetting started with data visualization in R using ggplot2\nggplot2: Mastering the basics\nGraphing with ggplot\n10 Levels of ggplot2: From Basic to Beautiful\nPractical ggplot2\nBeautiful plotting in R: A ggplot2 cheatsheet\nThe Good, the Bad and the Ugly: how (not) to visualize data\nSix things I always Google when using ggplot2\nVisualise a billion rows of data in R with Apache Arrow\n\n\n\n14.5.2 Troubleshooting\n\nCommon R Mistakes in Data Viz\n\n\n\n14.5.3 Enhancing Plots (with Labels, Axes, Themes, Scales, and Other Options)\n\nQuick and easy ways to deal with long labels in ggplot2\nMaking text labels the same size as axis labels in ggplot2\nLabelling area plots\nLevel Up Your Labels: Tips and Tricks for Annotating Plots\nIncrease & Decrease Number of Axis Ticks in R (2 Examples)\nggplot2 Theme Elements Demonstration\nHow to use multiple colour scales in ggplot with {ggnewscale}\nSpruce up your ggplot2 visualizations with formatted text\nThemes to Improve Your ggplot figures\nHow to Add Labels Directly in ggplot2\nGenerate your own ggplot theme gallery\nggpattern\n{ggtext} for images as x-axis labels\nGGPLOT THEMES GALLERY\nggplot theme tester\nIntroducing ‘optout’ - A package for optimizing graphics output\nggcute\nRadial Patterns in ggplot2\nReordering and facetting for ggplot2\nAccelerate your plots with ggforce\nggrapid\nPatchwork R package goes nerd viral\nggthemes\nhtmlwidgets\nggchicklet\nggplot date helpers\n12 Extensions to ggplot2 for More Powerful R Visualizations\nImproving a Visualization\nggplot theme for publication ready Plots\nWHY NOT DO THAT WITH R?\n\n\n\n14.5.4 Various graph types\n\nCreating flowcharts with {ggplot2}\nDendrograms in R, a lightweight approach\nRacing Barchart with gganimate\nRacing Barplots with {ggpattern}, {flagon} & {gganimate}\nR base plotting without wrappers\nHow to basic: bar plots\nNetwork Visualizations in R\nGreat Looking Tables\nggplot2 Bar Chart\nHow to build Animated Charts like Hans Rosling — doing it all in R\nHow to create Bar Race Animation Charts in R\nAnimating Your Data Visualizations Like a Boss Using R\nbarbarplots\nDynamic display of data with animated plots\nBeginners Cookbook for Interactive Visualization in R with highcharter\nCombining maps and patterns\nSketchy waffle charts in R\n\n\n\n14.5.5 Great Tables\n\nThe Design Philosophy of Great Tables\nThe grammar of tables in python (pandas) and R (gt)\nVarious Table Types in R\ngtsummary\ngtExtras",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (R)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_r.html#data-artistry",
     "href": "resources/data_viz/ds_viz_r.html#data-artistry",
-    "title": "12  Data Visualization (R)",
-    "section": "12.6 Data aRtistry",
-    "text": "12.6 Data aRtistry\n\nGetting started in #rtistry\nART FROM CODE\nLife Through A Mathematician’s Eyes\naRt\nRtistry Gallery\nArt by Claus O. Wilke\nUnpredictable paintings\nMystery curves\nFlow Fields",
+    "title": "14  Data Visualization (R)",
+    "section": "14.7 Data aRtistry",
+    "text": "14.7 Data aRtistry\n\nGetting started in #rtistry\nART FROM CODE\nLife Through A Mathematician’s Eyes\naRt\nRtistry Gallery\nArt by Claus O. Wilke\nUnpredictable paintings\nMystery curves\nFlow Fields",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization (R)</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (R)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_py.html",
     "href": "resources/data_viz/ds_viz_py.html",
-    "title": "13  Data Visualization (Python)",
+    "title": "15  Data Visualization (Python)",
     "section": "",
-    "text": "13.1 Books",
+    "text": "15.1 Books",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Data Visualization (Python)</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Visualization (Python)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_py.html#books",
     "href": "resources/data_viz/ds_viz_py.html#books",
-    "title": "13  Data Visualization (Python)",
+    "title": "15  Data Visualization (Python)",
     "section": "",
     "text": "The Python Graph Gallery\nAltair",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Data Visualization (Python)</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Visualization (Python)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_py.html#tutorials",
     "href": "resources/data_viz/ds_viz_py.html#tutorials",
-    "title": "13  Data Visualization (Python)",
-    "section": "13.2 Tutorials",
-    "text": "13.2 Tutorials\n\nVisualizing Data with Pairs Plots in Python\nHow to Make a Scatter Plot in Python using Seaborn\nSeaborn Heatmaps: 13 Ways to Customize Correlation Matrix Visualizations\nHow to make a matplotlib line chart\nPython Plotting for Exploratory Data Analysis\nEffectively Using Matplotlib\nPyWaffle\nEasily hiding items from the legend in matplotlib\nThe Next Level of Data Visualization in Python\nIntroducing Plotly Express\nseaborn: statistical data visualization\nPyGWalker",
+    "title": "15  Data Visualization (Python)",
+    "section": "15.2 Tutorials",
+    "text": "15.2 Tutorials\n\nVisualizing Data with Pairs Plots in Python\nHow to Make a Scatter Plot in Python using Seaborn\nSeaborn Heatmaps: 13 Ways to Customize Correlation Matrix Visualizations\nHow to make a matplotlib line chart\nPython Plotting for Exploratory Data Analysis\nEffectively Using Matplotlib\nPyWaffle\nEasily hiding items from the legend in matplotlib\nThe Next Level of Data Visualization in Python\nIntroducing Plotly Express\nseaborn: statistical data visualization\nPyGWalker\nA Grammar of Graphics for Python",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Data Visualization (Python)</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Visualization (Python)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_tableau.html",
     "href": "resources/data_viz/ds_viz_tableau.html",
-    "title": "14  Data Visualization (Tableau)",
+    "title": "16  Data Visualization (Tableau)",
     "section": "",
-    "text": "14.1 Data Visualization (Tableau)",
+    "text": "16.1 Data Visualization (Tableau)",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (Tableau)</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Data Visualization (Tableau)</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_viz_tableau.html#data-visualization-tableau",
     "href": "resources/data_viz/ds_viz_tableau.html#data-visualization-tableau",
-    "title": "14  Data Visualization (Tableau)",
+    "title": "16  Data Visualization (Tableau)",
     "section": "",
     "text": "A Beginner’s Guide to Tableau Public\nTableau Resources\nWhat Is Data Visualization? Definition, Examples, And Learning Resources\nThe 10 Best Data Visualization Blogs To Follow\nHow to ace the Tableau Desktop Qualified Associate exam!\nTableau Tips, Dashboards, and Training\n7 tips and tricks from the dashboard experts\nData Visualization with Tableau",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (Tableau)</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Data Visualization (Tableau)</span>"
     ]
   },
   {
@@ -1386,6 +1386,94 @@
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/shiny.html",
+    "href": "resources/programming/shiny.html",
+    "title": "5  Shiny",
+    "section": "",
+    "text": "5.1 R Shiny",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Shiny</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/shiny.html#r-shiny",
+    "href": "resources/programming/shiny.html#r-shiny",
+    "title": "5  Shiny",
+    "section": "",
+    "text": "5.1.1 Basics\n\na gRadual intRoduction to Shiny\nShiny Learning Resources\nHow to Start a Career as an R Shiny Developer\nShiny Apps development\nThe World’s Most Advanced R Shiny Dashboards\n\n\n\n5.1.2 Books\n\nMastering Shiny\nEngineering Production-Grade Shiny Apps\nOutstanding User Interfaces with Shiny\n\n\n\n5.1.3 Tutorials\n\nShiny Tutorials\nBuilding Web Applications WITH SHINY\nBuilding Shiny apps - an interactive tutorial\nBuilding Interactive World Maps in Shiny\nA webR powered Shiny app\n\n\n\n5.1.4 Tools\n\nHTML widgets flexdashboard\nhtmlwidgets for R\nRinteRface: HTML templates for Shiny\nLoading screens for Shiny: waiter\nshinyscholar",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Shiny</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/frontend_dev.html",
+    "href": "resources/programming/frontend_dev.html",
+    "title": "6  Front-End Development",
+    "section": "",
+    "text": "6.1 Languages",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Front-End Development</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/frontend_dev.html#languages",
+    "href": "resources/programming/frontend_dev.html#languages",
+    "title": "6  Front-End Development",
+    "section": "",
+    "text": "6.1.1 HTML\n\n\n6.1.2 CSS\n\n\n6.1.3 Javascript\n\nEloquent Javascript\nMozilla Javascript",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Front-End Development</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/frontend_dev.html#frameworks",
+    "href": "resources/programming/frontend_dev.html#frameworks",
+    "title": "6  Front-End Development",
+    "section": "6.2 Frameworks",
+    "text": "6.2 Frameworks\n\n6.2.1 React",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Front-End Development</span>"
+    ]
+  },
+  {
+    "objectID": "resources/data_viz/ds_viz_r.html#good-data-viz-examples",
+    "href": "resources/data_viz/ds_viz_r.html#good-data-viz-examples",
+    "title": "14  Data Visualization (R)",
+    "section": "14.6 Good Data Viz Examples",
+    "text": "14.6 Good Data Viz Examples\n\nCan I do that? Inspiration from a Pudding data visualization\nVisualizing the heterogeneity of single cell data from time-lapse imaging\nthe seven living generations in America\nWilliam Chase - Data Viz Projects\nVisualizing real house price plots\nState Unemployment Claims\nA look into U.S. infectious diseases\nNYT-style urban heat island maps\nRyo Viz Data Viz Gallery\nReproducing an Axios plot\nCreate a Visual CV\nVisualize monthly precipitation anomalies\nInspiration from Flowing Data\nVisualizing Time Series\nVisualising high-dimensional data\nData Storytelling in R\nGreat Table: Cultivated Planet",
+    "crumbs": [
+      "Data Visualization and Storytelling",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Data Visualization (R)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/data_viz/ds_viz_d3js.html",
+    "href": "resources/data_viz/ds_viz_d3js.html",
+    "title": "17  Data Visualization (D3 Javascript)",
+    "section": "",
+    "text": "17.1 Data Visualization (D3 Javascript)",
+    "crumbs": [
+      "Data Visualization and Storytelling",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Data Visualization (D3 Javascript)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/data_viz/ds_viz_d3js.html#data-visualization-d3-javascript",
+    "href": "resources/data_viz/ds_viz_d3js.html#data-visualization-d3-javascript",
+    "title": "17  Data Visualization (D3 Javascript)",
+    "section": "",
+    "text": "Introduction to SVG and D3.js\nD3 Annotation\nLearn D3.js",
+    "crumbs": [
+      "Data Visualization and Storytelling",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Data Visualization (D3 Javascript)</span>"
     ]
   }
 ]
