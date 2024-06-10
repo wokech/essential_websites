@@ -2,3 +2,77 @@
 title: "Generative AI and Large Language Models (Part 1)"
 toc: true
 ---
+
+This page provides a comprehensive collection of ... . On this page, you will find a list of personal websites and blogs that do some great work in ... . Additionally, there is a list of resources (books, tutorials, and blogs) focused on the basics of ... 
+
+## Basics
+
+### Primers
+
+1) [AI Canon](https://a16z.com/ai-canon/)
+2) [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+3) [7 Steps to Mastering Large Language Models (LLMs)](https://www.kdnuggets.com/7-steps-to-mastering-large-language-models-llms)
+4) [ChatGPT Resources](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698)
+5) [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/)
+6) [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+7) [Cohere LLM University](https://docs.cohere.com/docs/llmu)
+8) [What are LLMs, and how are they used in generative AI?](https://www.computerworld.com/article/1627101/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html)
+
+### Courses
+
+1) [Generative AI for Beginners (Version 2)](https://microsoft.github.io/generative-ai-for-beginners/#/)
+
+
+### Tokenization
+
+1) [Language model tokenization](https://platform.openai.com/tokenizer)
+2) [GPT Tokenizer](https://observablehq.com/@simonw/gpt-tokenizer)
+3) [Tokenization in Different Domains](https://hyperparameter.space/blog/a-survey-of-tokenization-in-different-data-domains/)
+
+## Applications
+
+### Curated List of Tools
+
+1) [FutureTools](https://www.futuretools.io/)
+2) [FuturePedia](https://www.futurepedia.io/)
+3) [There's an AI for That](https://theresanaiforthat.com/)
+
+### Prompt Engineering
+
+1) [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
+2) [Prompt Engineering Guide](https://www.promptingguide.ai/)
+3) [Crafting Effective Prompts](https://docs.cohere.com/docs/crafting-effective-prompts)
+4) [What is Prompt Engineering?](https://web3.career/learn-web3/what-is-prompt-engineering)
+5) [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+6) [AI Prompt Engineering Tutorials and Resources](https://promptengineering.org/)
+7) [Roadmap of Becoming a Prompt Engineer (2023)](https://www.marktechpost.com/2023/03/12/roadmap-of-becoming-a-prompt-engineer-2023/)
+
+### GPT Writing Detectors (**disclaimer: not 100% perfect**)
+
+1) [Writefull](https://x.writefull.com/gpt-detector)
+2) [ZeroGPT](https://www.zerogpt.com/)
+3) [GPTZero](https://gptzero.me/)
+4) [AI Detector](https://contentatscale.ai/ai-content-detector/)
+5) [Writer AI Content Detector](https://writer.com/ai-content-detector/)
+
+### LLMs and Coding
+
+1) [The Power of ChatGPT Code Interpreter](https://docs.kanaries.net/articles/chatgpt-code-interpreter)
+2) [8 ChatGPT tools for R programming](https://www.infoworld.com/article/3694611/8-chatgpt-tools-for-r-programming.html)
+3) [How I Created a Data Visualization With Zero Coding Skills, Thanks to ChatGPT](https://nightingaledvs.com/data-visualization-using-chatgpt-to-code/)
+
+### Building LLM Apps
+
+1) [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+2) [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html)
+
+### LLMs and Healthcare/Biology
+
+1) [Medical AI Research Foundations](https://physionet.org/content/medical-ai-research-foundation/1.0.0/)
+2) [Large Language Models in Molecular Biology](https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
+3) [Deep learning on computational biology and bioinformatics tutorial](https://theaisummer.com/deep-learning-biology-alphafold/)
+4) [Using AlphaFold to model the MDM2-p53 complex](https://www.bonvinlab.org/education/molmod_online/alphafold/)
+5) [The Basic Tools of the Deep Life Sciences](https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/)
+
+
+

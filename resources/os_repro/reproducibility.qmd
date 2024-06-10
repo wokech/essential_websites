@@ -19,6 +19,12 @@ For anyone interested in ..., this page offers a curated collection of resources
 10) [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://osf.io/preprints/psyarxiv/rsn5y)
 11) [Harvard Biomedical Data Management](https://datamanagement.hms.harvard.edu/)
 12) [Registry of Research Data Repositories](https://www.re3data.org/)
+13) [DataLad](https://handbook.datalad.org/en/latest/index.html)
+
+## Books
+
+1) [Building Reproducible Analytical Pipelines](https://rap4mads.eu/)
+
 
 ## Negative Results
 
@@ -32,4 +38,3 @@ For anyone interested in ..., this page offers a curated collection of resources
 1)  [The Reproducibility Crisis in ML‑based Science](https://sites.google.com/princeton.edu/rep-workshop/)
 2)  [Leakage and the Reproducibility Crisis in ML-based Science](https://reproducible.cs.princeton.edu/)
 3)  [Data leakage causes reproducibility failures in ML-based science](https://reproducible.cs.princeton.edu/#rep-failures)
-

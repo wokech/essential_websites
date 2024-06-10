@@ -46,9 +46,9 @@ book:
         - resources/programming/git_hub_cl_sql_docker.qmd
         - resources/programming/shiny.qmd
         - resources/programming/frontend_dev.qmd
-    - part: resources/ds_ml_ai/ds_ml_ai.qmd
+    - part: resources/ds_ml_ai/ds_ml_ai_all.qmd
       chapters: 
-        - resources/ds_ml_ai/ds_ml_ai_all.qmd
+        - resources/ds_ml_ai/ds_ml_ai_1.qmd
         - resources/ds_ml_ai/statistics.qmd
         - resources/ds_ml_ai/datasets.qmd
         - resources/ds_ml_ai/ds_sports.qmd

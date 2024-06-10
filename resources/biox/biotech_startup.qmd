@@ -1,5 +1,5 @@
 ---
-title: "Biotechnology Startups"
+title: "Biotechnology and Healthcare Startups"
 toc: true
 ---
 
@@ -32,3 +32,12 @@ toc: true
 25) [Biotech researchers venture into the wild to start their own business](https://techcrunch.com/2019/08/09/biotech-researchers-venture-into-the-wild-to-start-their-own-business/)
 26) [Platform-Disease Fit: Why You Need It and How to Find It](https://a16z.com/2021/01/08/platform-disease-fit/)
 27) [It's Time to Heal: 16 Trends Driving the Future of Bio and Healthcare](https://a16z.com/2021/01/08/its-time-to-heal-16-trends-driving-the-future-of-bio-and-healthcare/)
+28) [Bioprocess Flow Diagram](https://invertbio.com/tools/process-diagrams)
+29) [Nucleate Playbooks](https://nucleate.xyz/playbooks/)
+
+## Resources for Healthcare Startups
+
+1)  [Healthcare Analytics Handbook](https://github.com/youcc/healthcare_analytics_handbook)
+2)  [How to scale a health tech business to \$100 million ARR and beyond](https://www.bvp.com/atlas/how-to-scale-a-health-tech-business-to-100-million-arr-and-beyond)
+3)  [Health Tech Builders](https://healthtechbuilders.substack.com/)
+4)  [The Problem with Healthcare Data](https://thetuvaproject.com/blog/the-problem-with-healthcare-data)

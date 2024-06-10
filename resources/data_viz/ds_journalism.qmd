@@ -19,16 +19,29 @@ A listing of data journalism practitioners and companies to follow:
 
 ### Books
 
-1) [Telling Stories with Data: With Applications in R and Python](https://tellingstorieswithdata.com/)
+1)  [Telling Stories with Data: With Applications in R and Python](https://tellingstorieswithdata.com/)
 
 ### Guides
 
-1)  [GitHub Data Journalism](https://github.com/search?q=data+journalism)
+1)  [Sharon Machlis: NICAR data journalism](https://www.machlis.com/nicar/)
 2)  [A Beginner's Guide to Data Journalism: Let's Build a Story From Scratch](https://www.freecodecamp.org/news/data-journalism-isnt-for-the-select-let-s-work-out-a-story-together-from-scratch-dd85b3017f4a/)
 3)  [Quick Guide to Data Journalism](https://www.datacamp.com/blog/quick-guide-to-data-journalism)
 4)  [Data journalism: a guide for editors](https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors)
 5)  [Developing Data Journalists in the Developing World](https://source.opennews.org/articles/developing-data-journalists-developing-world)
 6)  [The Inverted Pyramid of Data Journalism](https://gijn.org/stories/updating-inverted-pyramid-journalism/)
+7)  [GitHub Data Journalism](https://github.com/search?q=data+journalism)
+
+### Dealing with math and stats in journalism
+
+1) [Math in Journalism](https://www.reportingwithnumbers.com/)
+2) [Number soup](https://www.niemanlab.org/2022/08/number-soup-can-we-make-it-easier-for-readers-to-digest-all-the-numbers-journalists-stuff-into-their-stories/)
+3) [Percent change versus percentage-point change](https://journalistsresource.org/home/percent-change-math-for-journalists/)
+4) [When journalists should care about p-values](https://rjionline.org/rji-fellowships/when-journalists-should-care-about-p-values/)
+5) [5 common research designs: A quick primer for journalists](https://journalistsresource.org/home/research-designs-types-primer/)
+6) [10 simple data errors that can ruin an investigation](https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/)
+7) [What’s standard deviation? 4 things journalists need to know](https://journalistsresource.org/media/standard-deviation-data-journalists/)
+8) [5 things journalists need to know about statistical significance](https://journalistsresource.org/home/statistical-significance-research-5-things/)
+
 
 ### Writing
 
@@ -107,4 +120,3 @@ A listing of data journalism practitioners and companies to follow:
 24) [Why are things expensive?](https://www.why-expensive.com/)
 25) [Getting a good job](https://apps.urban.org/features/job-quality-segregation-race-gender/)
 26) [Build a Voter](https://www.economist.com/interactive/uk-general-election/build-a-voter)
-

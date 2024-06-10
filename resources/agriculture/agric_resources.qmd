@@ -22,6 +22,8 @@ toc: true
 13) [Modern Ag Canada](https://modernagriculture.ca/emagazine/)
 14) [ProteINSECT](https://www.proteinsect.eu/)
 15) [Build a Solar Cooker and Dryer](https://www.builditsolar.com/Projects/Cooking/cooking.htm)
+16) [SeeTree](https://www.seetree.ai/)
+17) [Edete](https://edetepta.com/)
 
 ### Agricultural Resources
 
