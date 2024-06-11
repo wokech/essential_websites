@@ -28,19 +28,52 @@ For anyone interested in medical, science, and technical writing, this page offe
 
 ## Science Writing
 
+### Tips and Tutorials
+
 1)  [A Note to Beginning Science Writers](https://www.nationalgeographic.com/science/article/a-note-to-beginning-science-writers)
 2)  [Science Blogging 101](https://medium.com/@snowhydro/science-blogging-101-c4f232f6f99a)
 3)  [How to write a science blog](https://blog.sintef.com/how-to-write-a-science-blog/)
 4)  [Carl Zimmer's advice for aspiring science writers](https://sciopic.wordpress.com/2013/01/29/carl-zimmers-advice-for-aspiring-science-writers/)
 5)  [Six great pieces of science writing you may have missed this year](https://www.cjr.org/opinion/six_great_pieces_of_science_writing_you_may_have_missed_this_year.php)
-6) [Science Writing News Roundup](https://sciencewriting.substack.com/)
-7) [ScienceWriters 2021 Product/Design Thinking Toolkit](https://docs.google.com/document/d/1W-Tdmqyjbvm_jl1wUxRuLaq0MVeVfhR3rhHnIjDBOrM/edit)
-8) [Diversify your images](https://wondertools.substack.com/p/diversify23)
-9) [Sources of free images](https://www.journalism.co.uk/news/10-image-sites-for-journalists/s2/a742119/)
+6)  [Science Writing News Roundup](https://sciencewriting.substack.com/)
+7)  [ScienceWriters 2021 Product/Design Thinking Toolkit](https://docs.google.com/document/d/1W-Tdmqyjbvm_jl1wUxRuLaq0MVeVfhR3rhHnIjDBOrM/edit)
+8)  [Diversify your images](https://wondertools.substack.com/p/diversify23)
+9)  [Sources of free images](https://www.journalism.co.uk/news/10-image-sites-for-journalists/s2/a742119/)
 10) [Connector: library of resources for science journalism & communication](https://connector.casw.org/)
 11) [Knight Science Journalism Resources](https://ksj.mit.edu/resources/)
 12) [Society of Professional Journalists Toolbox Resources](https://www.journaliststoolbox.org/2023/05/25/science_resources_1/)
 13) [The KSJ Science Editing Handbook](https://ksjhandbook.org/)
+14) [Secrets of good science writing](https://www.theguardian.com/science/series/secrets-science-writing)
+
+### Science writing publications
+
+1)  [AP News - Science](https://apnews.com/science)
+2)  [Undark](https://undark.org/)
+3)  [SciDevNet Africa](https://www.scidev.net/sub-saharan-africa/)
+4)  [Eos - Science News](https://eos.org/)
+5)  [Hakai Magazine](https://hakaimagazine.com/)
+6)  [StatNews](https://www.statnews.com/)
+7)  [Science Write Now](https://www.sciencewritenow.com/)
+8)  [Discover Magazine](https://www.discovermagazine.com/)
+9)  [bioGraphic](https://www.biographic.com/)
+10) [Knowing Neurons](https://knowingneurons.com/)
+11) [GROW by Gingko](https://www.growbyginkgo.com/)
+12) [Contrary: Foundations and Frontiers](https://www.contrary.com/foundations-and-frontiers)
+
+### Science writing publications for Young People
+
+1)  [17 of the Best Science Magazines for Kids](https://www.weareteachers.com/science-magazines-for-kids/)
+2)  [Authoritative and popular science magazines for kids & adults in 2024](https://www.bigbangacademyhk.com/blog-en/science-magazine)
+3)  [The Best Children’s Science Magazines according to Dr Jo](https://drjosciencesolutions.co.uk/2020/07/31/the-best-childrens-science-magazines/)
+4)  [Best science books for kids](https://www.sciencefocus.com/science/best-science-books-for-kids)
+5)  [Smore Science](https://www.smorescience.com/)
+6)  [OYLA STEM Magazine](https://oyla.us/digital/)
+7)  [Whizz Pop Bang](https://www.whizzpopbang.com/)
+8)  [NatGeo Kids](https://www.natgeokids.com/uk/)
+9)  [Crunch Labs](https://www.crunchlabs.com/)
+10) [Science News Explores](https://www.snexplores.org/)
+11) [AAAS/Subaru SB&F Prize](https://www.sbfprize.org/)
+12) [Double Helix: CSIRO's magazine for Kids](https://doublehelixshop.csiro.au/en)
 
 ## Technical Writing
 
@@ -52,3 +85,4 @@ For anyone interested in medical, science, and technical writing, this page offe
 6)  [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 7)  [The Society for Technical Communication](https://www.stc.org/)
 8)  [How to write a great technical blog post](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/)
+9)  [How to write fast — or at least faster](https://www.poynter.org/reporting-editing/2023/how-to-write-faster-tips-strategies/)

@@ -20,6 +20,7 @@ A listing of data journalism practitioners and companies to follow:
 ### Books
 
 1)  [Telling Stories with Data: With Applications in R and Python](https://tellingstorieswithdata.com/)
+2) [Narrative and Numbers](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/numbers&narrative.htm)
 
 ### Guides
 
@@ -33,15 +34,15 @@ A listing of data journalism practitioners and companies to follow:
 
 ### Dealing with math and stats in journalism
 
-1) [Math in Journalism](https://www.reportingwithnumbers.com/)
-2) [Number soup](https://www.niemanlab.org/2022/08/number-soup-can-we-make-it-easier-for-readers-to-digest-all-the-numbers-journalists-stuff-into-their-stories/)
-3) [Percent change versus percentage-point change](https://journalistsresource.org/home/percent-change-math-for-journalists/)
-4) [When journalists should care about p-values](https://rjionline.org/rji-fellowships/when-journalists-should-care-about-p-values/)
-5) [5 common research designs: A quick primer for journalists](https://journalistsresource.org/home/research-designs-types-primer/)
-6) [10 simple data errors that can ruin an investigation](https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/)
-7) [What’s standard deviation? 4 things journalists need to know](https://journalistsresource.org/media/standard-deviation-data-journalists/)
-8) [5 things journalists need to know about statistical significance](https://journalistsresource.org/home/statistical-significance-research-5-things/)
-
+1)  [Math in Journalism](https://www.reportingwithnumbers.com/)
+2)  [Number soup](https://www.niemanlab.org/2022/08/number-soup-can-we-make-it-easier-for-readers-to-digest-all-the-numbers-journalists-stuff-into-their-stories/)
+3)  [Percent change versus percentage-point change](https://journalistsresource.org/home/percent-change-math-for-journalists/)
+4)  [When journalists should care about p-values](https://rjionline.org/rji-fellowships/when-journalists-should-care-about-p-values/)
+5)  [5 common research designs: A quick primer for journalists](https://journalistsresource.org/home/research-designs-types-primer/)
+6)  [10 simple data errors that can ruin an investigation](https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/)
+7)  [What’s standard deviation? 4 things journalists need to know](https://journalistsresource.org/media/standard-deviation-data-journalists/)
+8)  [5 things journalists need to know about statistical significance](https://journalistsresource.org/home/statistical-significance-research-5-things/)
+9)  [Spotting Shady Statistics](https://www.theopennotebook.com/2017/12/05/spotting-shady-statistics/)
 
 ### Writing
 
@@ -53,6 +54,15 @@ A listing of data journalism practitioners and companies to follow:
 6)  [Telling Stories With Data: A Simple Math Guide](https://medium.datadriveninvestor.com/journalism-in-the-data-driven-world-a-simple-math-guide-32d106fc3041)
 7)  [Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)
 8)  [Putting data back into context](https://datajournalism.com/read/longreads/putting-data-back-into-context)
+9)  [How to Tell Science Stories with Maps](https://www.theopennotebook.com/2015/08/25/how-to-tell-science-stories-with-maps/)
+10) [How to Ace a 300-Word Story](https://www.theopennotebook.com/2013/10/22/how-to-ace-a-300-word-story/)
+11) [How to Research and Write Skillfully on Something You Know Nothing About](https://fancycomma.com/2020/07/04/how-to-write-about-something-you-know-nothing-about/)
+12) [9 Tips for Investigative Journalists to Improve Their Writing](https://gijn.org/stories/9-tips-for-investigative-journalists-to-improve-their-writing/)
+13) [Lay summaries needed to enhance science communication](https://www.pnas.org/doi/10.1073/pnas.1500882112)
+14) [The Art of the Essay](https://www.theopennotebook.com/2013/06/25/the-art-of-the-essay/)
+15) [Organizing your research: A scientist’s tips for journalists](https://journalistsresource.org/home/organizing-your-research/)
+16) [Where to begin? My guide to pitching a data story](https://kawan.kontinentalist.com/where-to-begin-my-guide-to-pitching-a-data-story/)
+17) [How to edit your own writing](https://kawan.kontinentalist.com/how-to-edit-your-own-writing/)
 
 ### Tools
 
@@ -79,6 +89,8 @@ A listing of data journalism practitioners and companies to follow:
 8)  [AP DataKit](http://datakit.ap.org/)
 9)  [Data Journalism Grants](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/data-journalism-grants)
 10) [A community conference for data makers everywhere](https://csvconf.com/)
+11) [Lapis](https://lapis-story.com/)
+12) [Kontinentalist](https://kontinentalist.com/)
 
 ## Data Stories (Longform and In-depth articles)
 
@@ -120,3 +132,9 @@ A listing of data journalism practitioners and companies to follow:
 24) [Why are things expensive?](https://www.why-expensive.com/)
 25) [Getting a good job](https://apps.urban.org/features/job-quality-segregation-race-gender/)
 26) [Build a Voter](https://www.economist.com/interactive/uk-general-election/build-a-voter)
+27) [The real cost of seafood](https://kontinentalist.com/stories/the-real-cost-of-seafood)
+27) [How does rice get to your plate?](https://kontinentalist.com/stories/how-does-rice-get-to-your-plate)
+27) [Jakarta’s roadside food sellers](https://kontinentalist.com/stories/jakarta-roadside-food-sellers-challenges-in-future-technology)
+27) [ Exploring the lungs of Asia](https://kontinentalist.com/stories/forest-degradation-deforestation-and-conservation-in-asia)
+28) []()
+29) []()

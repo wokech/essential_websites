@@ -31,6 +31,25 @@ This page provides a comprehensive collection of resources on datasets that can 
 14) [Rebecca Barter - List of Public Data Repositories](https://www.rebeccabarter.com/blog/2023-03-28-data_sources.html)
 15) [GapMinder](https://www.gapminder.org/)
 
+## Afro-Specific Data
+
+1) [Black Wealth Data Center](https://blackwealthdata.org/)
+2) [Africa Data Hub](https://www.africadatahub.org/)
+3) [Black Demographics](https://blackdemographics.com/)
+4) [New Population Counts for 62 Detailed Black or African American Groups](https://www.census.gov/library/stories/2023/10/2020-census-dhc-a-black-population.html)
+5) [African American Studies at Princeton](https://libguides.princeton.edu/c.php?g=84056&p=542224)
+6) [HBCU Rankings](https://www.usnews.com/best-colleges/rankings/hbcu)
+7) [HBCU Stats](https://nces.ed.gov/FastFacts/display.asp?id=667)
+8) [Origin Source of Black Immigrants](https://www.pewresearch.org/2022/01/20/the-caribbean-is-the-largest-origin-source-of-black-immigrants-but-fastest-growth-is-among-african-immigrants/)
+9) [About 6 million U.S. adults identify as Afro-Latino](https://www.pewresearch.org/short-reads/2022/05/02/about-6-million-u-s-adults-identify-as-afro-latino/)
+10) [Obesity in the African-American Community](https://www.apa.org/pi/oema/resources/ethnicity-health/african-american/obesity)
+11) [The economic state of Black America: What is and what could be](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/the-economic-state-of-black-america-what-is-and-what-could-be)
+12) [Cancer statistics for African American/Black People 2022](https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21718)
+13) [Resident population of the United States by race from 2000 to 2022](https://www.statista.com/statistics/183489/population-of-the-us-by-ethnicity-since-2000/)
+14) [Health of Black or African American non-Hispanic Population](https://www.cdc.gov/nchs/fastats/black-health.htm)
+15) [Black/African American Health](https://minorityhealth.hhs.gov/blackafrican-american-health)
+16) [HIV on Racial and Ethnic Minorities in the U.S.](https://www.hiv.gov/hiv-basics/overview/data-and-trends/impact-on-racial-and-ethnic-minorities)
+
 ## Machine Learning Training Data
 
 1)  [Datasets for Machine Learning and Deep Learning](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html)
@@ -60,3 +79,4 @@ This page provides a comprehensive collection of resources on datasets that can 
 15) [StatsBomb Open Data](https://github.com/statsbomb/open-data)
 16) [NCD Risk Factor Datasets](https://ncdrisc.org/index.html)
 17) [Food Systems Dashboard](https://www.foodsystemsdashboard.org/)
+18) [Global Energy Monitor](https://globalenergymonitor.org/)

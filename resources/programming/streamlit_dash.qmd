@@ -1,0 +1,54 @@
+---
+title: "Streamlit and Dash"
+toc: true
+---
+
+This page provides a comprehensive collection of Streamlit and Dash resources. On this page, you will find a list of personal websites and blogs that do some great work using Streamlit and Dash. Additionally, there is a list of resources (books, tutorials, and blogs) focused on the basics of Streamlit and Dash.
+
+## Streamlit
+
+### Basics
+
+1) [Streamlit documentation](https://docs.streamlit.io/)
+2) [Learn Streamlit](https://streamlitpython.com/)
+3) [An Introduction to Streamlit](https://www.askpython.com/python-modules/introduction-to-streamlit)
+
+### Books
+
+1) []()
+
+### Tutorials
+
+1) [Building Your First Streamlit App: A Step-by-Step Tutorial](https://medium.com/@chaitanyasirivuri/building-your-first-streamlit-app-a-step-by-step-tutorial-e058d5dfe5f4)
+2) [Create an app](https://docs.streamlit.io/get-started/tutorials/create-an-app)
+3) [How to build apps with Streamlit Python (quick Tutorial)](https://www.justintodata.com/streamlit-python-tutorial/)
+4) [Building Graph Applications in Streamlit](https://www.graphable.ai/blog/streamlit-tutorial-for-graph-apps/)
+5) [Quickly Create Interactive Data Visualization](https://docs.kanaries.net/topics/Streamlit/streamlit-visualization)
+6) [Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn](https://www.python-engineer.com/posts/streamlit-tutorial/)
+7) [Dataiku - Streamlit: your first webapp](https://developer.dataiku.com/latest/tutorials/webapps/streamlit/basics/index.html)
+8) [A Beginners Guide To Streamlit](https://geeksforgeeks.org/a-beginners-guide-to-streamlit/)
+
+
+### Tools
+
+1) []()
+
+
+
+## Dash
+
+### Basics
+
+1) []()
+
+### Books
+
+1) []()
+
+### Tutorials
+
+1) [Dataiku - Dash](https://developer.dataiku.com/latest/tutorials/webapps/dash/index.html)
+
+### Tools
+
+1) []()

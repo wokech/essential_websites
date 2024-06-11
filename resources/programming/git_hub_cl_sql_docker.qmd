@@ -19,6 +19,7 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 8)  [Introduction to Git & Github](https://debadritaghosh.hashnode.dev/introduction-to-git-github)
 9)  [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 10) [git ready](https://gitready.com/)
+11) [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 ### Books
 
@@ -38,7 +39,7 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 1)  [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
 2)  [Fixing Common Git Mistakes](https://maggieappleton.com/git-mistakes)
 
-## GitHub
+## GitHub and GitLab
 
 ### Basics
 
@@ -53,6 +54,7 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 1)  [Introducing GitHub Global Campus](https://github.blog/2021-09-01-introducing-github-global-campus/)
 2)  [Collaboration, version control and learning to commit](https://personalpages.manchester.ac.uk/staff/david.selby/rthritis/2021-03-12-git/)
 3)  [Making Your First GitHub R Project](https://codehorizons.com/making-your-first-github-r-project/)
+4) [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/)
 
 ### Applications
 

@@ -30,13 +30,18 @@ A listing of data visualization specialists and companies to follow:
 5)  [Infogram](https://infogram.com/)
 6)  [PiktoChart](https://piktochart.com/)
 7)  [Genially](https://genially.com/)
+8) [Visual Data Storytellers](https://infogr8.com/)
+9) [Info We Trust](https://infowetrust.com/)
+10) [Smart Things](https://www.s-ings.com/)
+
 
 ## Data Visualization (General)
 
 ### Portfolios
 
-1) [PerThirtySix](https://perthirtysix.com/)
-
+1)  [PerThirtySix](https://perthirtysix.com/)
+2) [Romer Creative](https://romercreative.com/#home)
+3) [The Plot Line](https://theplotline.org/)
 
 ### Selecting the appropriate chart types
 
@@ -53,6 +58,7 @@ A listing of data visualization specialists and companies to follow:
 11) [Flourish Best Practices](https://flourish.studio/blog/dataviz-best-practice/)
 12) [Stephen Few Notes](https://www.perceptualedge.com/article-index.php)
 13) [11 Learnings From 11 Charts](https://3mw.albert-rapp.de/p/3mw-11-learnings-11-charts)
+14) [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 
 ### Selecting the appropriate colors
 

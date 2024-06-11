@@ -9,19 +9,35 @@ This page contains a list of resources focused on front-end development.
 
 ### HTML
 
+1)  [ ]()
+2)  [Learn HTML and CSS](https://v2.scrimba.com/learn-html-and-css-c0p)
+3)  [ ]()
+
 ### CSS
+
+1)  [ ]()
+2)  [Learn HTML and CSS](https://v2.scrimba.com/learn-javascript-c0v)
+3)  [ ]()
 
 ### Javascript
 
 1)  [Eloquent Javascript](https://eloquentjavascript.net/)
 2)  [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-3)  [ ]()
+3)  [Learn JavaScript](https://v2.scrimba.com/learn-javascript-c0v)
 4)  [ ]()
+
+### Combined
+
+1) [Standard - HTML/CSS/JS App](https://developer.dataiku.com/latest/tutorials/webapps/standard/index.html)
 
 ## Frameworks
 
 ### React
 
+1)  [React - The library for web and native user interfaces](https://react.dev/)
+2)  [Learn React](https://v2.scrimba.com/learn-react-c0e)
+3)  [ ]()
+
 ## Good Website Examples
 
-1) [KOST](https://www.kostgroup.co/)
+1)  [KOST](https://www.kostgroup.co/)

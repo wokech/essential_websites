@@ -15,8 +15,9 @@ The general teaching resources page provides resources focused on teaching STEM 
 4)  [Scientific Figure Design](https://www.bioinformatics.babraham.ac.uk/training.html#figuredesign)
 5)  [The Mediocre Programmer](https://themediocreprogrammer.com/build/html/the_mediocre_programmer.html)
 6)  [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
-7) [Spurious Correlations and Associated Papers](https://tylervigen.com/)
-8) []()
+7)  [Spurious Correlations and Associated Papers](https://tylervigen.com/)
+8)  [Wonder Tools Teaching Toolkit](https://wonder.craft.me/4PTeHobSdhjxlO)
+9)  [Wonder Tools Blog by Jeremy Caplan](https://wondertools.substack.com/)
 
 ## Teaching Aids
 
@@ -50,5 +51,5 @@ The general teaching resources page provides resources focused on teaching STEM 
 1)  [Whiteboard](https://witeboard.com/268a6870-cc8e-11ec-b94c-e3c8f550f39e)
 2)  [Etherpad](https://etherpad.org/)
 3)  [Active Memory](https://miku.github.io/activememory/)
-4) [Scientific Place](https://scientific.place/)
-
+4)  [Scientific Place](https://scientific.place/)
+5)  [Sounds of Colleagues](https://soundofcolleagues.com/#)

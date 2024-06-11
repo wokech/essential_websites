@@ -69,6 +69,8 @@ This page contains a list of resources focused on data visualization in R. There
 16) [The Good, the Bad and the Ugly: how (not) to visualize data](https://shirinsplayground.netlify.app/2020/10/goodbadugly/)
 17) [Six things I always Google when using ggplot2](https://ivelasq.rbind.io/blog/things-i-google/)
 18) [Visualise a billion rows of data in R with Apache Arrow](https://blog.djnavarro.net/posts/2022-08-23_visualising-a-billion-rows/)
+19) [Recreating the Storytelling with Data look with ggplot](https://albert-rapp.de/posts/ggplot2-tips/10_recreating_swd_look/10_recreating_swd_look.html)
+20) [Bar plot checklist](https://albert-rapp.de/posts/ggplot2-tips/16_bars_checklist/16_bars_checklist.html)
 
 ### Troubleshooting
 
@@ -106,6 +108,14 @@ This page contains a list of resources focused on data visualization in R. There
 28) [Improving a Visualization](https://jcarroll.com.au/2021/07/02/improving-a-visualization/)
 29) [ggplot theme for publication ready Plots](https://github.com/koundy/ggplot_theme_Publication)
 30) [WHY NOT DO THAT WITH R?](http://rich-iannone.github.io/DiagrammeR/)
+31) [How to Use hjust & vjust to Move Elements in ggplot2](https://www.statology.org/hjust-vjust-ggplot2/)
+31) [What do hjust and vjust do when making a plot using ggplot](https://stackoverflow.com/questions/7263849/what-do-hjust-and-vjust-do-when-making-a-plot-using-ggplot)
+32) [Top R Color Palettes to Know for Great Data Visualization](https://www.datanovia.com/en/blog/top-r-color-palettes-to-know-for-great-data-visualization/)
+33) [A Quick How-to on Labelling Bar Graphs in ggplot2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
+34) [Avoid overlapping text with ggrepel](https://r-graph-gallery.com/package/ggrepel.html)
+35) [Theme elements](https://ggplot2.tidyverse.org/reference/element.html)
+36) [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/?s=03)
+37) [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
 ### Various graph types
 
@@ -126,14 +136,16 @@ This page contains a list of resources focused on data visualization in R. There
 15) [Beginners Cookbook for Interactive Visualization in R with highcharter](https://www.programmingwithr.com/how-to-create-animated-bar-race-charts-in-r/)
 16) [Combining maps and patterns](https://albert-rapp.de/posts/ggplot2-tips/25_maps_patterns/25_maps_patterns)
 17) [Sketchy waffle charts in R](https://nrennie.rbind.io/blog/sketchy-waffle-charts-r/)
+18) [How to use emoji in ggplot2 scatter plot](https://yuanxuanyang.medium.com/blog-mdyuanxuan-yang-a328348c4946)
+19) [An Introduction to emojifont package](https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html)
 
 ### Great Tables
 
-1) [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
-2) [The grammar of tables in python (pandas) and R (gt)](https://karbartolome.quarto.pub/the-grammar-of-tables/)
-3) [Various Table Types in R](https://r-graph-gallery.com/table.html)
-4) [gtsummary](https://www.danieldsjoberg.com/gtsummary/index.html)
-5) [gtExtras](https://jthomasmock.github.io/gtExtras/)
+1)  [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
+2)  [The grammar of tables in python (pandas) and R (gt)](https://karbartolome.quarto.pub/the-grammar-of-tables/)
+3)  [Various Table Types in R](https://r-graph-gallery.com/table.html)
+4)  [gtsummary](https://www.danieldsjoberg.com/gtsummary/index.html)
+5)  [gtExtras](https://jthomasmock.github.io/gtExtras/)
 
 ## Good Data Viz Examples
 
@@ -154,7 +166,6 @@ This page contains a list of resources focused on data visualization in R. There
 15) [Visualising high-dimensional data](https://github.com/dicook/useR2019_highd_vis)
 16) [Data Storytelling in R](https://posit.co/blog/how-i-use-stories-to-share-data-at-meetings/)
 17) [Great Table: Cultivated Planet](https://github.com/BjnNowak/CultivatedPlanet/tree/main)
-
 
 ## Data aRtistry
 

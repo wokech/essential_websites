@@ -14,8 +14,21 @@ The Spatial Data Visualization page provides a list of books and tutorials for b
 5)  [GeoData](https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/home)
 6)  [HDX](https://data.humdata.org/)
 
+## Books
+
+1) [Geocomputation with R/Python](https://geocompx.org/)
+2) []()
+3) []()
+4) []()
+5) []()
+
 ## Tutorials
 
 1)  [Spatio-Temporal Data Visualization](https://medium.com/@samvardhanvishnoi2026/spatio-temporal-data-visualization-my-top-3-techniques-by-experience-4b92113b97ea)
-2) [How to build an animated map of tweets about the NBA finals in R](https://www.storybench.org/build-animated-map-tweets-nba-finals-r/)
-3) 
+2)  [How to build an animated map of tweets about the NBA finals in R](https://www.storybench.org/build-animated-map-tweets-nba-finals-r/)
+3)  [Finding the most unique land cover spatial pattern](https://jakubnowosad.com/posts/2023-12-03-motif-bp8/)
+4)  [Map Africa using OSM data in R](https://milospopovic.net/map-africa-using-osm-data/)
+5)  [3D maps with sf and ggplot2 in R](https://milospopovic.net/3d-maps-with-r/)
+6)  [Animated map and lineplot with R](https://milospopovic.net/animated-map-and-lineplot-with-r/)
+7)  []()
+8)  []()

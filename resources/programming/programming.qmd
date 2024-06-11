@@ -17,4 +17,6 @@ This page provides a comprehensive collection of resources on programming tools 
 
 ##### 5. [Shiny](shiny.qmd)
 
-##### 6. [Front-End Development](frontend_dev.qmd)
+##### 6. [Streamlit and Dash](streamlit_dash.qmd)
+
+##### 7. [Front-End Development](frontend_dev.qmd)
