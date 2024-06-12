@@ -5,11 +5,11 @@ toc: true
 
 For anyone interested in ..., this page offers a curated collection of resources. It provides practical introductions to ...
 
-## ...
+## Open Science
 
 1)  [NASA Open Science 101 Curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101)
-2)  [ ]()
-3)  [ ]()
+2)  [Welcome to Open Science 101](https://openscience101.org/)
+3)  [How to 'Open Science': A brief guide to principles and practices](https://realworlddatascience.net/ideas/posts/2023/11/06/how-to-open-science.html)
 4)  [ ]()
 5)  [ ]()
 6)  [ ]()

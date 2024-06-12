@@ -18,6 +18,20 @@ The general teaching resources page provides resources focused on teaching STEM 
 7)  [Spurious Correlations and Associated Papers](https://tylervigen.com/)
 8)  [Wonder Tools Teaching Toolkit](https://wonder.craft.me/4PTeHobSdhjxlO)
 9)  [Wonder Tools Blog by Jeremy Caplan](https://wondertools.substack.com/)
+10) [Making Annotated Presentations](https://simonwillison.net/2023/Aug/6/annotated-presentations/)
+11) [OTTR - GitHub sites and courses for busy people](https://www.ottrproject.org/)
+12) [Loqui: A Shiny app for Creating Automated Videos](https://loqui.fredhutch.org/)
+
+
+### Preventing Cognitive Overload
+
+1) [Reducing Cognitive Overload While Teaching](https://hbsp.harvard.edu/inspiring-minds/reducing-cognitive-overload-while-teaching)
+2) [Give Your Brain a Break—Course Design Tips to Avoid Feeling Overwhelmed](https://hbsp.harvard.edu/inspiring-minds/course-design-tips-to-avoid-feeling-overwhelmed)
+3) [A programmer's cognitive load](https://stitcher.io/blog/a-programmers-cognitive-load)
+4) [How do you use the redundancy principle to avoid cognitive overload?](https://www.linkedin.com/advice/3/how-do-you-use-redundancy-principle-avoid)
+5) [Designing Project-Based Learning to Decrease Cognitive Load](https://spencerauthor.com/pbl-cognitive-load/)
+6) [Cognitive Load Theory And Instructional Design](https://elearningindustry.com/cognitive-load-theory-and-instructional-design)
+7) [11 Science-Backed Ways to Prevent Cognitive Overload in eLearning](https://www.learnworlds.com/prevent-cognitive-overload-in-elearning/)
 
 ## Teaching Aids
 
@@ -53,3 +67,4 @@ The general teaching resources page provides resources focused on teaching STEM 
 3)  [Active Memory](https://miku.github.io/activememory/)
 4)  [Scientific Place](https://scientific.place/)
 5)  [Sounds of Colleagues](https://soundofcolleagues.com/#)
+6) 

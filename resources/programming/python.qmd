@@ -77,7 +77,7 @@ This page provides a comprehensive collection of resources for those interested 
 3)  [Python News Webscraper](https://github.com/kotartemiy/newscatcher)
 4)  [Web Scraping with Scrapy](https://scrapy.org/)
 5)  [Introduction to Market Basket Analysis in Python](https://pbpython.com/market-basket-analysis.html)
-6) [Tidy Finance with Python](https://www.tidy-finance.org/python/)
+6)  [Tidy Finance with Python](https://www.tidy-finance.org/python/)
 
 ### Projects
 

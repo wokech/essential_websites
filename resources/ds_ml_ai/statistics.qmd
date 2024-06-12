@@ -20,6 +20,10 @@ This page provides a comprehensive collection of resources on statistics. Includ
 11) [Statistical rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/content/4857/)
 12) [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/)
 13) [Lessons in Statistical Thinking](https://dtkaplan.github.io/Lessons-in-statistical-thinking/)
+14) [Think Bayes](https://allendowney.github.io/ThinkBayes2/)
+15) [Think Stats](https://greenteapress.com/thinkstats2/html/index.html)
+16) [An R companion to Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-R-site/)
+17) [Causal Inference in R](https://www.r-causal.org/)
 
 ### Personal Websites and Blogs
 
@@ -66,5 +70,5 @@ This page provides a comprehensive collection of resources on statistics. Includ
 3)  [Biostatistics Series Papers](https://scholar.google.com/scholar?start=0&q=avijit+hazra+biostatistics&hl=en&as_sdt=0,5)
 4)  [WCM Biostatistics Computing Club](https://wcm-computing-club.github.io/index.html)
 5)  [Katherine (Kat) Hoffman Biostats](https://www.khstats.com/)
-6) [Statistics for Biologists I](https://www.nature.com/collections/qghhqm)
-7) [Statistics for Biologists II](https://www.nature.com/collections/qghhqm/pointsofsignificance)
+6)  [Statistics for Biologists I](https://www.nature.com/collections/qghhqm)
+7)  [Statistics for Biologists II](https://www.nature.com/collections/qghhqm/pointsofsignificance)

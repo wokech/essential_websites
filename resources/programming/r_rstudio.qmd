@@ -60,8 +60,8 @@ More to come...
 8)  [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 9)  [Reproducible Analytical Pipelines - Master's of Data Science](https://rap4mads.eu/)
 10) [R for Data Analysis](https://trevorfrench.github.io/R-for-Data-Analysis/)
-11) [Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/)
-12) [Hands-On Programming with R](https://jjallaire.github.io/hopr/)
+11) [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](http://rafalab.dfci.harvard.edu/dsbook/)
+12) [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 13) [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 14) [R for Health Data Science Resources](https://healthyr.surgicalinformatics.org/resources.html#resources)
 15) [Data Science in Education Using R](https://datascienceineducation.com/)
@@ -87,6 +87,7 @@ More to come...
 35) [Modern Statistics with R](https://modernstatisticswithr.com/)
 36) [R for the Rest of Us: A Statistics-Free Introduction](https://book.rfortherestofus.com/)
 37) [Agile Data Science with R](https://edwinth.github.io/ADSwR/)
+38) [R for Non-Programmers: A Guide for Social Scientists](https://bookdown.org/daniel_dauber_io/r4np_book/)
 
 ### R and GPT
 
@@ -117,6 +118,16 @@ More to come...
 ### Newsletters
 
 1)  [RWeekly](https://rweekly.org/)
+
+### Basic Intro Courses
+
+1) [Introducing R to a non-programmer in one hour](https://alyssafrazee.com/2014/01/02/introducing-R.html)
+2) [6 Lessons that I learned from teaching R to non-programmers](https://albert-rapp.de/posts/10_lessons_learned_teaching_nonprogrammers/10_lessons_learned_teaching_nonprogrammers)
+3) [What Is RStudio? A Beginner’s Guide](https://careerfoundry.com/en/blog/data-analytics/what-is-rstudio/)
+4) [Data Carpentry - R for Social Scientists](https://datacarpentry.org/r-socialsci/)
+5) [Software Carpentry - R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
+6) [Library Carpentry - Introduction to R](https://librarycarpentry.org/lc-r/)
+7) [R for Novices](https://docs.ycrc.yale.edu/r-novice-gapminder/)
 
 ### Training Courses and Tutorials
 
@@ -185,6 +196,7 @@ More to come...
 63) [Let's talk about joins](https://cghlewis.com/blog/joins/)
 64) [How to Get Good with R?](https://www.njtierney.com/post/2023/11/10/how-to-get-good-with-r/)
 65) [S-Cubed Courses](https://scubed.rbind.io/courses/)
+66) [5 Lines of Code to Convince You to Learn R](https://towardsdatascience.com/5-lines-of-code-to-convince-you-to-learn-r-81efb2e3c836)
 
 ### Tools
 

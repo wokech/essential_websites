@@ -19,6 +19,7 @@ This page provides a comprehensive collection of resources on data science, mach
 8)  [Computing for Information Science](https://info5940.infosci.cornell.edu/)
 9)  [Data Science Learning Path For Complete Beginners](https://www.datasciencecentral.com/data-science-learning-path-for-complete-beginner/)
 10) [Nonvisual Data Science Workshop Series](https://iota-school.github.io/nonvisual_data_science_workshops/)
+11) [Data Dojo Würzburg](https://ddojo.github.io/)
 
 ### Books
 

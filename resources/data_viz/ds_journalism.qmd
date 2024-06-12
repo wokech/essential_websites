@@ -20,7 +20,7 @@ A listing of data journalism practitioners and companies to follow:
 ### Books
 
 1)  [Telling Stories with Data: With Applications in R and Python](https://tellingstorieswithdata.com/)
-2) [Narrative and Numbers](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/numbers&narrative.htm)
+2)  [Narrative and Numbers](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/numbers&narrative.htm)
 
 ### Guides
 
@@ -133,8 +133,8 @@ A listing of data journalism practitioners and companies to follow:
 25) [Getting a good job](https://apps.urban.org/features/job-quality-segregation-race-gender/)
 26) [Build a Voter](https://www.economist.com/interactive/uk-general-election/build-a-voter)
 27) [The real cost of seafood](https://kontinentalist.com/stories/the-real-cost-of-seafood)
-27) [How does rice get to your plate?](https://kontinentalist.com/stories/how-does-rice-get-to-your-plate)
-27) [Jakarta’s roadside food sellers](https://kontinentalist.com/stories/jakarta-roadside-food-sellers-challenges-in-future-technology)
-27) [ Exploring the lungs of Asia](https://kontinentalist.com/stories/forest-degradation-deforestation-and-conservation-in-asia)
-28) []()
-29) []()
+28) [How does rice get to your plate?](https://kontinentalist.com/stories/how-does-rice-get-to-your-plate)
+29) [Jakarta’s roadside food sellers](https://kontinentalist.com/stories/jakarta-roadside-food-sellers-challenges-in-future-technology)
+30) [Exploring the lungs of Asia](https://kontinentalist.com/stories/forest-degradation-deforestation-and-conservation-in-asia)
+31) [The Protein Problem](https://projects.apnews.com/features/2023/the-protein-problem/index.html)
+32) [ ]()

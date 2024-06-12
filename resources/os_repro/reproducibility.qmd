@@ -5,7 +5,7 @@ toc: true
 
 For anyone interested in ..., this page offers a curated collection of resources. It provides practical introductions to ...
 
-## ...
+## Reproducibility
 
 1)  [Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
 2)  [Develop and share reproducible methods](https://www.protocols.io/)
@@ -14,17 +14,23 @@ For anyone interested in ..., this page offers a curated collection of resources
 5)  [Error: Detect and report errors in Scientific Publications](https://error.reviews/)
 6)  [Sample Research Workflow](https://www.carlboettiger.info/2012/05/06/research-workflow.html)
 7)  [Research folder structure standard](https://gin-tonic.netlify.app/standard/)
-8)  [Electronic Laboratory Notebooks](https://www.nature.com/articles/d41586-018-05895-3)
+8)  [The Road to Reproducible Research: Hazards to Avoid and Tools to get you there safely](https://realworlddatascience.net/case-studies/posts/2023/06/15/road-to-reproducible-research.html)
 9)  [Equator Network](https://www.equator-network.org/)
 10) [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://osf.io/preprints/psyarxiv/rsn5y)
 11) [Harvard Biomedical Data Management](https://datamanagement.hms.harvard.edu/)
 12) [Registry of Research Data Repositories](https://www.re3data.org/)
 13) [DataLad](https://handbook.datalad.org/en/latest/index.html)
+14) [Electronic Laboratory Notebooks](https://www.nature.com/articles/d41586-018-05895-3)
 
 ## Books
 
-1) [Building Reproducible Analytical Pipelines](https://rap4mads.eu/)
+1)  [Building Reproducible Analytical Pipelines](https://rap4mads.eu/)
 
+## Templates for Reproducible Research
+
+1) [The analysistemplates package](https://github.com/jonas-hag/analysistemplates)
+2) [Research Project Template](https://github.com/HeidiSeibold/research-project-template)
+3) [SciDataFlow — Facilitating the Flow of Data in Science](https://github.com/vsbuffalo/scidataflow)
 
 ## Negative Results
 

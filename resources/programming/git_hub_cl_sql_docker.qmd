@@ -26,13 +26,14 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 1)  [Pro Git Book](https://git-scm.com/book/en/v2)
 2)  [Happy Git and GitHub for the user](https://happygitwithr.com/)
 
-### Tutorials
+### Tutorials and Courses
 
 1)  [Understanding Git Conceptually](https://www.cduan.com/technical/git/)
 2)  [Become a git guru](https://www.atlassian.com/git/tutorials)
 3)  [Git and RStudio](https://rpubs.com/marschmi/105639)
 4)  [Good Enough Practices in Scientific Computing](https://carpentries-incubator.github.io/good-enough-practices/index.html)
 5)  [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
+6) [Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data](https://lennartwittkuhn.com/version-control-course-uhh-ws23/)
 
 ### Git Troubleshooting
 
@@ -54,7 +55,7 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 1)  [Introducing GitHub Global Campus](https://github.blog/2021-09-01-introducing-github-global-campus/)
 2)  [Collaboration, version control and learning to commit](https://personalpages.manchester.ac.uk/staff/david.selby/rthritis/2021-03-12-git/)
 3)  [Making Your First GitHub R Project](https://codehorizons.com/making-your-first-github-r-project/)
-4) [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/)
+4)  [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/)
 
 ### Applications
 
