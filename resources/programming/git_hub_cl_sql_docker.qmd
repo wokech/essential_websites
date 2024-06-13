@@ -20,6 +20,7 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 9)  [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 10) [git ready](https://gitready.com/)
 11) [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+12) [The guide to Git I never had](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
 
 ### Books
 
@@ -33,7 +34,7 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 3)  [Git and RStudio](https://rpubs.com/marschmi/105639)
 4)  [Good Enough Practices in Scientific Computing](https://carpentries-incubator.github.io/good-enough-practices/index.html)
 5)  [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
-6) [Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data](https://lennartwittkuhn.com/version-control-course-uhh-ws23/)
+6)  [Effective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data](https://lennartwittkuhn.com/version-control-course-uhh-ws23/)
 
 ### Git Troubleshooting
 
@@ -49,6 +50,7 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 3)  [Get started with Git and GitHub](https://aosmith16.github.io/spring-r-topics/slides/week01_introduction_git_and_github.html#1)
 4)  [Mastering GitHub in 4 Steps](https://frontenddoctor.hashnode.dev/mastering-github-in-4-steps)
 5)  [GitHub for supporting, reusing, contributing, and failing safely](https://www.openscapes.org/blog/2022/05/27/github-illustrated-series/)
+6)  
 
 ### Training and Tutorials
 
@@ -77,7 +79,19 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 2)  [The Unix Shell 1](https://swcarpentry.github.io/shell-novice/)
 3)  [The Unix Shell 2](https://thejacksonlaboratory.github.io/introduction-to-hpc/)
 4)  [7 Command-Line Tools for Data Science](https://jeroenjanssens.com/seven/)
-5)  
+5)  [Regular expressions](https://regexone.com/)
+6)  [Useful Unix commands for data science](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/)
+7)  [Linux Beginner's Shell Cheat page](https://wiki.bits.vib.be/index.php/Linux_Beginner%27s_Shell_Cheat_page)
+8)  [The practical command line cheat sheet](https://wiki.bits.vib.be/index.php/The_practical_command_line_cheat_sheet)
+9)  [A Beginner's Guide to the Linux Command Line](https://www.techspot.com/guides/835-linux-command-line-basics/)
+10) [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) ) 
+11) [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) 
+12) [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+13) [Regular Expressions Tutorial](https://ryanstutorials.net/regular-expressions-tutorial/)
+
+### Tools
+
+1)  [csvlens](https://github.com/YS-L/csvlens)
 
 ## SQL
 

@@ -1,27 +1,50 @@
 ---
-title: "Bioinformatics and Computational Biology"
+title: "Bioinformatics and Computational Biology (Part 1)"
 toc: true
 ---
 
 The Bioinformatics and Computational Biology page offers a curated collection of resources for bioinformatics and computational biology. The page includes personal and lab websites, tutorials, courses, books, and projects.
 
-## Personal and Lab Websites
+## Personal Blogs and Lab Websites
+
+### Blogs
 
 1)  [JT Leek](https://github.com/jtleek)
 2)  [Karolis Koncevičius](http://karolis.koncevicius.lt/)
 3)  [Eytan Ruppin](https://ccr.cancer.gov/staff-directory/eytan-ruppin)
 4)  [Lior Pachter](https://pachterlab.github.io/)
 5)  [Jean Fan](https://jef.works/)
-6)  [Liu Lab](https://liulab-dfci.github.io/)
-7)  [Costa Lab](https://www.costalab.org/teaching/)
-8)  [Ming Tang](https://divingintogeneticsandgenomics.rbind.io/)
+6)  [Philip Compeau](https://compeau.cbd.cmu.edu/)
+7)  [Karl Broman](https://kbroman.org/)
+8)  [Ming Tang](https://divingintogeneticsandgenomics.com/)
 9)  [James Zou](https://www.james-zou.com/research)
-10) [Karl Broman](https://kbroman.org/)
-11) [Krishnaswamy Lab](https://www.krishnaswamylab.org/)
-12) [Philip Compeau](https://compeau.cbd.cmu.edu/)
-13) [ZHOU LAB](https://zhou-lab.github.io/index.html)
-14) [Childhood Cancer Data Lab](https://www.ccdatalab.org/)
-15) [Diving into Genetics and Genomics](http://crazyhottommy.blogspot.com/)
+10) [Tyler Burns](https://tjburns08.github.io/)
+11) [Jeffrey Grover](https://groverj3.github.io/blog.html)
+12) [Sung Rye Park](https://sung2021.github.io/)
+
+### Lab Websites
+
+1)  [Krishnaswamy Lab](https://www.krishnaswamylab.org/)
+2)  [Liu Lab](https://liulab-dfci.github.io/)
+3)  [Costa Lab](https://www.costalab.org/teaching/)
+4)  [ZHOU LAB](https://zhou-lab.github.io/index.html)
+5)  [Childhood Cancer Data Lab](https://www.ccdatalab.org/)
+6) [Ma'ayan Lab](https://labs.icahn.mssm.edu/maayanlab/)
+7) [Ty Miller Lab](https://tymillerlab.org/resources/)
+8) [Griffith Lab Teaching](https://griffithlab.org/teaching/)
+
+### Bioinformatics Consulting Companies
+
+1) [Independent Data Lab](https://www.independentdatalab.com/)
+
+## Curated list of resources and Datasets
+
+1) [Glittr: curated list of bioinformatics training material](https://glittr.org/)
+2) [Collection of bioinformatics training materials](https://github.com/sib-swiss/training-collection)
+3) [Genomics and Bioinformatics Resources](http://www.begenomics.com/)
+4) [Cell and Gene Datasets](https://cellxgene.cziscience.com/)
+5) [Recommended Awesome Lists for Bioconductor Community](https://blog.bioconductor.org/posts/2022-10-22-awesome-lists/)
+6) [Biostars](https://www.biostars.org/)
 
 ## Bioinformatics News Stories
 
@@ -30,13 +53,23 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 
 ## Bioinformatics Basics
 
+### Background Notes
+
+1) [Fundamentals of Bioinformatics](https://medium.com/@gokcenazakyol/fundamentals-of-bioinformatics-bioinformatics-1-a2be830c6352)
+2) [RNA-Seq: The Cells Librarian](https://decodingbiology.substack.com/p/rna-seq-the-cells-librarian)
+3) [Single cell sequencing: what it is and why researchers in industry and academia want it](https://www.sofias.bio/p/single-cell-sequencing-what-it-is)
+4) [What is Bioinformatics?](https://abacus.bates.edu/bioinformatics1/index.html)
+5) [Bioinformatics Tutorials by Digital World Biology](https://digitalworldbiology.com/bioinformatics-tutorials)
+6) [Bioinformatics Education and Tutorials](https://bioinformaticshome.com/bioinformatics_tutorials/tutorials_main.html)
+7) []
+
 ### Courses and Lectures
 
 1)  [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 2)  [Introduction to Computational Biology](https://biodatascience.github.io/compbio/)
 3)  [SDS 348, Computational Biology and Bioinformatics 2019](https://wilkelab.org/classes/SDS348_spring_2019.html)
 4)  [SDS 348, Computational Biology and Bioinformatics 2020](https://wilkelab.org/classes/SDS348_spring_2020.html)
-5)  [BMI 702 \| Biomedical Artificial Intelligence](https://zitniklab.hms.harvard.edu/BMI702/)
+5)  [BMI 702: Biomedical Artificial Intelligence](https://zitniklab.hms.harvard.edu/BMI702/)
 6)  [DIY Transcriptomics](https://diytranscriptomics.com/)
 7)  [BIG Bioinformatics](https://www.bigbioinformatics.org/)
 8)  [Intro to Biomedical Data Science](http://bioconnector.github.io/bims8382/index.html)
@@ -49,6 +82,24 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 15) [Introduction to R for Biologists](https://melbournebioinformatics.github.io/r-intro-biologists/intro_r_biologists.html#R_for_Biologists_course)
 16) [Graphs and Networks for Biology using R](http://web.stanford.edu/class/bios221/NetworkSlides.html)
 17) [HBC Training Program Basic Data Skills](https://hbctraining.github.io/main/#basic-data-skills)
+18) [Caltech BI/BE/CSS 183: Introduction to Computational Biology and Bioinformatics](https://github.com/pachterlab/BI-BE-CS-183-2023)
+19) [Genomic Data Visualization](https://jef.works/genomic-data-visualization-2024/)
+20) [BILD62 (Intro to Python for Biologists)](https://github.com/BILD62)
+21) [RaukR 2022: Advanced R for Bioinformatics](https://nbisweden.github.io/RaukR-2022/)
+22) [RaukR 2023: Advanced R for Bioinformatics](https://nbisweden.github.io/raukr-2023/)
+23) [HTS2018 resources](https://people.duke.edu/~ccc14/duke-hts-2018/index.html#)
+24) [GSEAtraining](https://jokergoo.github.io/GSEAtraining/)
+25) [Bioinformatics for Beginners: RNA-Seq](https://bioinformatics.ccr.cancer.gov/docs/b4b/)
+26) [LINCS Workflow](https://lincsproject.org/LINCS/tools/workflows/find-the-best-place-to-obtain-the-lincs-l1000-data)
+27) [The RNA-seqlopedia](https://rnaseq.uoregon.edu/)
+28) [Great Ideas in Computational Biology](https://compeau.cbd.cmu.edu/teaching/great-ideas-in-computational-biology/)
+29) [RNA-seq Bioinformatics Course](https://rnabio.org/)
+30) [Genomic Data Visualization and Interpretation](https://genviz.org/course/)
+31) [Precision Medicine Biology](https://pmbio.org/)
+32) [RNA-seq Bioinformatics Course: All Lectures](https://rnabio.org/module-09-appendix/0009/04/01/Lectures/)
+33) [Infectious Disease Genomic Epidemiology 2024](https://bioinformaticsdotca.github.io/IDE_2024)
+
+
 
 ### Books and Resources
 
@@ -66,7 +117,7 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 12) [RNA-Seq Blog](https://www.rna-seqblog.com/)
 13) [7 Books for you to learn bioinformatics](https://crazyhottommy.blogspot.com/2022/11/7-books-for-you-to-learn-bioinformatics.html)
 14) [Biomedical Data Science Book](http://genomicsclass.github.io/book/)
-15) [CRISPRpedia](https://innovativegenomics.org/crisprpedia/)
+15) [Best Practices for Spatial Transcriptomics Analysis with Bioconductor](https://lmweber.org/BestPracticesST/)
 16) [Data Science for the Biomedical Sciences](https://ds4biomed.tech/)
 17) [What is genomics?](https://www.genomicseducation.hee.nhs.uk/education/core-concepts/what-is-genomics/)
 18) [COLAUTTI LAB Books and Resources](https://ecoevogeno.org/)
@@ -85,17 +136,29 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 31) [Modeling Life](https://modelinginbiology.github.io/)
 32) [Fundamentals of computational biology](https://camilogarciabotero.github.io/biocomp-book/)
 33) [Learn Bioinformatics in 100 hours](https://www.biostarhandbook.com/edu/course/1/)
-34) [Collection of bioinformatics training materials](https://github.com/sib-swiss/training-collection)
+34) [Bioinformatics Training & Education Program](https://bioinformatics.ccr.cancer.gov/btep/)
 35) [Bioinformatics Workbook](https://bioinformaticsworkbook.org/)
 36) [My opinionated selection of books/urls for bioinformatics/data science curriculum](https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/)
 37) [Statistical Modeling of High Dimensional Counts](https://mikelove.github.io/counts-model/)
 38) [Genomics Boot Camp](https://genomicsbootcamp.github.io/book/)
 39) [Deep learning on computational biology and bioinformatics tutorial](https://theaisummer.com/deep-learning-biology-alphafold/)
+40) [ILRI Bioinformatics Resources](https://hpc.ilri.cgiar.org/beca/bioinfo/index.html)
+41) [NIH Data Science Resources](https://datascience.nih.gov/twice/training-resources)
+42) [Resources to become a computational biologist outside of academia](https://medium.com/deena-does-data-science/resources-to-become-a-computational-biologist-outside-of-academia-39336a6d2059)
+43) [Pandora Bioinformatics Resources](https://pandora.tghn.org/sequencing/bioinformatics/)
+44) [CRISPRpedia](https://innovativegenomics.org/crisprpedia/)
 
-### Tools
+45) [QUBES: Network for Integrating Bioinformatics into Life Sciences Education](https://qubeshub.org/community/groups/niblse/resourcecollection)
+46) [Next-Generation Sequencing Analysis Resources](https://learn.gencore.bio.nyu.edu/)
+47) [Biomedical Knowledge Mining using GOSemSim and clusterProfiler](https://yulab-smu.top/biomedical-knowledge-mining-book/index.html)
+48) [Biological Modeling](https://biologicalmodeling.org/)
+49) [Bioconductor Books](https://master.bioconductor.org/help/bioconductor-books/)
+
+
+### Tools and Pipelines
 
 1)  [R2 Genomics Analysis and Visualization Platform](https://hgserver1.amc.nl/cgi-bin/r2/main.cgi?open_page=login)
-2)  [Exploring Spatial Omics](https://aquila.cheunglab.org/)
+2)  [BeGenomics Tutorials](http://www.begenomics.com/tutorial/)
 3)  [BD2K-LINCS DATA COORDINATION AND INTEGRATION CENTER](https://lincs-dcic.org/)
 4)  [The Top 15 Machine Learning Data Science Bioinformatics Open Source Projects](https://awesomeopensource.com/projects/bioinformatics/data-science/machine-learning)
 5)  [Biopython](https://biopython.org/)
@@ -108,6 +171,17 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 12) [Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu/training)
 13) [Genomic Data Processing](https://gdc.cancer.gov/about-data/gdc-data-processing/genomic-data-processing)
 14) [Machine Learning in Genomics Workshop](https://www.genome.gov/event-calendar/Machine-Learning-in-Genomics-Tools-Resources-Clinical-Applications-and-Ethics)
+15) [Bioconductor](https://bioconductor.org/)
+16) [UConn File Formats Tutorial](https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/file-formats-tutorial/)
+17) [The Molecular Map of Exercise](https://motrpac-data.org/)
+18) [ShinyGO](http://bioinformatics.sdstate.edu/go/)
+19) [Scimap: scalable toolkit for analyzing spatial molecular data](https://scimap.xyz/)
+20) [Docker Image of DIYTranscriptomics (password-protected)](https://codeocean.com/capsule/3385243/tree)
+21) [Enrichr](https://maayanlab.cloud/Enrichr/)
+22) [Bedtools](http://quinlanlab.org/tutorials/bedtools.html)
+23) [Salmon](https://combine-lab.github.io/salmon/)
+24) [kallisto](https://pachterlab.github.io/kallisto/starting.html)
+25) [Getting Started with Seurat](https://satijalab.org/seurat/articles/get_started_v5_new)
 
 ## Bioinformatics Tutorials and Projects
 
@@ -115,9 +189,7 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 
 1)  [Oncology Bioinformatics project tutorial](https://darkomedin-datascience.medium.com/oncology-bioinformatics-project-tutorial-differential-gene-expression-and-biomarker-discovery-d3ac07db5652)
 2)  [Centre of Bioinformatics Research and Technology (CBIRT)](https://cbirt.net/)
-3)  [Galaxy Training](https://training.galaxyproject.org/training-material/)
-4)  [Childhood Cancer Data Lab Workshop Materials](https://www.ccdatalab.org/workshop-materials)
-5)  [Childhood Cancer Data Lab Research Resources](https://www.ccdatalab.org/research-resources)
+
 6)  [Crash Courses in Bioinformatics](http://crashcourses.biodata.pt/)
 7)  [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/)
 8)  [Illustrating Python via Examples from Bioinformatics](http://hplgit.github.io/bioinf-py/doc/pub/html/index.html)
@@ -132,8 +204,26 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 17) [Bioinformatics Midterm Project](https://rpubs.com/nupurjoshi829/546190)
 18) [Introduction to bioinformatics](https://rpubs.com/sonnyc247/PCL368-S1-2022)
 19) [Explore the world of Bioinformatics with Machine Learning](https://www.kdnuggets.com/2019/09/explore-world-bioinformatics-machine-learning.html)
+20) [Bioinformatics for Dummies: A Beginner’s Quick Guide](https://omicstutorials.com/bioinformatics-for-dummies-a-beginners-quick-guide/)
+21) [Interactive Bioinformatics Tutorials](https://sandbox.bio/)
+22) [Ming Tang Comp Bio Tutorials](https://github.com/crazyhottommy/compbio_tutorials/tree/main/scripts)
+23) [Bioinformatics Documentation from Melbourne](https://www.melbournebioinformatics.org.au/tutorials/)
+24) [Bioinformatics Introduction](https://github.com/SexChrLab/BioinformaticsIntroduction)
+25) [Data Carpentry - Genomics Workshop](https://datacarpentry.org/genomics-workshop/)
+26) [Open source bioinformatics tutorials](https://medium.com/@adhal/open-source-bioinformatics-tutorials-58bd40dd7f0d)
+27) [Introduction to Network Analysis in Systems Biology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3196357/)
 
-#### Tidyverse and R
+
+
+### Tips and Troubleshooting
+
+1) [How I transitioned from biologist to biology-leveraged bioinformatician](https://tjburns08.github.io/learn_bioinformatics.html)
+2) [fastq-dump command not found](https://www.researchgate.net/post/Each_time_I_open_terminal_it_states_that_fastq-dump_command_not_found_What_should_I_do)
+
+
+### Program-specific tutorials
+
+#### Tidyverse and R in Bioinformatics
 
 1)  [Bioinformatics in the Tidyverse](https://chapmandu2.github.io/post/2017/02/21/bioinformatics-in-the-tidyverse/)
 2)  [An Introduction to R through the tidyverse + Bioinformatics](https://pmacdasci.github.io/r-intro-tidyverse/)
@@ -142,8 +232,10 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 5)  [The Bioconductor 2018 Workshop Compilation](https://bioconductor.github.io/BiocWorkshops/)
 6)  [Bioconductor Workshop 1 Jupyter Notebooks](https://compbiocore.github.io/bioconductor-workshop-1/notebook/)
 7)  [MicroArray Project](https://rpubs.com/bilalhamdanieh/bioconductor)
+8) [An Introduction to R through the tidyverse](https://pmacdasci.github.io/r-intro-tidyverse/)
 
-#### BioPython
+
+#### Python
 
 1)  [First Steps in Biopython](https://krother.gitbooks.io/biopython-tutorial/content/first_steps.html)
 2)  [What is BioPython](https://notebook.community/gditzler/bio-course-materials/notebooks/BioPython-Tutorial)
@@ -151,6 +243,97 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 4)  [Biopython Tutorial](https://www.tutorialspoint.com/biopython/index.htm)
 5)  [Practical Computing for Biologists](https://people.duke.edu/~ccc14/pcfb/biopython/BiopythonBasics.html)
 6)  [Biopython Tutorial and Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
+7) [Single Cell Transcriptomics with Python](https://sib-swiss.github.io/single-cell-python-training/)
+8) [Stellenbosch: Introduction to Python for Bioinformatics](https://www.sun.ac.za/english/faculty/science/sci-bioinformatics/tutorials-downloads/tutorials)
+
+
+#### Linux, Command Line, and Git
+
+1) [Introduction to Linux for bioinformatics](https://wiki.bits.vib.be/index.php/Introduction_to_Linux_for_bioinformatics)
+2) [Bioinformatics one-liners](https://github.com/stephenturner/oneliners)
+3) [Unix & Perl Primer for Biologists](http://korflab.ucdavis.edu/unix_and_Perl/)
+4) [Happy Belly Bioinformatics - Unix home](https://astrobiomike.github.io/unix/)
+5) [Bioinformatics Tutorials: The command-line](https://www.hadriengourle.com/tutorials/command_line/)
+6) [Bash basics](https://protocols.hostmicrobe.org/bash)
+7) [Git basics](https://protocols.hostmicrobe.org/git-basics)
+8) [Introduction to the Unix Shell for Bioinformatics](https://github.com/raynamharris/Shell_Intro_for_Bioinformatics_STG)
+9) [Introduction to Unix](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0)
+10) [Entrez Direct: E-utilities on the Unix Command Line](https://www.ncbi.nlm.nih.gov/books/NBK179288/)
+
+#### Galaxy
+
+1) [Galaxy](https://usegalaxy.org/)
+2) [Galaxy Machine Learning Community](https://galaxyproject.org/community/machine-learning/)
+3) [Reference-based RNA-Seq data analysis](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html)
+4) [Galaxy Training](https://training.galaxyproject.org/training-material/)
+
+
+#### Workflows
+
+1) [Seqera](https://seqera.io/)
+2) [NextFlow](https://www.nextflow.io/)
+3) [Script of Scripts (SoS)](https://vatlab.github.io/sos-docs/)
+4) [An Introduction to Snakemake for Bioinformatics](https://farm.cse.ucdavis.edu/~ctbrown/2023-snakemake-book-draft/intro.html)
+5) [bioBakery Workflows](https://huttenhower.sph.harvard.edu/biobakery_workflows/)
+6) [The Snakemake Tutorial I Wish I Had](https://groverj3.github.io/articles/2019-08-19_the-snakemake-tutorial-i-wish-i-had.html)
+7) [On Bioinformatics Workflow Design](https://groverj3.github.io/articles/2024-04-26_on-bioinformatics-workflow-design.html)
+8) [Conda Setup](https://github.com/OscarW99/Tutorials/blob/main/simple_bioinformatics_pipeline/conda_setup.txt)
+
+### Cancer Genomics
+
+1) [Open Pediatric Brain Tumor Atlas](https://github.com/AlexsLemonade/OpenPBTA-analysis)
+2) [OpenPBTA Paper](https://www.cell.com/cell-genomics/fulltext/S2666-979X(23)00115-5)
+3) [Big Data Training for Cancer Research](https://bigcare.uci.edu/)
+4) [Genomic Data Commons](https://docs.gdc.cancer.gov/Data/Introduction/)
+5)  [Childhood Cancer Data Lab Workshop Materials](https://www.ccdatalab.org/workshop-materials)
+6)  [Childhood Cancer Data Lab Research Resources](https://www.ccdatalab.org/research-resources)
+7) [Introduction to R for Cancer Scientists](https://bioinformatics-core-shared-training.github.io/r-intro/index.html)
+8) [St. Jude Cloud Genomics Platform](https://platform.stjude.cloud/data/diseases/paired-tumor-normal)
+9) [Cancer Research Resources](https://heathbioi.github.io/cancer-research-resources/)
+10) [cBioPortal Google Summer of Code (GSoC)](https://github.com/cBioPortal/GSoC)
+11) [A deep profile of gene expression across 18 human cancers](https://figshare.com/articles/dataset/_sup_A_deep_profile_of_gene_expression_across_18_human_cancers_sup_/25414765/2)
+12) [Tumor Classification PCA](https://www.kaggle.com/code/ishaanash/tumor-classification-pca)
+13) [Gene Expression Analysis in R workshop 2022](https://github.com/developerpiru/GeneExpressionWorkshopRMed2022)
+
+### Bulk Omics
+
+1) [conquer (consistent quantification of external RNA-seq data sets)](https://github.com/markrobinsonuzh/conquer)
+2) [RNA-seq Bioinformatics Resources](https://rnabio.org/resources/)
+3) [RNA Seq analysis tutorial](https://github.com/CandiceChuDVM/RNA-Seq/wiki/RNA-Seq-analysis-tutorial)
+4) [Thinking about Designing RNA Seq Experiments to Measure Differential Gene Expression: The Basics](https://michelebusby.tumblr.com/post/26913184737/thinking-about-designing-rna-seq-experiments-to)
+5) [RNA-Seq Blog](https://www.rna-seqblog.com/)
+6) [Importing transcript abundance with tximport](https://bioconductor.org/packages/release/bioc/vignettes/tximport/inst/doc/tximport.html)
+7) [Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences](https://f1000research.com/articles/4-1521/v2)
+8) [RNA-seq workflow: gene-level exploratory analysis and differential expression](https://master.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
+
+
+
+### Single Cell Omics
+
+1) [scRNA seq pipeline with one file](https://tjburns08.github.io/scrna_seq_piepline_pbmc_3k.html)
+2) [Single-cell sequencing analysis: the importance of data integration](https://tjburns08.github.io/scrna_seq_analyze_and_integrate.html)
+3) [Run CyTOF analysis with Seurat](https://tjburns08.github.io/run_cytof_with_seurat.html)
+4) [Mapping and annotating query datasets](https://satijalab.org/seurat/articles/integration_mapping.html)
+5) [How Difficult Is It To Start Your Single-cell Analysis As A Beginner](https://notarocketscientist.xyz/posts/2024-01-18-how-difficult-is-it-to-start-your-single-cell-analysis-as-a-beginner/)
+6) [Seurat - Guided Clustering Tutorial](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
+7) [Scanpy tutorials](https://scanpy-tutorials.readthedocs.io/en/latest/index.html)
+8) [Single cell studies database](https://docs.google.com/spreadsheets/d/1En7-UV0k0laDiIfjFkdn7dggyR7jIk3WH8QgXaMOZF0/edit?gid=0#gid=0)
+9) [Using SingleR to annotate single-cell RNA-seq data](https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html)
+10) [Seurat Command List](https://satijalab.org/seurat/articles/essential_commands)
+
+
+
+### Spatial Omics
+
+1) [An open and universal framework for processing spatial omics data](https://spatialdata.scverse.org/en/latest/)
+2) [Exploring Spatial Omics](https://aquila.cheunglab.org/)
+3) [Analysis and visualization of spatial transcriptomics data](https://scanpy-tutorials.readthedocs.io/en/latest/spatial/basic-analysis.html#)
+4) [Analysis, visualization, and integration of spatial datasets with Seurat](https://satijalab.org/seurat/articles/spatial_vignette.html)
+5) [Spatial omics takes off](https://www.stjude.org/research/progress/2023/spatial-omics-takes-off.html)
+6) [Two platforms, one powerful spatial biology toolkit](https://www.10xgenomics.com/blog?query=&page=3)
+
+
+
 
 ### Projects
 
@@ -162,3 +345,15 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 6)  [Machine learning for biology part two](https://pythonforbiologists.com/machine-learning-for-biology-part-two.html)
 7)  [Machine learning for biology part three](https://pythonforbiologists.com/machine-learning-for-biology-part-three.html)
 8)  [Machine learning for biology part four](https://pythonforbiologists.com/machine-learning-for-biology-part-four.html)
+
+### Crowdsourcing Bioinformatics
+
+1) [Bioinformatics Research Network](https://www.bioresnet.org/)
+2) [Bioinformatics Research Network Skill Assessments](https://github.com/Bioinformatics-Research-Network/skill-assessments/tree/main)
+3) [Huang Lab: Precision Omics](https://labs.icahn.mssm.edu/kuanhuanglab/join/)
+4) [Stimulating Innovation in Breast Cancer Genetic Epidemiology](https://epi.grants.cancer.gov/events/u4c/)
+5) [BD2K-LINCS Data Coordination and Integration Center: Crowdsourcing Portal](https://maayanlab.net/crowdsourcing/index.php)
+6) [DREAM Challenges](https://dreamchallenges.org/)
+7) [Figure One Lab](https://github.com/deanslee/FigureOneLab)
+8) [Coding Exercise: TCGA](https://github.com/crazyhottommy/coding_exercise_TCGA_infiltration)
+

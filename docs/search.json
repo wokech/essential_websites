@@ -1412,34 +1412,34 @@
   {
     "objectID": "resources/programming/frontend_dev.html",
     "href": "resources/programming/frontend_dev.html",
-    "title": "6  Front-End Development",
+    "title": "7  Front-End Development",
     "section": "",
-    "text": "6.1 Languages",
+    "text": "7.1 Languages",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Front-End Development</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Development</span>"
     ]
   },
   {
     "objectID": "resources/programming/frontend_dev.html#languages",
     "href": "resources/programming/frontend_dev.html#languages",
-    "title": "6  Front-End Development",
+    "title": "7  Front-End Development",
     "section": "",
-    "text": "6.1.1 HTML\n\n\nLearn HTML and CSS\n\n\n\n\n6.1.2 CSS\n\n\nLearn HTML and CSS\n\n\n\n\n6.1.3 Javascript\n\nEloquent Javascript\nMozilla Javascript\nLearn JavaScript\n\n\n\n\n6.1.4 Combined\n\nStandard - HTML/CSS/JS App",
+    "text": "7.1.1 HTML\n\n\nLearn HTML and CSS\n\n\n\n\n7.1.2 CSS\n\n\nLearn HTML and CSS\n\n\n\n\n7.1.3 Javascript\n\nEloquent Javascript\nMozilla Javascript\nLearn JavaScript\n\n\n\n\n7.1.4 Combined\n\nStandard - HTML/CSS/JS App",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Front-End Development</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Development</span>"
     ]
   },
   {
     "objectID": "resources/programming/frontend_dev.html#frameworks",
     "href": "resources/programming/frontend_dev.html#frameworks",
-    "title": "6  Front-End Development",
-    "section": "6.2 Frameworks",
-    "text": "6.2 Frameworks\n\n6.2.1 React\n\nReact - The library for web and native user interfaces\nLearn React",
+    "title": "7  Front-End Development",
+    "section": "7.2 Frameworks",
+    "text": "7.2 Frameworks\n\n7.2.1 React\n\nReact - The library for web and native user interfaces\nLearn React",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Front-End Development</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Development</span>"
     ]
   },
   {
@@ -1489,12 +1489,12 @@
   {
     "objectID": "resources/programming/frontend_dev.html#good-website-examples",
     "href": "resources/programming/frontend_dev.html#good-website-examples",
-    "title": "6  Front-End Development",
-    "section": "6.3 Good Website Examples",
-    "text": "6.3 Good Website Examples\n\nKOST",
+    "title": "7  Front-End Development",
+    "section": "7.3 Good Website Examples",
+    "text": "7.3 Good Website Examples\n\nKOST",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Front-End Development</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Development</span>"
     ]
   },
   {
@@ -1670,6 +1670,39 @@
     "crumbs": [
       "Bio-X: All things Bio",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Biotechnology and Healthcare Startups</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/streamlit_dash.html",
+    "href": "resources/programming/streamlit_dash.html",
+    "title": "6  Streamlit and Dash",
+    "section": "",
+    "text": "6.1 Streamlit",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Streamlit and Dash</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/streamlit_dash.html#streamlit",
+    "href": "resources/programming/streamlit_dash.html#streamlit",
+    "title": "6  Streamlit and Dash",
+    "section": "",
+    "text": "6.1.1 Basics\n\nStreamlit documentation\nLearn Streamlit\nAn Introduction to Streamlit\n\n\n\n6.1.2 Books\n\n\n\n\n\n6.1.3 Tutorials\n\nBuilding Your First Streamlit App: A Step-by-Step Tutorial\nCreate an app\nHow to build apps with Streamlit Python (quick Tutorial)\nBuilding Graph Applications in Streamlit\nQuickly Create Interactive Data Visualization\nBuild A Beautiful Machine Learning Web App With Streamlit And Scikit-learn\nDataiku - Streamlit: your first webapp\nA Beginners Guide To Streamlit\n\n\n\n6.1.4 Tools",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Streamlit and Dash</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/streamlit_dash.html#dash",
+    "href": "resources/programming/streamlit_dash.html#dash",
+    "title": "6  Streamlit and Dash",
+    "section": "6.2 Dash",
+    "text": "6.2 Dash\n\n6.2.1 Basics\n\n\n\n\n\n6.2.2 Books\n\n\n\n\n\n6.2.3 Tutorials\n\nDataiku - Dash\n\n\n\n6.2.4 Tools",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Streamlit and Dash</span>"
     ]
   }
 ]

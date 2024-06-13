@@ -45,6 +45,7 @@ book:
         - resources/programming/quarto.qmd
         - resources/programming/git_hub_cl_sql_docker.qmd
         - resources/programming/shiny.qmd
+        - resources/programming/streamlit_dash.qmd
         - resources/programming/frontend_dev.qmd
     - part: resources/ds_ml_ai/ds_ml_ai_all.qmd
       chapters: 
