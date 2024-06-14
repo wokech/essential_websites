@@ -45,6 +45,7 @@ The Bioinformatics and Computational Biology page offers a curated collection of
 4) [Cell and Gene Datasets](https://cellxgene.cziscience.com/)
 5) [Recommended Awesome Lists for Bioconductor Community](https://blog.bioconductor.org/posts/2022-10-22-awesome-lists/)
 6) [Biostars](https://www.biostars.org/)
+7) [SEQanswers](https://www.seqanswers.com/)
 
 ## Bioinformatics News Stories
 
