@@ -62,6 +62,7 @@ book:
         - resources/data_viz/ds_viz_py.qmd
         - resources/data_viz/ds_viz_tableau.qmd
         - resources/data_viz/ds_viz_d3js.qmd
+        - resources/data_viz/ds_viz_spatial.qmd
         - resources/data_viz/ds_journalism.qmd
     - part: resources/gen_ai_llms/gen_ai_llms.qmd
       chapters: 

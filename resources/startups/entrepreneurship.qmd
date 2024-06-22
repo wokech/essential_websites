@@ -1,8 +1,0 @@
----
-title: "Entrepreneurship"
-toc: true
----
-
-## A curated collection of resources
-
-## 1. [Startups and Innovation](startup_innov.qmd)

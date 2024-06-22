@@ -967,7 +967,7 @@
     "href": "resources/biox/biox.html",
     "title": "Bio-X: All things Bio",
     "section": "",
-    "text": "On this page, I provide a curated collection of resources focused on all things related to biotechnology. The main topics that I focus on include open-source bio, biomechanics, and bioinformatics.\n\n1. Biomechanics and Sports Engineering\n\n\n2. Open-Source Bio\n\n\n3. Bioinformatics and Computational Biology",
+    "text": "On this page, I provide a curated collection of resources focused on all things related to biotechnology. The main topics that I focus on include open-source bio, biomechanics, and bioinformatics.\n\n1. Bioinformatics and Computational Biology\n\n\n2. Biomechanics and Sports Engineering\n\n\n3. Biotechnology and Healthcare Startups\n\n\n4. Open-Source Bio\n\n\n5. Biomedical Image Analysis and Microscopy",
     "crumbs": [
       "Bio-X: All things Bio"
     ]
@@ -975,12 +975,12 @@
   {
     "objectID": "resources/biox/bioinf.html",
     "href": "resources/biox/bioinf.html",
-    "title": "20  Bioinformatics and Computational Biology",
+    "title": "25  Bioinformatics and Computational Biology (Part 1)",
     "section": "",
-    "text": "20.1 Personal and Lab Websites",
+    "text": "25.1 Personal Blogs and Lab Websites",
     "crumbs": [
       "Bio-X: All things Bio",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Bioinformatics and Computational Biology</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Bioinformatics and Computational Biology (Part 1)</span>"
     ]
   },
   {
@@ -997,34 +997,34 @@
   {
     "objectID": "resources/biox/bioinf.html#bioinformatics-news-stories",
     "href": "resources/biox/bioinf.html#bioinformatics-news-stories",
-    "title": "20  Bioinformatics and Computational Biology",
-    "section": "20.2 Bioinformatics News Stories",
-    "text": "20.2 Bioinformatics News Stories\n\nGENOMES ARISING\nThe next chapter for African genomics",
+    "title": "25  Bioinformatics and Computational Biology (Part 1)",
+    "section": "25.3 Bioinformatics News Stories",
+    "text": "25.3 Bioinformatics News Stories\n\nGENOMES ARISING\nThe next chapter for African genomics",
     "crumbs": [
       "Bio-X: All things Bio",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Bioinformatics and Computational Biology</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Bioinformatics and Computational Biology (Part 1)</span>"
     ]
   },
   {
     "objectID": "resources/biox/bioinf.html#bioinformatics-basics",
     "href": "resources/biox/bioinf.html#bioinformatics-basics",
-    "title": "20  Bioinformatics and Computational Biology",
-    "section": "20.3 Bioinformatics Basics",
-    "text": "20.3 Bioinformatics Basics\n\n20.3.1 Courses and Lectures\n\nIntroduction to Genomics for Engineers\nIntroduction to Computational Biology\nSDS 348, Computational Biology and Bioinformatics 2019\nSDS 348, Computational Biology and Bioinformatics 2020\nBMI 702 | Biomedical Artificial Intelligence\nDIY Transcriptomics\nBIG Bioinformatics\nIntro to Biomedical Data Science\nIntroduction to Unix, Orchestra and RNA-Seq\nLinux command line exercises for NGS data processing\nIntroduction to Unix\nEngineering Biology Research Consortium\nGenomic Data Science Community Network\nLearn about Bioinformatics and Computational Tools for Biology\nIntroduction to R for Biologists\nGraphs and Networks for Biology using R\nHBC Training Program Basic Data Skills\n\n\n\n20.3.2 Books and Resources\n\nWelcome to a Little Book of R for Bioinformatics\nModern Statistics for Modern Biology\nLearning Bioinformatics At Home\nImportant numbers in Cell Biology\nThe Biologist’s Guide to Computing\nBioinformatics Starter Pack\nOrchestrating Single-Cell Analysis with Bioconductor\nSingle-cell best practices\nBiodatascience101\nIntroduction to biological circuit design\nBiological Architecture Reading Roadmap\nRNA-Seq Blog\n7 Books for you to learn bioinformatics\nBiomedical Data Science Book\nCRISPRpedia\nData Science for the Biomedical Sciences\nWhat is genomics?\nCOLAUTTI LAB Books and Resources\n20 YouTube Channels Every Bioinformatician Should Follow\nData Analysis for the Life Sciences (Free E-book)\nPractical Computing for Biologists\nBioinformatics Data Skills (2015)\nThe Supplementary Material Repository for Bioinformatics Data Skills\nFrom cell line to command line\nA Primer for Computational Biology\nComputational Genomics with R\nThe Biostar Handbook. A bioinformatics e-book for beginners\nCleva Lab Biology\nFolding@Home\nPython for biologists\nModeling Life\nFundamentals of computational biology\nLearn Bioinformatics in 100 hours\nCollection of bioinformatics training materials\nBioinformatics Workbook\nMy opinionated selection of books/urls for bioinformatics/data science curriculum\nStatistical Modeling of High Dimensional Counts\nGenomics Boot Camp\nDeep learning on computational biology and bioinformatics tutorial\n\n\n\n20.3.3 Tools\n\nR2 Genomics Analysis and Visualization Platform\nExploring Spatial Omics\nBD2K-LINCS DATA COORDINATION AND INTEGRATION CENTER\nThe Top 15 Machine Learning Data Science Bioinformatics Open Source Projects\nBiopython\ngget\nROSALIND\nFree and Open Source Tools for Bioinformatics and Molecular Biology\nPiGx: Pipelines in Genomics\nUSC Libraries Bioinformatics\nNCI Bioinformatics Training and Education Program\nHarvard Chan Bioinformatics Core\nGenomic Data Processing\nMachine Learning in Genomics Workshop",
+    "title": "25  Bioinformatics and Computational Biology (Part 1)",
+    "section": "25.4 Bioinformatics Basics",
+    "text": "25.4 Bioinformatics Basics\n\n25.4.1 Background Notes\n\nFundamentals of Bioinformatics\nRNA-Seq: The Cells Librarian\nSingle cell sequencing: what it is and why researchers in industry and academia want it\nWhat is Bioinformatics?\nBioinformatics Tutorials by Digital World Biology\nBioinformatics Education and Tutorials\n[]\n\n\n\n25.4.2 Courses and Lectures\n\nIntroduction to Genomics for Engineers\nIntroduction to Computational Biology\nSDS 348, Computational Biology and Bioinformatics 2019\nSDS 348, Computational Biology and Bioinformatics 2020\nBMI 702: Biomedical Artificial Intelligence\nDIY Transcriptomics\nBIG Bioinformatics\nIntro to Biomedical Data Science\nIntroduction to Unix, Orchestra and RNA-Seq\nLinux command line exercises for NGS data processing\nIntroduction to Unix\nEngineering Biology Research Consortium\nGenomic Data Science Community Network\nLearn about Bioinformatics and Computational Tools for Biology\nIntroduction to R for Biologists\nGraphs and Networks for Biology using R\nHBC Training Program Basic Data Skills\nCaltech BI/BE/CSS 183: Introduction to Computational Biology and Bioinformatics\nGenomic Data Visualization\nBILD62 (Intro to Python for Biologists)\nRaukR 2022: Advanced R for Bioinformatics\nRaukR 2023: Advanced R for Bioinformatics\nHTS2018 resources\nGSEAtraining\nBioinformatics for Beginners: RNA-Seq\nLINCS Workflow\nThe RNA-seqlopedia\nGreat Ideas in Computational Biology\nRNA-seq Bioinformatics Course\nGenomic Data Visualization and Interpretation\nPrecision Medicine Biology\nRNA-seq Bioinformatics Course: All Lectures\nInfectious Disease Genomic Epidemiology 2024\n\n\n\n25.4.3 Books and Resources\n\nWelcome to a Little Book of R for Bioinformatics\nModern Statistics for Modern Biology\nLearning Bioinformatics At Home\nImportant numbers in Cell Biology\nThe Biologist’s Guide to Computing\nBioinformatics Starter Pack\nOrchestrating Single-Cell Analysis with Bioconductor\nSingle-cell best practices\nBiodatascience101\nIntroduction to biological circuit design\nBiological Architecture Reading Roadmap\nRNA-Seq Blog\n7 Books for you to learn bioinformatics\nBiomedical Data Science Book\nBest Practices for Spatial Transcriptomics Analysis with Bioconductor\nData Science for the Biomedical Sciences\nWhat is genomics?\nCOLAUTTI LAB Books and Resources\n20 YouTube Channels Every Bioinformatician Should Follow\nData Analysis for the Life Sciences (Free E-book)\nPractical Computing for Biologists\nBioinformatics Data Skills (2015)\nThe Supplementary Material Repository for Bioinformatics Data Skills\nFrom cell line to command line\nA Primer for Computational Biology\nComputational Genomics with R\nThe Biostar Handbook. A bioinformatics e-book for beginners\nCleva Lab Biology\nFolding@Home\nPython for biologists\nModeling Life\nFundamentals of computational biology\nLearn Bioinformatics in 100 hours\nBioinformatics Training & Education Program\nBioinformatics Workbook\nMy opinionated selection of books/urls for bioinformatics/data science curriculum\nStatistical Modeling of High Dimensional Counts\nGenomics Boot Camp\nDeep learning on computational biology and bioinformatics tutorial\nILRI Bioinformatics Resources\nNIH Data Science Resources\nResources to become a computational biologist outside of academia\nPandora Bioinformatics Resources\nCRISPRpedia\nQUBES: Network for Integrating Bioinformatics into Life Sciences Education\nNext-Generation Sequencing Analysis Resources\nBiomedical Knowledge Mining using GOSemSim and clusterProfiler\nBiological Modeling\nBioconductor Books\n\n\n\n25.4.4 Tools and Pipelines\n\nR2 Genomics Analysis and Visualization Platform\nBeGenomics Tutorials\nBD2K-LINCS DATA COORDINATION AND INTEGRATION CENTER\nThe Top 15 Machine Learning Data Science Bioinformatics Open Source Projects\nBiopython\ngget\nROSALIND\nFree and Open Source Tools for Bioinformatics and Molecular Biology\nPiGx: Pipelines in Genomics\nUSC Libraries Bioinformatics\nNCI Bioinformatics Training and Education Program\nHarvard Chan Bioinformatics Core\nGenomic Data Processing\nMachine Learning in Genomics Workshop\nBioconductor\nUConn File Formats Tutorial\nThe Molecular Map of Exercise\nShinyGO\nScimap: scalable toolkit for analyzing spatial molecular data\nDocker Image of DIYTranscriptomics (password-protected)\nEnrichr\nBedtools\nSalmon\nkallisto\nGetting Started with Seurat",
     "crumbs": [
       "Bio-X: All things Bio",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Bioinformatics and Computational Biology</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Bioinformatics and Computational Biology (Part 1)</span>"
     ]
   },
   {
     "objectID": "resources/biox/bioinf.html#bioinformatics-tutorials-and-projects",
     "href": "resources/biox/bioinf.html#bioinformatics-tutorials-and-projects",
-    "title": "20  Bioinformatics and Computational Biology",
-    "section": "20.4 Bioinformatics Tutorials and Projects",
-    "text": "20.4 Bioinformatics Tutorials and Projects\n\n20.4.1 Tutorials\n\nOncology Bioinformatics project tutorial\nCentre of Bioinformatics Research and Technology (CBIRT)\nGalaxy Training\nChildhood Cancer Data Lab Workshop Materials\nChildhood Cancer Data Lab Research Resources\nCrash Courses in Bioinformatics\nData Carpentry for Biologists\nIllustrating Python via Examples from Bioinformatics\nIllustrating Python via Bioinformatics Examples\nEVOLUTION AND GENOMICS\nBioinformatics Introduction\nGriffith Lab Tutorials and Courses\nPCA in action\nA Primer on Deep Learning in Genomics\nBioinformatics Tutorials\nFree online training in bioinformatics and biostatistics\nBioinformatics Midterm Project\nIntroduction to bioinformatics\nExplore the world of Bioinformatics with Machine Learning\n\n\n20.4.1.1 Tidyverse and R\n\nBioinformatics in the Tidyverse\nAn Introduction to R through the tidyverse + Bioinformatics\nR for Biology Data Science\nIntro to R and RStudio for Genomics\nThe Bioconductor 2018 Workshop Compilation\nBioconductor Workshop 1 Jupyter Notebooks\nMicroArray Project\n\n\n\n20.4.1.2 BioPython\n\nFirst Steps in Biopython\nWhat is BioPython\nGetting Started with Biopython\nBiopython Tutorial\nPractical Computing for Biologists\nBiopython Tutorial and Cookbook\n\n\n\n\n20.4.2 Projects\n\nAnalysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa\nAnalysing the HIV pandemic, Part 2: Drug resistance testing\nAnalysing the HIV pandemic, Part 3: Genetic diversity\nAnalysing the HIV pandemic, Part 4: Classification of lab samples\nMachine learning for biology part one\nMachine learning for biology part two\nMachine learning for biology part three\nMachine learning for biology part four",
+    "title": "25  Bioinformatics and Computational Biology (Part 1)",
+    "section": "25.5 Bioinformatics Tutorials and Projects",
+    "text": "25.5 Bioinformatics Tutorials and Projects\n\n25.5.1 Tutorials\n\nOncology Bioinformatics project tutorial\nCentre of Bioinformatics Research and Technology (CBIRT)\nCrash Courses in Bioinformatics\nData Carpentry for Biologists\nIllustrating Python via Examples from Bioinformatics\nIllustrating Python via Bioinformatics Examples\nEVOLUTION AND GENOMICS\nBioinformatics Introduction\nGriffith Lab Tutorials and Courses\nPCA in action\nA Primer on Deep Learning in Genomics\nBioinformatics Tutorials\nFree online training in bioinformatics and biostatistics\nBioinformatics Midterm Project\nIntroduction to bioinformatics\nExplore the world of Bioinformatics with Machine Learning\nBioinformatics for Dummies: A Beginner’s Quick Guide\nInteractive Bioinformatics Tutorials\nMing Tang Comp Bio Tutorials\nBioinformatics Documentation from Melbourne\nBioinformatics Introduction\nData Carpentry - Genomics Workshop\nOpen source bioinformatics tutorials\nIntroduction to Network Analysis in Systems Biology\n\n\n\n25.5.2 Tips and Troubleshooting\n\nHow I transitioned from biologist to biology-leveraged bioinformatician\nfastq-dump command not found\n\n\n\n25.5.3 Program-specific tutorials\n\n25.5.3.1 Tidyverse and R in Bioinformatics\n\nBioinformatics in the Tidyverse\nAn Introduction to R through the tidyverse + Bioinformatics\nR for Biology Data Science\nIntro to R and RStudio for Genomics\nThe Bioconductor 2018 Workshop Compilation\nBioconductor Workshop 1 Jupyter Notebooks\nMicroArray Project\nAn Introduction to R through the tidyverse\n\n\n\n25.5.3.2 Python\n\nFirst Steps in Biopython\nWhat is BioPython\nGetting Started with Biopython\nBiopython Tutorial\nPractical Computing for Biologists\nBiopython Tutorial and Cookbook\nSingle Cell Transcriptomics with Python\nStellenbosch: Introduction to Python for Bioinformatics\n\n\n\n25.5.3.3 Linux, Command Line, and Git\n\nIntroduction to Linux for bioinformatics\nBioinformatics one-liners\nUnix & Perl Primer for Biologists\nHappy Belly Bioinformatics - Unix home\nBioinformatics Tutorials: The command-line\nBash basics\nGit basics\nIntroduction to the Unix Shell for Bioinformatics\nIntroduction to Unix\nEntrez Direct: E-utilities on the Unix Command Line\n\n\n\n25.5.3.4 Galaxy\n\nGalaxy\nGalaxy Machine Learning Community\nReference-based RNA-Seq data analysis\nGalaxy Training\n\n\n\n25.5.3.5 Workflows\n\nSeqera\nNextFlow\nScript of Scripts (SoS)\nAn Introduction to Snakemake for Bioinformatics\nbioBakery Workflows\nThe Snakemake Tutorial I Wish I Had\nOn Bioinformatics Workflow Design\nConda Setup\n\n\n\n\n25.5.4 Cancer Genomics\n\nOpen Pediatric Brain Tumor Atlas\nOpenPBTA Paper\nBig Data Training for Cancer Research\nGenomic Data Commons\nChildhood Cancer Data Lab Workshop Materials\nChildhood Cancer Data Lab Research Resources\nIntroduction to R for Cancer Scientists\nSt. Jude Cloud Genomics Platform\nCancer Research Resources\ncBioPortal Google Summer of Code (GSoC)\nA deep profile of gene expression across 18 human cancers\nTumor Classification PCA\nGene Expression Analysis in R workshop 2022\n\n\n\n25.5.5 Bulk Omics\n\nconquer (consistent quantification of external RNA-seq data sets)\nRNA-seq Bioinformatics Resources\nRNA Seq analysis tutorial\nThinking about Designing RNA Seq Experiments to Measure Differential Gene Expression: The Basics\nRNA-Seq Blog\nImporting transcript abundance with tximport\nDifferential analyses for RNA-seq: transcript-level estimates improve gene-level inferences\nRNA-seq workflow: gene-level exploratory analysis and differential expression\n\n\n\n25.5.6 Single Cell Omics\n\nscRNA seq pipeline with one file\nSingle-cell sequencing analysis: the importance of data integration\nRun CyTOF analysis with Seurat\nMapping and annotating query datasets\nHow Difficult Is It To Start Your Single-cell Analysis As A Beginner\nSeurat - Guided Clustering Tutorial\nScanpy tutorials\nSingle cell studies database\nUsing SingleR to annotate single-cell RNA-seq data\nSeurat Command List\n\n\n\n25.5.7 Spatial Omics\n\nAn open and universal framework for processing spatial omics data\nExploring Spatial Omics\nAnalysis and visualization of spatial transcriptomics data\nAnalysis, visualization, and integration of spatial datasets with Seurat\nSpatial omics takes off\nTwo platforms, one powerful spatial biology toolkit\n\n\n\n25.5.8 Projects\n\nAnalysing the HIV pandemic, Part 1: HIV in sub-Sahara Africa\nAnalysing the HIV pandemic, Part 2: Drug resistance testing\nAnalysing the HIV pandemic, Part 3: Genetic diversity\nAnalysing the HIV pandemic, Part 4: Classification of lab samples\nMachine learning for biology part one\nMachine learning for biology part two\nMachine learning for biology part three\nMachine learning for biology part four\n\n\n\n25.5.9 Crowdsourcing Bioinformatics\n\nBioinformatics Research Network\nBioinformatics Research Network Skill Assessments\nHuang Lab: Precision Omics\nStimulating Innovation in Breast Cancer Genetic Epidemiology\nBD2K-LINCS Data Coordination and Integration Center: Crowdsourcing Portal\nDREAM Challenges\nFigure One Lab\nCoding Exercise: TCGA",
     "crumbs": [
       "Bio-X: All things Bio",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Bioinformatics and Computational Biology</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Bioinformatics and Computational Biology (Part 1)</span>"
     ]
   },
   {
@@ -1337,7 +1337,7 @@
     "href": "resources/programming/git_hub_cl_sql_docker.html#git",
     "title": "4  Git, GitHub, Command Line,SQL, and Docker",
     "section": "",
-    "text": "4.1.1 Basics and Summaries\n\nGit Basics\nGit Cheatsheet\nGit/GitHub Cheatsheet\nA Visual Git Reference\nVisualizing Git Concepts with D3\nGit Immersion\nLearn Git Branching\nIntroduction to Git & Github\nHow to Use Git/GitHub with R\ngit ready\nAn Intro to Git and GitHub for Beginners\n\n\n\n4.1.2 Books\n\nPro Git Book\nHappy Git and GitHub for the user\n\n\n\n4.1.3 Tutorials and Courses\n\nUnderstanding Git Conceptually\nBecome a git guru\nGit and RStudio\nGood Enough Practices in Scientific Computing\nVersion Control (Git)\nEffective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data\n\n\n\n4.1.4 Git Troubleshooting\n\nOn undoing, fixing, or removing commits in git\nFixing Common Git Mistakes",
+    "text": "4.1.1 Basics and Summaries\n\nGit Basics\nGit Cheatsheet\nGit/GitHub Cheatsheet\nA Visual Git Reference\nVisualizing Git Concepts with D3\nGit Immersion\nLearn Git Branching\nIntroduction to Git & Github\nHow to Use Git/GitHub with R\ngit ready\nAn Intro to Git and GitHub for Beginners\nThe guide to Git I never had\n\n\n\n4.1.2 Books\n\nPro Git Book\nHappy Git and GitHub for the user\n\n\n\n4.1.3 Tutorials and Courses\n\nUnderstanding Git Conceptually\nBecome a git guru\nGit and RStudio\nGood Enough Practices in Scientific Computing\nVersion Control (Git)\nEffective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data\n\n\n\n4.1.4 Git Troubleshooting\n\nOn undoing, fixing, or removing commits in git\nFixing Common Git Mistakes",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
@@ -1359,7 +1359,7 @@
     "href": "resources/programming/git_hub_cl_sql_docker.html#command-line-bash-unix-and-linux",
     "title": "4  Git, GitHub, Command Line,SQL, and Docker",
     "section": "4.3 Command Line (Bash, UNIX, and Linux)",
-    "text": "4.3 Command Line (Bash, UNIX, and Linux)\n\n4.3.1 Books\n\nCommand Line Basics for R Users\nData Science at the Command Line\n\n\n\n4.3.2 Lectures and Tutorials\n\nIntro to UNIX\nThe Unix Shell 1\nThe Unix Shell 2\n7 Command-Line Tools for Data Science",
+    "text": "4.3 Command Line (Bash, UNIX, and Linux)\n\n4.3.1 Books\n\nCommand Line Basics for R Users\nData Science at the Command Line\n\n\n\n4.3.2 Lectures and Tutorials\n\nIntro to UNIX\nThe Unix Shell 1\nThe Unix Shell 2\n7 Command-Line Tools for Data Science\nRegular expressions\nUseful Unix commands for data science\nLinux Beginner’s Shell Cheat page\nThe practical command line cheat sheet\nA Beginner’s Guide to the Linux Command Line\nThe Linux command line for beginners )\nBash Scripting Tutorial\nLinux Tutorial\nRegular Expressions Tutorial\n\n\n\n4.3.3 Tools\n\ncsvlens",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
@@ -1480,7 +1480,7 @@
     "href": "resources/programming/git_hub_cl_sql_docker.html#github-and-gitlab",
     "title": "4  Git, GitHub, Command Line,SQL, and Docker",
     "section": "4.2 GitHub and GitLab",
-    "text": "4.2 GitHub and GitLab\n\n4.2.1 Basics\n\nGetting started with Git and GitHub: the complete beginner’s guide\nAn Intro to Git and GitHub for Beginners (Tutorial)\nGet started with Git and GitHub\nMastering GitHub in 4 Steps\nGitHub for supporting, reusing, contributing, and failing safely\n\n\n\n4.2.2 Training and Tutorials\n\nIntroducing GitHub Global Campus\nCollaboration, version control and learning to commit\nMaking Your First GitHub R Project\nLearn GitLab with tutorials\n\n\n\n4.2.3 Applications\n\nIntroduction to GitHub Actions to R users\nHow to effortlessly create a website for free with GitHub Pages\nIntroducing Jekyll Now for GitHub-hosted blogs\nSoftware development practices",
+    "text": "4.2 GitHub and GitLab\n\n4.2.1 Basics\n\nGetting started with Git and GitHub: the complete beginner’s guide\nAn Intro to Git and GitHub for Beginners (Tutorial)\nGet started with Git and GitHub\nMastering GitHub in 4 Steps\nGitHub for supporting, reusing, contributing, and failing safely\n\n\n\n\n4.2.2 Training and Tutorials\n\nIntroducing GitHub Global Campus\nCollaboration, version control and learning to commit\nMaking Your First GitHub R Project\nLearn GitLab with tutorials\n\n\n\n4.2.3 Applications\n\nIntroduction to GitHub Actions to R users\nHow to effortlessly create a website for free with GitHub Pages\nIntroducing Jekyll Now for GitHub-hosted blogs\nSoftware development practices",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
@@ -1703,6 +1703,72 @@
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Streamlit and Dash</span>"
+    ]
+  },
+  {
+    "objectID": "resources/data_viz/ds_viz_spatial.html",
+    "href": "resources/data_viz/ds_viz_spatial.html",
+    "title": "19  Data Visualization (Spatial)",
+    "section": "",
+    "text": "19.1 Data Visualization (Spatial Data Tools)",
+    "crumbs": [
+      "Data Visualization and Storytelling",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Data Visualization (Spatial)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/data_viz/ds_viz_spatial.html#data-visualization-spatial-data-tools",
+    "href": "resources/data_viz/ds_viz_spatial.html#data-visualization-spatial-data-tools",
+    "title": "19  Data Visualization (Spatial)",
+    "section": "",
+    "text": "GADM\ngeoBoundaries\nNatural Earth\nIPUMS GIS\nGeoData\nHDX",
+    "crumbs": [
+      "Data Visualization and Storytelling",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Data Visualization (Spatial)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/data_viz/ds_viz_spatial.html#books",
+    "href": "resources/data_viz/ds_viz_spatial.html#books",
+    "title": "19  Data Visualization (Spatial)",
+    "section": "19.2 Books",
+    "text": "19.2 Books\n\nGeocomputation with R/Python",
+    "crumbs": [
+      "Data Visualization and Storytelling",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Data Visualization (Spatial)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/data_viz/ds_viz_spatial.html#tutorials",
+    "href": "resources/data_viz/ds_viz_spatial.html#tutorials",
+    "title": "19  Data Visualization (Spatial)",
+    "section": "19.3 Tutorials",
+    "text": "19.3 Tutorials\n\nSpatio-Temporal Data Visualization\nHow to build an animated map of tweets about the NBA finals in R\nFinding the most unique land cover spatial pattern\nMap Africa using OSM data in R\n3D maps with sf and ggplot2 in R\nAnimated map and lineplot with R",
+    "crumbs": [
+      "Data Visualization and Storytelling",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Data Visualization (Spatial)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/biox/bioinf.html#personal-blogs-and-lab-websites",
+    "href": "resources/biox/bioinf.html#personal-blogs-and-lab-websites",
+    "title": "25  Bioinformatics and Computational Biology (Part 1)",
+    "section": "",
+    "text": "25.1.1 Blogs\n\nJT Leek\nKarolis Koncevičius\nEytan Ruppin\nLior Pachter\nJean Fan\nPhilip Compeau\nKarl Broman\nMing Tang\nJames Zou\nTyler Burns\nJeffrey Grover\nSung Rye Park\n\n\n\n25.1.2 Lab Websites\n\nKrishnaswamy Lab\nLiu Lab\nCosta Lab\nZHOU LAB\nChildhood Cancer Data Lab\nMa’ayan Lab\nTy Miller Lab\nGriffith Lab Teaching\n\n\n\n25.1.3 Bioinformatics Consulting Companies\n\nIndependent Data Lab",
+    "crumbs": [
+      "Bio-X: All things Bio",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Bioinformatics and Computational Biology (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/biox/bioinf.html#curated-list-of-resources-and-datasets",
+    "href": "resources/biox/bioinf.html#curated-list-of-resources-and-datasets",
+    "title": "25  Bioinformatics and Computational Biology (Part 1)",
+    "section": "25.2 Curated list of resources and Datasets",
+    "text": "25.2 Curated list of resources and Datasets\n\nGlittr: curated list of bioinformatics training material\nCollection of bioinformatics training materials\nGenomics and Bioinformatics Resources\nCell and Gene Datasets\nRecommended Awesome Lists for Bioconductor Community\nBiostars\nSEQanswers",
+    "crumbs": [
+      "Bio-X: All things Bio",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Bioinformatics and Computational Biology (Part 1)</span>"
     ]
   }
 ]
