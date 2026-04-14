@@ -50,7 +50,6 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 3)  [Get started with Git and GitHub](https://aosmith16.github.io/spring-r-topics/slides/week01_introduction_git_and_github.html#1)
 4)  [Mastering GitHub in 4 Steps](https://frontenddoctor.hashnode.dev/mastering-github-in-4-steps)
 5)  [GitHub for supporting, reusing, contributing, and failing safely](https://www.openscapes.org/blog/2022/05/27/github-illustrated-series/)
-6)  
 
 ### Training and Tutorials
 
@@ -84,8 +83,8 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 7)  [Linux Beginner's Shell Cheat page](https://wiki.bits.vib.be/index.php/Linux_Beginner%27s_Shell_Cheat_page)
 8)  [The practical command line cheat sheet](https://wiki.bits.vib.be/index.php/The_practical_command_line_cheat_sheet)
 9)  [A Beginner's Guide to the Linux Command Line](https://www.techspot.com/guides/835-linux-command-line-basics/)
-10) [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) ) 
-11) [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) 
+10) [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) )
+11) [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 12) [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
 13) [Regular Expressions Tutorial](https://ryanstutorials.net/regular-expressions-tutorial/)
 
@@ -116,4 +115,3 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 ### Tutorials
 
 1)  [Carpentries: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/)
-2)  [ ]()
