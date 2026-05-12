@@ -28,6 +28,8 @@ This page provides a comprehensive collection of Shiny resources. On this page, 
 3)  [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/)
 4)  [Building Interactive World Maps in Shiny](https://rviews.rstudio.com/2019/10/09/building-interactive-world-maps-in-shiny/)
 5)  [A webR powered Shiny app](https://nrennie.rbind.io/blog/webr-shiny-tidytuesday/)
+6)  [From lab to real life: How your Shiny application can survive its users
+](https://rtask.thinkr.fr/from-lab-to-real-life-how-your-shiny-application-can-survive-its-users/)
 
 ### Tools
 
@@ -36,7 +38,10 @@ This page provides a comprehensive collection of Shiny resources. On this page, 
 3)  [RinteRface: HTML templates for Shiny](https://rinterface.com/)
 4)  [Loading screens for Shiny: waiter](https://waiter.john-coene.com/#/)
 5)  [shinyscholar](https://simon-smart88.github.io/shinyscholar/)
+6)  [Getting started with shinytest2](https://rstudio.github.io/shinytest2/articles/shinytest2.html)
+7)  [Shiny Assistant](https://gallery.shinyapps.io/assistant/)
+8)  [ShinyUiEditor](https://rstudio.github.io/shinyuieditor/)
 
 ### Examples
 
-1) [Shiny in Life Sciences](https://pub.demo.posit.team/public/Life_Sciences_Shiny_Showcase/)
+1)  [Shiny in Life Sciences](https://pub.demo.posit.team/public/Life_Sciences_Shiny_Showcase/)

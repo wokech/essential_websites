@@ -1,5 +1,5 @@
 ---
-title: "Front-End Development"
+title: "Front-End Website Development"
 toc: true
 ---
 
@@ -9,11 +9,14 @@ This page contains a list of resources focused on front-end development.
 
 ### HTML
 
-1) [Learn HTML and CSS](https://v2.scrimba.com/learn-html-and-css-c0p)
+1)  [Learn HTML and CSS](https://v2.scrimba.com/learn-html-and-css-c0p)
+2)  [HTML-only websites](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
+3)  [HTML is for people](https://htmlforpeople.com/#html-is-for-people)
 
 ### CSS
 
-1) [Learn HTML and CSS](https://v2.scrimba.com/learn-html-and-css-c0p)
+1)  [Learn HTML and CSS](https://v2.scrimba.com/learn-html-and-css-c0p)
+2)  [Charts.css](https://chartscss.org/charts/)
 
 ### Javascript
 
@@ -35,3 +38,8 @@ This page contains a list of resources focused on front-end development.
 ## Good Website Examples
 
 1)  [KOST](https://www.kostgroup.co/)
+
+## Deployment
+
+1) [A Step-by-Step Guide: Deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+2) [Hosting your website on Github](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)

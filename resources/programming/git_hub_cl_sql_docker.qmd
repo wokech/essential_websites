@@ -1,5 +1,5 @@
 ---
-title: "Git, GitHub, Command Line,SQL, and Docker"
+title: "Git, GitHub, Command Line, SQL, and Docker"
 toc: true
 ---
 
@@ -21,6 +21,14 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 10) [git ready](https://gitready.com/)
 11) [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 12) [The guide to Git I never had](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
+13) [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+14) [Oh My Git!](https://ohmygit.org/)
+15) [Learn Git Branching](https://learngitbranching.js.org/)
+16) [Oh Sh\*\*, Git!?!](https://ohshitgit.com/)
+17) [Git Cheat Sheet](https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn)
+18) [Vaccinate your global gitignore file](https://usethis.r-lib.org/reference/git_vaccinate.html)
+19) [The guide to Git I never had.](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)
+20) [Learning Git and GitHub](https://hutchdatascience.org/intro_git/)
 
 ### Books
 
@@ -94,9 +102,10 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 
 ## SQL
 
-### Collection of SQL Resources
+### SQL Resources
 
 1)  [21 of the best free resources to learn SQL](https://code-love.com/2018/09/01/21-learn-sql/)
+2)  [Select Star SQL](https://selectstarsql.com/)
 
 ### Tutorials
 
@@ -109,9 +118,11 @@ This page provides a comprehensive collection of resources focused on Git, GitHu
 7)  [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 8)  [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 9)  [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+10) [SQLNoir](https://www.sqlnoir.com/)
 
 ## Docker
 
 ### Tutorials
 
 1)  [Carpentries: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/)
+2)  [The Ultimate Beginner’s Guide to Docker](https://machinelearningmastery.com/the-ultimate-beginners-guide-to-docker/)

@@ -53,7 +53,7 @@ book:
         - resources/ds_ml_ai/statistics.qmd
         - resources/ds_ml_ai/datasets.qmd
         - resources/ds_ml_ai/ds_sports.qmd
-        - resources/ds_ml_ai/soc_med_music_analysis.qmd
+        - resources/ds_ml_ai/text_music_analysis.qmd
         - resources/ds_ml_ai/ds_interview.qmd
     - part: resources/data_viz/ds_viz.qmd
       chapters: 

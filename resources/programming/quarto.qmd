@@ -11,6 +11,10 @@ The Quarto page contains a list of resources that are focused on the relatively 
 
 1)  [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 
+### Quarto Website Development
+
+1)  [Website Tutorial using R, Quarto and Gitlab Pages](https://crsuzh.pages.uzh.ch/AFFORD_website/tutorials/Tutorial_Web.html)
+
 ### Beginner's Guide
 
 1)  [Quarto](https://quarto.org/)
@@ -26,6 +30,14 @@ The Quarto page contains a list of resources that are focused on the relatively 
 11) [Example report in Quarto using Penguin Dataset](https://holtzy.github.io/productive-r-workflow/R/analysis.html)
 12) [Introduction to reproducible reporting with Quarto](https://nrennie.rbind.io/talks/rladies-edinburgh-quarto/)
 13) [Making Quarto Books](https://www.brodrigues.co/blog/2023-03-03-quarto_books/)
+14) [Quarto Gallery](https://quarto.org/docs/gallery/)
+15) [Announcing quarto-timeline](https://emilhvitfeldt.com/post/quarto-timeline/)
+16) [Creating a Pinterest-style image gallery with Quarto](https://www.cynthiahqy.com/posts/masonry-gallery/)
+17) [Switching my website from Hugo to Quarto](https://nrennie.rbind.io/blog/hugo-quarto-website/)
+18) [A step-by-step guide to parameterized reporting in R using Quarto](https://rfortherestofus.com/2024/06/parameterized-reporting-quarto)
+19) [embedpdf Example](https://jmgirard.github.io/embedpdf/example.html)
+20) [Branded Quarto](https://emilhvitfeldt.com/talk/2024-06-05-branded-quarto/)
+21) [From Notebooks to Dashboards with Quarto](https://posit-dev.github.io/smalldatasf-quarto-workshop/)
 
 ### R Markdown and Distill
 
