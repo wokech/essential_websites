@@ -172,7 +172,7 @@
     "href": "resources/programming/quarto.html",
     "title": "3  Quarto",
     "section": "",
-    "text": "3.1 Introduction and Tutorials",
+    "text": "3.1 Introduction and Tutorials\nThe Quarto page contains a list of resources that are focused on the relatively new Quarto software. It includes various beginner guides to help one get started on their Quarto journey. Additionally, I provide links to resources for other tools such as RMarkdown and Distill.",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Quarto</span>"
@@ -183,7 +183,7 @@
     "href": "resources/programming/quarto.html#introduction-and-tutorials",
     "title": "3  Quarto",
     "section": "",
-    "text": "3.1.1 Curated collection of Quarto Resources\n\nAwesome Quarto\n\n\n\n3.1.2 Beginner’s Guide\n\nQuarto\nTutorial: Hello, Quarto\nWhat is Quarto? RStudio rolls out next-generation R Markdown\nWe don’t talk about Quarto\nBuild a simple website with R and Quarto in under 10 minutes\nGetting Started with Quarto\nThe ultimate guide to starting a Quarto blog\nCreating a blog with Quarto in 10 steps\nMaking Slides in Quarto with reveal.js\nQuarto dashboards\nExample report in Quarto using Penguin Dataset\nIntroduction to reproducible reporting with Quarto\nMaking Quarto Books\n\n\n\n3.1.3 R Markdown and Distill\n\nThe Distillery\nR Markdown for Web Pages\nPorting a distill blog to quarto\nRMarkdown",
+    "text": "3.1.1 Curated collection of Quarto Resources\n\nAwesome Quarto\n\n\n\n3.1.2 Quarto Website Development\n\nWebsite Tutorial using R, Quarto and Gitlab Pages\n\n\n\n3.1.3 Beginner’s Guide\n\nQuarto\nTutorial: Hello, Quarto\nWhat is Quarto? RStudio rolls out next-generation R Markdown\nWe don’t talk about Quarto\nBuild a simple website with R and Quarto in under 10 minutes\nGetting Started with Quarto\nThe ultimate guide to starting a Quarto blog\nCreating a blog with Quarto in 10 steps\nMaking Slides in Quarto with reveal.js\nQuarto dashboards\nExample report in Quarto using Penguin Dataset\nIntroduction to reproducible reporting with Quarto\nMaking Quarto Books\nQuarto Gallery\nAnnouncing quarto-timeline\nCreating a Pinterest-style image gallery with Quarto\nSwitching my website from Hugo to Quarto\nA step-by-step guide to parameterized reporting in R using Quarto\nembedpdf Example\nBranded Quarto\nFrom Notebooks to Dashboards with Quarto\n\n\n\n3.1.4 R Markdown and Distill\n\nThe Distillery\nR Markdown for Web Pages\nPorting a distill blog to quarto\nRMarkdown",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Quarto</span>"
@@ -781,34 +781,34 @@
   {
     "objectID": "resources/data_viz/ds_journalism.html",
     "href": "resources/data_viz/ds_journalism.html",
-    "title": "18  Data Journalism Tools and Stories",
+    "title": "20  Data Journalism Tools and Stories",
     "section": "",
-    "text": "18.1 Data Journalism",
+    "text": "20.1 Data Journalism\nThis page provides a comprehensive collection of resources focused on data journalism tools and resources. On this page, you will find a list of personal websites and blogs that do some great work in data journalism. Additionally, there is a list of good examples of data stories to emulate.",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Data Journalism Tools and Stories</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Data Journalism Tools and Stories</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_journalism.html#data-journalism",
     "href": "resources/data_viz/ds_journalism.html#data-journalism",
-    "title": "18  Data Journalism Tools and Stories",
+    "title": "20  Data Journalism Tools and Stories",
     "section": "",
-    "text": "18.1.1 Blogs and Websites\nA listing of data journalism practitioners and companies to follow:\n\nSeth Stephens-Davidowitz\nQuant Editing\nAmber Thomas\nData Journalism and Viz Accounts\nFlowing Data Website\n\n\n\n18.1.2 Books\n\nTelling Stories with Data: With Applications in R and Python\nNarrative and Numbers\n\n\n\n18.1.3 Guides\n\nSharon Machlis: NICAR data journalism\nA Beginner’s Guide to Data Journalism: Let’s Build a Story From Scratch\nQuick Guide to Data Journalism\nData journalism: a guide for editors\nDeveloping Data Journalists in the Developing World\nThe Inverted Pyramid of Data Journalism\nGitHub Data Journalism\n\n\n\n18.1.4 Dealing with math and stats in journalism\n\nMath in Journalism\nNumber soup\nPercent change versus percentage-point change\nWhen journalists should care about p-values\n5 common research designs: A quick primer for journalists\n10 simple data errors that can ruin an investigation\nWhat’s standard deviation? 4 things journalists need to know\n5 things journalists need to know about statistical significance\nSpotting Shady Statistics\n\n\n\n18.1.5 Writing\n\nInterrogating Data: A Science Writer’s Guide to Data Journalism\nDueling Data\nHow data journalists create beautiful feature stories\nA data journalist’s guide to building a hypothesis\nFlowing Data Story Formats\nTelling Stories With Data: A Simple Math Guide\nData Biographies: Getting to Know Your Data\nPutting data back into context\nHow to Tell Science Stories with Maps\nHow to Ace a 300-Word Story\nHow to Research and Write Skillfully on Something You Know Nothing About\n9 Tips for Investigative Journalists to Improve Their Writing\nLay summaries needed to enhance science communication\nThe Art of the Essay\nOrganizing your research: A scientist’s tips for journalists\nWhere to begin? My guide to pitching a data story\nHow to edit your own writing\n\n\n\n18.1.6 Tools\n\nData Journalism Tools\nData Journalism and Visualization with Free Tools\nStorytelling Tools\nStoryBench: The future of machine learning in journalism\nHow ProPublica Analyzed Pardon Data\n\n\n\n18.1.7 Tutorials\n\nMapping search data from Google Trends in R\nUsing R to Analyze Fargo Crime Data\n\n\n\n18.1.8 Organizations\n\nGlobal Investigative Journalism Network Data Journalism\nProPublica Data Institute 2018\nProPublica Data Institute 2019\nGoogle News Initiative\nKnight Foundation: Misinformation\nThe Bureau of Investigative Journalism\nFake News Public Data Lab\nAP DataKit\nData Journalism Grants\nA community conference for data makers everywhere\nLapis\nKontinentalist",
+    "text": "20.1.1 Blogs and Websites\nA listing of data journalism practitioners and companies to follow:\n\nSeth Stephens-Davidowitz\nQuant Editing\nAmber Thomas\nData Journalism and Viz Accounts\nFlowing Data Website\n\n\n\n20.1.2 Books\n\nTelling Stories with Data: With Applications in R and Python\nNarrative and Numbers\n\n\n\n20.1.3 Guides\n\nSharon Machlis: NICAR data journalism\nA Beginner’s Guide to Data Journalism: Let’s Build a Story From Scratch\nQuick Guide to Data Journalism\nData journalism: a guide for editors\nDeveloping Data Journalists in the Developing World\nThe Inverted Pyramid of Data Journalism\nGitHub Data Journalism\n\n\n\n20.1.4 Dealing with math and stats in journalism\n\nMath in Journalism\nNumber soup\nPercent change versus percentage-point change\nWhen journalists should care about p-values\n5 common research designs: A quick primer for journalists\n10 simple data errors that can ruin an investigation\nWhat’s standard deviation? 4 things journalists need to know\n5 things journalists need to know about statistical significance\nSpotting Shady Statistics\n\n\n\n20.1.5 Writing\n\nInterrogating Data: A Science Writer’s Guide to Data Journalism\nDueling Data\nHow data journalists create beautiful feature stories\nA data journalist’s guide to building a hypothesis\nFlowing Data Story Formats\nTelling Stories With Data: A Simple Math Guide\nData Biographies: Getting to Know Your Data\nPutting data back into context\nHow to Tell Science Stories with Maps\nHow to Ace a 300-Word Story\nHow to Research and Write Skillfully on Something You Know Nothing About\n9 Tips for Investigative Journalists to Improve Their Writing\nLay summaries needed to enhance science communication\nThe Art of the Essay\nOrganizing your research: A scientist’s tips for journalists\nWhere to begin? My guide to pitching a data story\nHow to edit your own writing\n\n\n\n20.1.6 Tools\n\nData Journalism Tools\nData Journalism and Visualization with Free Tools\nStorytelling Tools\nStoryBench: The future of machine learning in journalism\nHow ProPublica Analyzed Pardon Data\n\n\n\n20.1.7 Tutorials\n\nMapping search data from Google Trends in R\nUsing R to Analyze Fargo Crime Data\n\n\n\n20.1.8 Organizations\n\nGlobal Investigative Journalism Network Data Journalism\nProPublica Data Institute 2018\nProPublica Data Institute 2019\nGoogle News Initiative\nKnight Foundation: Misinformation\nThe Bureau of Investigative Journalism\nFake News Public Data Lab\nAP DataKit\nData Journalism Grants\nA community conference for data makers everywhere\nLapis\nKontinentalist",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Data Journalism Tools and Stories</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Data Journalism Tools and Stories</span>"
     ]
   },
   {
     "objectID": "resources/data_viz/ds_journalism.html#data-stories-longform-and-in-depth-articles",
     "href": "resources/data_viz/ds_journalism.html#data-stories-longform-and-in-depth-articles",
-    "title": "18  Data Journalism Tools and Stories",
-    "section": "18.2 Data Stories (Longform and In-depth articles)",
-    "text": "18.2 Data Stories (Longform and In-depth articles)\n\n18.2.1 Story aggregators\n\nGlobal Investigative Journalism Network Top 10\nMedia Hack Collective\n12 brilliant data journalism projects of 2021\nData Journalism: Some Favorite Examples\nExamples of Award-winning Data Journalism\n12 Best Data Journalism Examples:Storytelling with data\n10 data journalism projects that made an impact in 2020: our ultimate COVID-19 roundup\n\n\n\n18.2.2 Top Data Story Examples\n\n10 years. 180 school shootings. 356 victims.\nBlind Drunk\nUber Game\nWhat Africa will look like in 100 years\nONE NATION, TRACKED\nLife in the camps\nLife in Hong Kong’s shoebox housing\nThe Facebook Scandal\nNSA Files Decoded\nThe Deadliest Jobs in America\nCongressional Tweets\nThe Kim Foxx Effect\nWhat makes a titletown?\nHigh street crisis deepens\nThe use of political ads on facebook in the run-up to the European Parliament elections 2019 in Austria\nWhat the Democratic Presidential Candidates Care About, in 44,000 Tweets\nHow many high school stars make it in the NBA?\nBussed out\nInside the miracle of modern chip manufacturing\nMoney and Power: The Wealth of America’s Elected Officials\nHow online donations are fueling the election\nThe Making of Angela Merkel\nThe Millions Who Left\nWhy are things expensive?\nGetting a good job\nBuild a Voter\nThe real cost of seafood\nHow does rice get to your plate?\nJakarta’s roadside food sellers\nExploring the lungs of Asia\nThe Protein Problem",
+    "title": "20  Data Journalism Tools and Stories",
+    "section": "20.2 Data Stories (Longform and In-depth articles)",
+    "text": "20.2 Data Stories (Longform and In-depth articles)\n\n20.2.1 Story aggregators\n\nGlobal Investigative Journalism Network Top 10\nMedia Hack Collective\n12 brilliant data journalism projects of 2021\nData Journalism: Some Favorite Examples\nExamples of Award-winning Data Journalism\n12 Best Data Journalism Examples:Storytelling with data\n10 data journalism projects that made an impact in 2020: our ultimate COVID-19 roundup\n\n\n\n20.2.2 Top Data Story Examples\n\n10 years. 180 school shootings. 356 victims.\nBlind Drunk\nUber Game\nWhat Africa will look like in 100 years\nONE NATION, TRACKED\nLife in the camps\nLife in Hong Kong’s shoebox housing\nThe Facebook Scandal\nNSA Files Decoded\nThe Deadliest Jobs in America\nCongressional Tweets\nThe Kim Foxx Effect\nWhat makes a titletown?\nHigh street crisis deepens\nThe use of political ads on facebook in the run-up to the European Parliament elections 2019 in Austria\nWhat the Democratic Presidential Candidates Care About, in 44,000 Tweets\nHow many high school stars make it in the NBA?\nBussed out\nInside the miracle of modern chip manufacturing\nMoney and Power: The Wealth of America’s Elected Officials\nHow online donations are fueling the election\nThe Making of Angela Merkel\nThe Millions Who Left\nWhy are things expensive?\nGetting a good job\nBuild a Voter\nThe real cost of seafood\nHow does rice get to your plate?\nJakarta’s roadside food sellers\nExploring the lungs of Asia\nThe Protein Problem",
     "crumbs": [
       "Data Visualization and Storytelling",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Data Journalism Tools and Stories</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Data Journalism Tools and Stories</span>"
     ]
   },
   {
@@ -844,34 +844,34 @@
   {
     "objectID": "resources/teaching/gen_teach_resources.html",
     "href": "resources/teaching/gen_teach_resources.html",
-    "title": "20  General Teaching Resources",
+    "title": "22  General Teaching Resources",
     "section": "",
-    "text": "20.1 Teaching STEM Subjects",
+    "text": "22.1 Teaching STEM Subjects\nThe general teaching resources page provides resources focused on teaching STEM subjects, as well as links to teaching aids for more efficient teaching.",
     "crumbs": [
       "Teaching Resources",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>General Teaching Resources</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>General Teaching Resources</span>"
     ]
   },
   {
     "objectID": "resources/teaching/gen_teach_resources.html#teaching-stem-subjects",
     "href": "resources/teaching/gen_teach_resources.html#teaching-stem-subjects",
-    "title": "20  General Teaching Resources",
+    "title": "22  General Teaching Resources",
     "section": "",
-    "text": "20.1.1 A curated collection of resources\n\nTeaching Tech Together\nMaintaining a laboratory notebook\nSubjects and Skills for Graduate Students in the Biological Sciences\nScientific Figure Design\nThe Mediocre Programmer\nTeach Yourself Programming in Ten Years\nSpurious Correlations and Associated Papers\nWonder Tools Teaching Toolkit\nWonder Tools Blog by Jeremy Caplan\nMaking Annotated Presentations\nOTTR - GitHub sites and courses for busy people\nLoqui: A Shiny app for Creating Automated Videos\n\n\n\n20.1.2 Preventing Cognitive Overload\n\nReducing Cognitive Overload While Teaching\nGive Your Brain a Break—Course Design Tips to Avoid Feeling Overwhelmed\nA programmer’s cognitive load\nHow do you use the redundancy principle to avoid cognitive overload?\nDesigning Project-Based Learning to Decrease Cognitive Load\nCognitive Load Theory And Instructional Design\n11 Science-Backed Ways to Prevent Cognitive Overload in eLearning",
+    "text": "22.1.1 A curated collection of resources\n\nTeaching Tech Together\nMaintaining a laboratory notebook\nSubjects and Skills for Graduate Students in the Biological Sciences\nScientific Figure Design\nThe Mediocre Programmer\nTeach Yourself Programming in Ten Years\nSpurious Correlations and Associated Papers\nWonder Tools Teaching Toolkit\nWonder Tools Blog by Jeremy Caplan\nMaking Annotated Presentations\nOTTR - GitHub sites and courses for busy people\nLoqui: A Shiny app for Creating Automated Videos\n\n\n\n22.1.2 Preventing Cognitive Overload\n\nReducing Cognitive Overload While Teaching\nGive Your Brain a Break—Course Design Tips to Avoid Feeling Overwhelmed\nA programmer’s cognitive load\nHow do you use the redundancy principle to avoid cognitive overload?\nDesigning Project-Based Learning to Decrease Cognitive Load\nCognitive Load Theory And Instructional Design\n11 Science-Backed Ways to Prevent Cognitive Overload in eLearning",
     "crumbs": [
       "Teaching Resources",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>General Teaching Resources</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>General Teaching Resources</span>"
     ]
   },
   {
     "objectID": "resources/teaching/gen_teach_resources.html#teaching-aids",
     "href": "resources/teaching/gen_teach_resources.html#teaching-aids",
-    "title": "20  General Teaching Resources",
-    "section": "20.2 Teaching Aids",
-    "text": "20.2 Teaching Aids\n\n20.2.1 Typing Test\n\nKeyboard Test\nTyping Test\n\n\n\n20.2.2 Simulations\n\nPhysics Education and Training Simulations\nCircuit simulation and schematics\nInteractive STEM activities\nGeoGebra for Teaching and Learning Math\nGeoGebra Simulations\n\n\n\n20.2.3 Online Textbooks\n\nFree and flexible textbooks and resources\nCollege Physics\n\n\n\n20.2.4 Design and Illustrations\n\nOne Page Website\nIllustrations\nBioRender Learning Hub\nBeautiful Free Stock Video Footage\n\n\n\n20.2.5 Miscellaneous Tools\n\nWhiteboard\nEtherpad\nActive Memory\nScientific Place\nSounds of Colleagues",
+    "title": "22  General Teaching Resources",
+    "section": "22.2 Teaching Aids",
+    "text": "22.2 Teaching Aids\n\n22.2.1 Typing Test\n\nKeyboard Test\nTyping Test\n\n\n\n22.2.2 Simulations\n\nPhysics Education and Training Simulations\nCircuit simulation and schematics\nInteractive STEM activities\nGeoGebra for Teaching and Learning Math\nGeoGebra Simulations\n\n\n\n22.2.3 Online Textbooks\n\nFree and flexible textbooks and resources\nCollege Physics\n\n\n\n22.2.4 Design and Illustrations\n\nOne Page Website\nIllustrations\nBioRender Learning Hub\nBeautiful Free Stock Video Footage\n\n\n\n22.2.5 Miscellaneous Tools\n\nWhiteboard\nEtherpad\nActive Memory\nScientific Place\nSounds of Colleagues",
     "crumbs": [
       "Teaching Resources",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>General Teaching Resources</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>General Teaching Resources</span>"
     ]
   },
   {
@@ -1324,23 +1324,23 @@
   {
     "objectID": "resources/programming/git_hub_cl_sql_docker.html",
     "href": "resources/programming/git_hub_cl_sql_docker.html",
-    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "title": "4  Git, GitHub, Command Line, SQL, and Docker",
     "section": "",
     "text": "4.1 Git\nThis page provides a comprehensive collection of resources focused on Git, GitHub, the Command Line, SQL, and Docker. On this page, you will find tutorials, books, and training materials that can get you started on the tools listed above.",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line, SQL, and Docker</span>"
     ]
   },
   {
     "objectID": "resources/programming/git_hub_cl_sql_docker.html#git",
     "href": "resources/programming/git_hub_cl_sql_docker.html#git",
-    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "title": "4  Git, GitHub, Command Line, SQL, and Docker",
     "section": "",
-    "text": "4.1.1 Basics and Summaries\n\nGit Basics\nGit Cheatsheet\nGit/GitHub Cheatsheet\nA Visual Git Reference\nVisualizing Git Concepts with D3\nGit Immersion\nLearn Git Branching\nIntroduction to Git & Github\nHow to Use Git/GitHub with R\ngit ready\nAn Intro to Git and GitHub for Beginners\nThe guide to Git I never had\n\n\n\n4.1.2 Books\n\nPro Git Book\nHappy Git and GitHub for the user\n\n\n\n4.1.3 Tutorials and Courses\n\nUnderstanding Git Conceptually\nBecome a git guru\nGit and RStudio\nGood Enough Practices in Scientific Computing\nVersion Control (Git)\nEffective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data\n\n\n\n4.1.4 Git Troubleshooting\n\nOn undoing, fixing, or removing commits in git\nFixing Common Git Mistakes",
+    "text": "4.1.1 Basics and Summaries\n\nGit Basics\nGit Cheatsheet\nGit/GitHub Cheatsheet\nA Visual Git Reference\nVisualizing Git Concepts with D3\nGit Immersion\nLearn Git Branching\nIntroduction to Git & Github\nHow to Use Git/GitHub with R\ngit ready\nAn Intro to Git and GitHub for Beginners\nThe guide to Git I never had\nVersion Control with Git\nOh My Git!\nLearn Git Branching\nOh Sh**, Git!?!\nGit Cheat Sheet\nVaccinate your global gitignore file\nThe guide to Git I never had.\nLearning Git and GitHub\n\n\n\n4.1.2 Books\n\nPro Git Book\nHappy Git and GitHub for the user\n\n\n\n4.1.3 Tutorials and Courses\n\nUnderstanding Git Conceptually\nBecome a git guru\nGit and RStudio\nGood Enough Practices in Scientific Computing\nVersion Control (Git)\nEffective Progress Tracking and Collaboration: An Introduction to Version Control of Code and Data\n\n\n\n4.1.4 Git Troubleshooting\n\nOn undoing, fixing, or removing commits in git\nFixing Common Git Mistakes",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line, SQL, and Docker</span>"
     ]
   },
   {
@@ -1357,34 +1357,34 @@
   {
     "objectID": "resources/programming/git_hub_cl_sql_docker.html#command-line-bash-unix-and-linux",
     "href": "resources/programming/git_hub_cl_sql_docker.html#command-line-bash-unix-and-linux",
-    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "title": "4  Git, GitHub, Command Line, SQL, and Docker",
     "section": "4.3 Command Line (Bash, UNIX, and Linux)",
     "text": "4.3 Command Line (Bash, UNIX, and Linux)\n\n4.3.1 Books\n\nCommand Line Basics for R Users\nData Science at the Command Line\n\n\n\n4.3.2 Lectures and Tutorials\n\nIntro to UNIX\nThe Unix Shell 1\nThe Unix Shell 2\n7 Command-Line Tools for Data Science\nRegular expressions\nUseful Unix commands for data science\nLinux Beginner’s Shell Cheat page\nThe practical command line cheat sheet\nA Beginner’s Guide to the Linux Command Line\nThe Linux command line for beginners )\nBash Scripting Tutorial\nLinux Tutorial\nRegular Expressions Tutorial\n\n\n\n4.3.3 Tools\n\ncsvlens",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line, SQL, and Docker</span>"
     ]
   },
   {
     "objectID": "resources/programming/git_hub_cl_sql_docker.html#sql",
     "href": "resources/programming/git_hub_cl_sql_docker.html#sql",
-    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "title": "4  Git, GitHub, Command Line, SQL, and Docker",
     "section": "4.4 SQL",
-    "text": "4.4 SQL\n\n4.4.1 Collection of SQL Resources\n\n21 of the best free resources to learn SQL\n\n\n\n4.4.2 Tutorials\n\nPostgreSQL Tutorial\nThe SQL Tutorial for Data Analysis\nSQL Hackerrank Channels\nSQL Tutorial 1\nSQL Tutorial 2\nSQLBolt\nSQL queries don’t start with SELECT\nA Visual Explanation of SQL Joins\nSQL Zoo",
+    "text": "4.4 SQL\n\n4.4.1 SQL Resources\n\n21 of the best free resources to learn SQL\nSelect Star SQL\n\n\n\n4.4.2 Tutorials\n\nPostgreSQL Tutorial\nThe SQL Tutorial for Data Analysis\nSQL Hackerrank Channels\nSQL Tutorial 1\nSQL Tutorial 2\nSQLBolt\nSQL queries don’t start with SELECT\nA Visual Explanation of SQL Joins\nSQL Zoo\nSQLNoir",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line, SQL, and Docker</span>"
     ]
   },
   {
     "objectID": "resources/programming/git_hub_cl_sql_docker.html#docker",
     "href": "resources/programming/git_hub_cl_sql_docker.html#docker",
-    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "title": "4  Git, GitHub, Command Line, SQL, and Docker",
     "section": "4.5 Docker",
-    "text": "4.5 Docker\n\n4.5.1 Tutorials\n\nCarpentries: Introduction to Docker",
+    "text": "4.5 Docker\n\n4.5.1 Tutorials\n\nCarpentries: Introduction to Docker\nThe Ultimate Beginner’s Guide to Docker",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line, SQL, and Docker</span>"
     ]
   },
   {
@@ -1392,7 +1392,7 @@
     "href": "resources/programming/shiny.html",
     "title": "5  Shiny",
     "section": "",
-    "text": "5.1 R Shiny",
+    "text": "5.1 R Shiny\nThis page provides a comprehensive collection of Shiny resources. On this page, you will find a list of personal websites and blogs that do some great work in R Shiny. Additionally, there is a list of resources (books, tutorials, and blogs) focused on the basics of Shiny.",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Shiny</span>"
@@ -1403,7 +1403,7 @@
     "href": "resources/programming/shiny.html#r-shiny",
     "title": "5  Shiny",
     "section": "",
-    "text": "5.1.1 Basics\n\na gRadual intRoduction to Shiny\nShiny Learning Resources\nHow to Start a Career as an R Shiny Developer\nShiny Apps development\nThe World’s Most Advanced R Shiny Dashboards\n\n\n\n5.1.2 Books\n\nMastering Shiny\nEngineering Production-Grade Shiny Apps\nOutstanding User Interfaces with Shiny\n\n\n\n5.1.3 Tutorials\n\nShiny Tutorials\nBuilding Web Applications WITH SHINY\nBuilding Shiny apps - an interactive tutorial\nBuilding Interactive World Maps in Shiny\nA webR powered Shiny app\n\n\n\n5.1.4 Tools\n\nHTML widgets flexdashboard\nhtmlwidgets for R\nRinteRface: HTML templates for Shiny\nLoading screens for Shiny: waiter\nshinyscholar\n\n\n\n5.1.5 Examples\n\nShiny in Life Sciences",
+    "text": "5.1.1 Basics\n\na gRadual intRoduction to Shiny\nShiny Learning Resources\nHow to Start a Career as an R Shiny Developer\nShiny Apps development\nThe World’s Most Advanced R Shiny Dashboards\n\n\n\n5.1.2 Books\n\nMastering Shiny\nEngineering Production-Grade Shiny Apps\nOutstanding User Interfaces with Shiny\n\n\n\n5.1.3 Tutorials\n\nShiny Tutorials\nBuilding Web Applications WITH SHINY\nBuilding Shiny apps - an interactive tutorial\nBuilding Interactive World Maps in Shiny\nA webR powered Shiny app\nFrom lab to real life: How your Shiny application can survive its users\n\n\n\n5.1.4 Tools\n\nHTML widgets flexdashboard\nhtmlwidgets for R\nRinteRface: HTML templates for Shiny\nLoading screens for Shiny: waiter\nshinyscholar\nGetting started with shinytest2\nShiny Assistant\nShinyUiEditor\n\n\n\n5.1.5 Examples\n\nShiny in Life Sciences",
     "crumbs": [
       "Programming",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Shiny</span>"
@@ -1412,34 +1412,34 @@
   {
     "objectID": "resources/programming/frontend_dev.html",
     "href": "resources/programming/frontend_dev.html",
-    "title": "7  Front-End Development",
+    "title": "7  Front-End Website Development",
     "section": "",
-    "text": "7.1 Languages",
+    "text": "7.1 Languages\nThis page contains a list of resources focused on front-end development.",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Development</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Website Development</span>"
     ]
   },
   {
     "objectID": "resources/programming/frontend_dev.html#languages",
     "href": "resources/programming/frontend_dev.html#languages",
-    "title": "7  Front-End Development",
+    "title": "7  Front-End Website Development",
     "section": "",
-    "text": "7.1.1 HTML\n\n\nLearn HTML and CSS\n\n\n\n\n7.1.2 CSS\n\n\nLearn HTML and CSS\n\n\n\n\n7.1.3 Javascript\n\nEloquent Javascript\nMozilla Javascript\nLearn JavaScript\n\n\n\n\n7.1.4 Combined\n\nStandard - HTML/CSS/JS App",
+    "text": "7.1.1 HTML\n\nLearn HTML and CSS\nHTML-only websites\nHTML is for people\n\n\n\n7.1.2 CSS\n\nLearn HTML and CSS\nCharts.css\n\n\n\n7.1.3 Javascript\n\nEloquent Javascript\nMozilla Javascript\nLearn JavaScript\n\n\n\n7.1.4 Combined\n\nStandard - HTML/CSS/JS App",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Development</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Website Development</span>"
     ]
   },
   {
     "objectID": "resources/programming/frontend_dev.html#frameworks",
     "href": "resources/programming/frontend_dev.html#frameworks",
-    "title": "7  Front-End Development",
+    "title": "7  Front-End Website Development",
     "section": "7.2 Frameworks",
     "text": "7.2 Frameworks\n\n7.2.1 React\n\nReact - The library for web and native user interfaces\nLearn React",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Development</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Website Development</span>"
     ]
   },
   {
@@ -1478,23 +1478,23 @@
   {
     "objectID": "resources/programming/git_hub_cl_sql_docker.html#github-and-gitlab",
     "href": "resources/programming/git_hub_cl_sql_docker.html#github-and-gitlab",
-    "title": "4  Git, GitHub, Command Line,SQL, and Docker",
+    "title": "4  Git, GitHub, Command Line, SQL, and Docker",
     "section": "4.2 GitHub and GitLab",
     "text": "4.2 GitHub and GitLab\n\n4.2.1 Basics\n\nGetting started with Git and GitHub: the complete beginner’s guide\nAn Intro to Git and GitHub for Beginners (Tutorial)\nGet started with Git and GitHub\nMastering GitHub in 4 Steps\nGitHub for supporting, reusing, contributing, and failing safely\n\n\n\n4.2.2 Training and Tutorials\n\nIntroducing GitHub Global Campus\nCollaboration, version control and learning to commit\nMaking Your First GitHub R Project\nLearn GitLab with tutorials\n\n\n\n4.2.3 Applications\n\nIntroduction to GitHub Actions to R users\nHow to effortlessly create a website for free with GitHub Pages\nIntroducing Jekyll Now for GitHub-hosted blogs\nSoftware development practices",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line,SQL, and Docker</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Git, GitHub, Command Line, SQL, and Docker</span>"
     ]
   },
   {
     "objectID": "resources/programming/frontend_dev.html#good-website-examples",
     "href": "resources/programming/frontend_dev.html#good-website-examples",
-    "title": "7  Front-End Development",
+    "title": "7  Front-End Website Development",
     "section": "7.3 Good Website Examples",
     "text": "7.3 Good Website Examples\n\nKOST",
     "crumbs": [
       "Programming",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Development</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Website Development</span>"
     ]
   },
   {
@@ -1769,6 +1769,50 @@
     "crumbs": [
       "Bio-X: All things Bio",
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Bioinformatics and Computational Biology (Part 1)</span>"
+    ]
+  },
+  {
+    "objectID": "resources/ds_ml_ai/text_music_analysis.html",
+    "href": "resources/ds_ml_ai/text_music_analysis.html",
+    "title": "12  Text and Music Analysis",
+    "section": "",
+    "text": "12.1 Text Analysis\nOn this page, there is a comprehensive collection of resources focused on social media and music analysis. The page includes links to books, courses, and tutorials that can help with social media, music, and lyric analysis.",
+    "crumbs": [
+      "Data Science, Machine Learning, and Artificial Intelligence",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Text and Music Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "resources/ds_ml_ai/text_music_analysis.html#text-analysis",
+    "href": "resources/ds_ml_ai/text_music_analysis.html#text-analysis",
+    "title": "12  Text and Music Analysis",
+    "section": "",
+    "text": "12.1.1 Books\n\nText Mining with R\nSocial Media Mining\nSocial Media Mining (Slides)\nTwitter sentiment analysis in R\nQuantEDA\n\n\n\n12.1.2 Tutorials\n\nANALYSING TWITTER DATA WITH R\nANALYSING TWITTER DATA: EXPLORING USER PROFILES AND RELATIONSHIPS\nANALYSING TWITTER DATA: EXPLORING TWEETS CONTENT\n4 ways how to create a gradient word cloud in R\nAnalyzing Google Trends with R: Retrieve and plot with gtrendsR\nQuantitative Analysis of Political Text\nClassifying Tweets for Sentiment Analysis\nAdvancing Text Mining with R and quanteda\nUsing Twitter With Python And Tweepy\nUsing Twitter as a data source an overview of social media research tools (2021)\nTwitter “Account Analysis” in R\nCalculating (Twitter) Vocabulary Breadth of U.S. Presidential Candidates Using TTR\nTwitter data analysis in R\nTwitter’s Feelings About Programming Languages\nLook who’s tweeting: 2020 Presidential Candidates\nA TidyText Analysis With R\nGetting started with stringr for textual analysis in R\nText Mining and Presidential Address\nIntroduction to tidytext\ntidytext: Text mining using tidy tools\nSentiment Analysis of The Office\nIntroduction to Text Mining with R\nSentiment Analysis and Text Mining with R: Word Clouds, NRC Lexicon, and Scores\nSentiment Analysis with Python\nAdvancing Text Mining with R and quanteda\n\n\n\n12.1.3 Courses and Resources\n\nText As Data\nText Analysis: Text Analysis Using R\n\n\n\n12.1.4 Projects\n\ntwitter-sentiment-analysis\nAnalytics Master’s Research Project",
+    "crumbs": [
+      "Data Science, Machine Learning, and Artificial Intelligence",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Text and Music Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "resources/ds_ml_ai/text_music_analysis.html#music-and-lyric-analysis",
+    "href": "resources/ds_ml_ai/text_music_analysis.html#music-and-lyric-analysis",
+    "title": "12  Text and Music Analysis",
+    "section": "12.2 Music and Lyric Analysis",
+    "text": "12.2 Music and Lyric Analysis\n\n12.2.1 Basics\n\nSpotify R&D\nspotifyr package\n13 best websites to analyze your Spotify data\n\n\n\n12.2.2 Tutorials\n\nSpotify Songs: Tidy Tuesday\nHow to integrate Spotify and Genius API to easily crawl song lyrics with Python\nProfiling Songs on Spotify Using Cluster Analysis\nSentiment Analysis of Most Streamed Spotify Artists\nLyric Analysis with NLP & Machine Learning with R\nWhat’s popping?: An Exploratory Analytics Project on What Makes Popular Music Popular\nAnalysis of my Spotify in R with spotifyr package\nGame of Thrones: Exploratory and Sentiment Analysis\ntayloR\nExploring the Spotify API with R\nLearn tidytext with my new learnr course\nText mining with tidy data principles\nAre Pop Lyrics Getting More Repetitive?\nSpotify Songs: An analysis of the spotify dataset\nFitteR HappieR\nData Wrangling - Spotify Dataset Analysis\nUnderstanding + classifying genres using Spotify audio features\nWhat Makes a Hit\nWhat Makes Songs Popular? It’s All About ‘You’\nCan big data really predict what makes a song popular?\nPCA and the #TidyTuesday best hip hop songs ever\nBlue Christmas: A data-driven search for the most depressing Christmas song\nUsing Data to Find the Angriest Death Grips Song\nSpotify songs popularity analysis\nNigerian Songs Spotify EDA\nSentiment Analysis of Spotify, Amazon Music, and Pandora user reviews\nHow to download YouTube data in R using “tuber” and “purrr”\nHow to download song lyrics from Genius using Python",
+    "crumbs": [
+      "Data Science, Machine Learning, and Artificial Intelligence",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Text and Music Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "resources/programming/frontend_dev.html#deployment",
+    "href": "resources/programming/frontend_dev.html#deployment",
+    "title": "7  Front-End Website Development",
+    "section": "7.4 Deployment",
+    "text": "7.4 Deployment\n\nA Step-by-Step Guide: Deploying on Netlify\nHosting your website on Github",
+    "crumbs": [
+      "Programming",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Front-End Website Development</span>"
     ]
   }
 ]

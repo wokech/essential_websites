@@ -43,12 +43,10 @@ On this page, there is a comprehensive collection of resources focused on social
 24) [Sentiment Analysis with Python](https://www.red-gate.com/simple-talk/business-intelligence/data-science/sentiment-analysis-python/)
 25) [Advancing Text Mining with R and quanteda](https://www.r-bloggers.com/2019/10/advancing-text-mining-with-r-and-quanteda/)
 
-
 ### Courses and Resources
 
-1) [Text As Data](https://joeornstein.github.io/text-as-data/)
-2) [Text Analysis: Text Analysis Using R](https://guides.library.upenn.edu/penntdm/r)
-
+1)  [Text As Data](https://joeornstein.github.io/text-as-data/)
+2)  [Text Analysis: Text Analysis Using R](https://guides.library.upenn.edu/penntdm/r)
 
 ### Projects
 
