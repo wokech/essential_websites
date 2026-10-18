@@ -54,7 +54,7 @@ This page provides a comprehensive collection of resources on sports data scienc
 1)  [EightyFivePoints Reading List & Data](http://eightyfivepoints.blogspot.com/p/reading-list.html)
 2)  [Sports analytics reading list](https://www.brendankent.com/blog/sports-analytics-reading-list)
 3)  [Sports analytics conference video archives](https://www.brendankent.com/blog/where-to-watch-sports-analytics-conference-video-archives)
-4)  [Journal of Sports Analytics](https://journalofsportsanalytics.com/)
+4)  [Journal of Sports Analytics](https://journals.sagepub.com/home/jsa)
 5)  [Journal of Quantitative Analysis in Sports](https://www.degruyter.com/journal/key/jqas/html)
 
 ## Tools and Databases
@@ -95,7 +95,7 @@ This page provides a comprehensive collection of resources on sports data scienc
 9)  [Training Ground Guru](https://trainingground.guru/)
 10) [SportSciData](https://sportscidata.com/)
 11) [FourFourTwo](https://www.fourfourtwo.com/)
-12) [Twelve Football](https://twelve.football/premierleague)
+12) [Football Charts — Open Football Data, Dixon-Coles Probabilities & 10,000-Run Projections](https://www.football-charts.com)
 13) [Football Science](https://www.footballscience.net/)
 14) [THE DATA CRUNCHING FOOTBALL EXPERT](https://analytics.twelve.football/analytics)
 15) [worldfootballR](https://jaseziv.github.io/worldfootballR/index.html)
@@ -126,7 +126,7 @@ This page provides a comprehensive collection of resources on sports data scienc
 #### Soccer
 
 1)  [Adding Football Crests to Scatter Plots in R](https://dm13450.github.io/2021/02/01/PointsToImages.html)
-2)  [How Our Club Soccer Predictions Work](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/)
+2)  [How Our Club Soccer Predictions Work](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/) *(archived; for an active interactive reference see the [Dixon–Coles & Fair-Odds Calculator](https://www.football-charts.com/tools/dixon-coles-calculator))*
 3)  [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football)
 4)  [Data in Elite Sport](https://jacquietran.github.io/2019_may_rladies_akl/R/#1)
 5)  [COMPUTER VISION IN SPORT](https://www.sportperformanceanalysis.com/article/computer-vision-in-sport)
