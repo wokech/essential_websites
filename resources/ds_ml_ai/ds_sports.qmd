@@ -66,13 +66,11 @@ This page provides a comprehensive collection of resources on sports data scienc
 3)  [SportsDataVerse](https://sportsdataverse.org/)
 4)  [Sports guideR](https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=1034341673)
 5)  [Sports Reference](https://www.sports-reference.com/)
-6)  [SFU Sports Analytics Group Virtual Seminar](http://www.sfu.ca/sportsanalytics/Seminars.html)
-7)  [Brescia BDAS Lab](https://bodai.unibs.it/bdsports/#block-1)
-8)  [SPORT PERFORMANCE ANALYSIS](https://www.sportperformanceanalysis.com/)
-9)  [Bruin Sports Analytics](https://www.bruinsportsanalytics.com/)
-10) [Spotrac](https://www.spotrac.com/)
-11) [THE GREAT ANALYTICS RANKINGS](http://www.espn.com/espn/feature/story/_/id/12331388/the-great-analytics-rankings)
-12) [Sport Informatics and Analytics](https://wikieducator.org/Sport_Informatics_and_Analytics/Pattern_Recognition/Using_R#cite_note-45)
+6)  [Brescia BDAS Lab](https://bodai.unibs.it/bdsports/#block-1)
+7)  [SPORT PERFORMANCE ANALYSIS](https://www.sportperformanceanalysis.com/)
+8)  [Spotrac](https://www.spotrac.com/)
+9)  [THE GREAT ANALYTICS RANKINGS](http://www.espn.com/espn/feature/story/_/id/12331388/the-great-analytics-rankings)
+10) [Sport Informatics and Analytics](https://wikieducator.org/Sport_Informatics_and_Analytics/Pattern_Recognition/Using_R#cite_note-45)
 
 ### Soccer
 
@@ -89,18 +87,17 @@ This page provides a comprehensive collection of resources on sports data scienc
 3)  [American Soccer Analysis](https://www.americansocceranalysis.com/)
 4)  [Total Football Analysis](https://totalfootballanalysis.com/)
 5)  [Learn Python & Data Science With Football](https://fcpython.com/)
-6)  [Learn R & Data Science With Football](http://www.fcrstats.com/)
-7)  [Experimental 361](https://experimental361.com/)
-8)  [Barca Innovation Hub](https://barcainnovationhub.com/)
-9)  [Training Ground Guru](https://trainingground.guru/)
-10) [SportSciData](https://sportscidata.com/)
-11) [FourFourTwo](https://www.fourfourtwo.com/)
-12) [Football Charts](https://www.football-charts.com)
-13) [Football Science](https://www.footballscience.net/)
-14) [THE DATA CRUNCHING FOOTBALL EXPERT](https://analytics.twelve.football/analytics)
-15) [worldfootballR](https://jaseziv.github.io/worldfootballR/index.html)
-16) [Languages and tools to learn for sports analytics](https://www.brendankent.com/blog/languages-and-tools-to-learn-for-sports-analytics)
-17) [Coding for sports analytics](https://www.brendankent.com/blog/coding-for-sports-analytics-resources-to-get-started)
+6)  [Experimental 361](https://experimental361.com/)
+7)  [Barca Innovation Hub](https://barcainnovationhub.com/)
+8)  [Training Ground Guru](https://trainingground.guru/)
+9)  [SportSciData](https://sportscidata.com/)
+10) [FourFourTwo](https://www.fourfourtwo.com/)
+11) [Football Charts](https://www.football-charts.com)
+12) [Football Science](https://www.footballscience.net/)
+13) [THE DATA CRUNCHING FOOTBALL EXPERT](https://analytics.twelve.football/analytics)
+14) [worldfootballR](https://jaseziv.github.io/worldfootballR/index.html)
+15) [Languages and tools to learn for sports analytics](https://www.brendankent.com/blog/languages-and-tools-to-learn-for-sports-analytics)
+16) [Coding for sports analytics](https://www.brendankent.com/blog/coding-for-sports-analytics-resources-to-get-started)
 
 #### Databases
 
@@ -109,7 +106,8 @@ This page provides a comprehensive collection of resources on sports data scienc
 3)  [The Fjelstul World Cup Database](https://github.com/jfjelstul/worldcup)
 4)  [StatsBomb Open Data](https://github.com/statsbomb/open-data)
 5)  [Football Data UK](https://www.football-data.co.uk/data.php)
-6)  [SoFIFA](https://sofifa.com/)
+6)  [TipsAudit: football closing prices, margin-free probabilities and results (CSV, CC BY 4.0)](https://tipsaudit.com/data)
+7)  [SoFIFA](https://sofifa.com/)
 
 #### American Football
 
